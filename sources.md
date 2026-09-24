@@ -1,5 +1,7 @@
 # Stanford event sources to track
-# Curated 2026-09-23 for Savil — research only; daily scrape not started yet
+# Curated 2026-09-23. v1 scrapes only the three sources named in the README
+# (events.stanford.edu, including Bing Concert Hall; HCI seminar; HAI).
+# Everything else on this list is deferred. Do not add those scrapers yet.
 
 ## Already named by user
 - https://events.stanford.edu/

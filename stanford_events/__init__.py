@@ -1,3 +1,3 @@
-"""Stanford events SPIKE: scrape + normalize a few calendar sources."""
+"""Stanford events: scrape three calendars into a by-day public listing."""
 
-__version__ = "0.1.0"
+__version__ = "1.0.0"

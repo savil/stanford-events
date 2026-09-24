@@ -1,6 +1,6 @@
 # Stanford events
 
-_Generated 2026-09-23 17:15 PDT_
+_Generated 2026-09-23 17:35 PDT_
 
 ## 2026-09-23 Wednesday
 
@@ -243,7 +243,7 @@ _Generated 2026-09-23 17:15 PDT_
 - **New Spaces Open House** — 2:30 PM – 4:00 PM @ Suite 4, 459 Lagunita Drive · _Stanford only_
   - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/new-spaces-open-house)
   - Join Stanford Student Affairs Meeting Services (SAMS) and The Office of Student Engagement (OSE) for an Open House on Friday, September 25, from 2:30–4:00 pm! Stop by Suite 4, a welcoming new space in the heart of campus where students can host events and meetings. Enjoy walking…
-- **Precourt Institute special event: Battery fast charging for affordable and sustainable electrification** — 3:00 PM – 4:00 PM @ Y2E2 Building, Room 299, 473 Via Ortega, Stanford, CA 94305 · _Public_
+- **Precourt Institute special event: Battery fast charging for affordable and sustainable EVs** — 3:00 PM – 4:00 PM @ Y2E2 Building, Room 299, 473 Via Ortega, Stanford, CA 94305 · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/precourt-special-event-battery-fast-charging-for-affordable-and-sustainable-electrification)
   - Smaller, faster-charging batteries are the answer for affordable and sustainable electric vehicles for everyone, everywhere. It can cut EV costs, lower demand for critical minerals, and deliver a gas station-type experience. However, 10-minute charging of today’s batteries requi…
 - **Five Years after the Youth Protests: The Thai Monarchy Strikes Back** — 4:00 PM – 5:30 PM @ Encina Hall, Room Philippines Conference Room, 616 Jane Stanford Way, Stanford, CA 94305 · _Public_
@@ -2212,7 +2212,7 @@ _Generated 2026-09-23 17:15 PDT_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/touch-me-not-12th-annual-undergraduate-juried-exhibition)
   - Presented by the Department of Art & Art History, the 12th Annual Undergraduate Juried Exhibition, Touch Me Not, showcases a campus-wide selection of artwork by twenty-two Stanford undergraduate students. Touch Me Not: 12th Annual Undergraduate Juried Exhibition On View: October…
 - **2026 Explore Energy Expo** — 3:00 PM – 5:00 PM @ Y2E2 Building, Room Courtyard (outside Coupa Cafe), 473 Via Ortega, Stanford, CA 94305 · _Stanford only_
-  - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/copy-of-2025-explore-energy-expo)
+  - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/2026-explore-energy-expo)
   - Interested in Sustainability? Want to accelerate the clean energy transition? Curious about Everything Energy at Stanford? Join us at the Expo! If you are interested in the field of energy, from any perspective, tech, policy, research, finance or education then this is the event…
 - **Rooted! Black Graduate Student Support Group** — 3:00 PM – 4:00 PM @ Vaden Student Health Center, 866 Campus Drive, Stanford, CA 94305 · _Stanford only_
   - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/copy-of-rooted-black-graduate-student-support-group-948)

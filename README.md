@@ -18,7 +18,7 @@ More sources come later. The longer wishlist in [`sources.md`](sources.md) is no
 
 One source failing does not fail the run. The error is stored in `out/errors.json` and noted on the page. The run fails only when every source fails, so an empty calendar is not published over the last good listing.
 
-There are no topic filters. Audience is shown as a badge:
+There are no topic filters. Audience is shown as a badge, and the listing can filter to Public and/or Stanford only. Neither selected shows every event, including Unknown. A selection hides the other audiences (Unknown stays hidden until both toggles are off). The choice is stored in the page URL (`?audience=public`, `?audience=stanford`, or `?audience=public,stanford`; `#audience=public` works too).
 
 | Value | Badge |
 |-------|-------|

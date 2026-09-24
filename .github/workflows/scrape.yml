@@ -1,10 +1,11 @@
-# Weekday morning Pacific scrape. GitHub cron is UTC:
-# 15:32 UTC = 8:32am PDT, and 7:32am PST.
+# Weekday scrape at 3:00 AM PST / 4:00 AM PDT.
+# GitHub cron is UTC and does not follow DST (11:00 UTC).
 name: Scrape and publish
 
 on:
   schedule:
-    - cron: "32 15 * * 1-5"
+    # 3:00 AM PST / 4:00 AM PDT. GitHub cron is UTC and does not follow DST.
+    - cron: '0 11 * * 1-5'
   workflow_dispatch:
 
 permissions:

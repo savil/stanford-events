@@ -90,7 +90,7 @@ Each event in `out/events.json`:
 
 [`.github/workflows/scrape.yml`](.github/workflows/scrape.yml) (`Scrape and publish`):
 
-- **Schedule:** weekdays at 15:32 UTC (`32 15 * * 1-5`), which is 8:32am PDT and 7:32am PST. GitHub may start the job a few minutes late.
+- **Schedule:** weekdays at 11:00 UTC (`0 11 * * 1-5`), which is 3:00 AM PST and 4:00 AM PDT. GitHub may start the job a few minutes late.
 - **Manual:** Actions → Scrape and publish → Run workflow (`workflow_dispatch`).
 - Installs Python 3.12 and `requirements.txt`, runs the unit tests, then `python -m stanford_events --days 30 --out out`.
 - Commits refreshed `out/` back to the branch the workflow ran on (the schedule uses `main`) as `github-actions[bot]`.

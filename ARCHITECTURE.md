@@ -93,7 +93,7 @@ The static page badges those three values as Public, Stanford only, and Unknown.
 
 [`.github/workflows/scrape.yml`](.github/workflows/scrape.yml) (`Scrape and publish`):
 
-- Schedule: `32 15 * * 1-5` (15:32 UTC; 8:32am PDT, 7:32am PST). GitHub may start it a few minutes late.
+- Schedule: `0 11 * * 1-5` (11:00 UTC; 3:00 AM PST). During PDT the same cron fires at 4:00 AM local. GitHub may start it a few minutes late.
 - Also `workflow_dispatch` (Actions → Scrape and publish → Run workflow).
 - Python 3.12, `pip install -r requirements.txt`, `python -m unittest discover -s tests -v`, then `python -m stanford_events --days 30 --out out`.
 - Commits `out/` on the branch the workflow ran on (`github-actions[bot]`, message `Refresh Stanford events listing`) when the tree changed. The schedule uses `main`.

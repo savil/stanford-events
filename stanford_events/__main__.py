@@ -1,4 +1,4 @@
-"""CLI: scrape Localist + HCI Seminar + HAI, write out/*.json and previews."""
+"""CLI: scrape Localist + HCI Seminar + HAI, write out/events.json and the by-day page."""
 
 from __future__ import annotations
 
@@ -33,7 +33,7 @@ def _run_source(name: str, fn, errors: list[dict]) -> list:
 
 
 def main(argv: list[str] | None = None) -> int:
-    parser = argparse.ArgumentParser(description="Stanford events SPIKE scraper")
+    parser = argparse.ArgumentParser(description="Scrape Stanford events into out/")
     parser.add_argument(
         "--out",
         type=Path,
@@ -85,10 +85,23 @@ def main(argv: list[str] | None = None) -> int:
     md_path = out_dir / "sample-preview.md"
     html_path = out_dir / "index.html"
 
-    events_path.write_text(json.dumps(final, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     errors_path.write_text(json.dumps(errors, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    # Every source failed: keep the last good listing on disk and fail the job
+    # so the Action does not commit an empty calendar.
+    if not final and errors:
+        print(f"Wrote {errors_path} ({len(errors)} errors)", flush=True)
+        print("Errors:", file=sys.stderr)
+        for err in errors:
+            print(f"  - {err['source']}: {err['error']}", file=sys.stderr)
+        print("All sources failed; left the previous listing in place.", file=sys.stderr)
+        return 1
+
+    events_path.write_text(json.dumps(final, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     md_path.write_text(render_markdown(final), encoding="utf-8")
-    html_path.write_text(render_html(final), encoding="utf-8")
+    html_path.write_text(
+        render_html(final, errors=errors, days=args.days),
+        encoding="utf-8",
+    )
 
     print(f"Wrote {events_path} ({len(final)} events)", flush=True)
     print(f"Wrote {errors_path} ({len(errors)} errors)", flush=True)
@@ -102,6 +115,8 @@ def main(argv: list[str] | None = None) -> int:
     for e in final:
         by_src_aud.setdefault(e["source_name"], Counter())[e.get("audience", "unknown")] += 1
     print("Audience by source_name:", {k: dict(v) for k, v in by_src_aud.items()}, flush=True)
+    merged_across = sum(1 for e in final if e.get("also_sources"))
+    print(f"Cross-source collapses: {merged_across}", flush=True)
     if errors:
         print("Errors:", file=sys.stderr)
         for err in errors:

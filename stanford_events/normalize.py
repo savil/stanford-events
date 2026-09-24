@@ -4,7 +4,8 @@ from __future__ import annotations
 
 import hashlib
 import re
-from datetime import date, datetime, timedelta, timezone
+import unicodedata
+from datetime import date, datetime, timedelta
 from typing import Any, Literal
 from zoneinfo import ZoneInfo
 
@@ -157,33 +158,173 @@ def in_window(event: Event, start: datetime, end: datetime) -> bool:
     return start <= ev_start < end
 
 
-def dedupe(events: list[Event]) -> list[Event]:
-    """Dedupe exact ids; within a source_url also collapse same title+day.
+def normalize_title(title: str) -> str:
+    """Casefold and strip punctuation so near-duplicate titles can be compared."""
+    text = unicodedata.normalize("NFKC", title or "").casefold()
+    text = text.replace("_", " ")
+    text = re.sub(r"[^\w\s]", " ", text, flags=re.UNICODE)
+    return re.sub(r"\s+", " ", text).strip()
 
-    Cross-source duplicates (e.g. HAI talk also on Localist) are kept so reviewers
-    can compare parser shapes.
+
+def titles_near(a: str, b: str) -> bool:
+    """True when titles are the same phrase, or one adds only a short suffix.
+
+    "Bay Area Tech Economics Seminar" and
+    "Bay Area Tech Economics Seminar with Rehan Khan" match.
+    A short shared word, or a much longer different title, does not.
+    """
+    ka, kb = normalize_title(a), normalize_title(b)
+    if not ka or not kb:
+        return False
+    if ka == kb:
+        return True
+    shorter, longer = (ka, kb) if len(ka) <= len(kb) else (kb, ka)
+    if len(shorter) < 28 or len(shorter) / len(longer) < 0.62:
+        return False
+    if not (
+        longer.startswith(shorter + " ")
+        or longer.endswith(" " + shorter)
+        or f" {shorter} " in f" {longer} "
+    ):
+        return False
+    extra = longer.replace(shorter, " ", 1)
+    extra_words = [w for w in extra.split() if w]
+    return len(extra_words) <= 4
+
+
+def _clock_is_midnight(dt: datetime) -> bool:
+    local = ensure_aware(dt)
+    return local.hour == 0 and local.minute == 0 and local.second == 0
+
+
+def starts_near(a: str | None, b: str | None, *, allow_date_only: bool) -> bool:
+    """Same Pacific calendar day and nearly the same clock time.
+
+    When ``allow_date_only`` is set (exact title match), a midnight placeholder
+    from a date-only listing matches a timed listing on that day.
+    """
+    da, db = parse_datetime(a), parse_datetime(b)
+    if da is None or db is None:
+        return False
+    if da.astimezone(PT).date() != db.astimezone(PT).date():
+        return False
+    if abs((da - db).total_seconds()) <= 15 * 60:
+        return True
+    if allow_date_only and (_clock_is_midnight(da) or _clock_is_midnight(db)):
+        return True
+    return False
+
+
+def _richness(ev: Event) -> tuple:
+    start = parse_datetime(ev.get("start"))
+    has_clock = 0 if (start is None or _clock_is_midnight(start)) else 1
+    audience_known = 0 if (ev.get("audience") or "unknown") == "unknown" else 1
+    return (
+        audience_known,
+        has_clock,
+        1 if ev.get("location") else 0,
+        1 if ev.get("end") else 0,
+        len(ev.get("description") or ""),
+    )
+
+
+def _merge_pair(primary: Event, secondary: Event) -> Event:
+    """Keep the richer record and fill gaps from the other source."""
+    if _richness(secondary) > _richness(primary):
+        primary, secondary = secondary, primary
+    merged = dict(primary)
+    for field in ("end", "location", "description", "url"):
+        if not merged.get(field) and secondary.get(field):
+            merged[field] = secondary[field]
+    if (merged.get("audience") or "unknown") == "unknown" and secondary.get("audience") not in (
+        None,
+        "unknown",
+    ):
+        merged["audience"] = secondary["audience"]
+    p_start = parse_datetime(merged.get("start"))
+    s_start = parse_datetime(secondary.get("start"))
+    if (
+        p_start
+        and s_start
+        and _clock_is_midnight(p_start)
+        and not _clock_is_midnight(s_start)
+    ):
+        merged["start"] = secondary["start"]
+        if secondary.get("end"):
+            merged["end"] = secondary["end"]
+    also: list[str] = []
+    for name in (
+        *(primary.get("also_sources") or []),
+        secondary.get("source_name"),
+        *(secondary.get("also_sources") or []),
+    ):
+        if name and name != merged.get("source_name") and name not in also:
+            also.append(name)
+    if also:
+        merged["also_sources"] = also
+    else:
+        merged.pop("also_sources", None)
+    return merged
+
+
+def dedupe(events: list[Event]) -> list[Event]:
+    """Collapse exact ids and near-identical title+start across sources.
+
+    Titles match when they normalize to the same phrase, or one only adds a
+    short suffix. Starts match within 15 minutes on the same Pacific day.
+    An exact title also matches when one source only stored a date (midnight).
+    The kept row prefers a known audience, a real clock time, location, and a
+    description; other source names are recorded on ``also_sources``.
+    Distinct times on the same day stay separate.
     """
     by_id: dict[str, Event] = {}
     for ev in events:
-        by_id.setdefault(ev["id"], ev)
+        prev = by_id.get(ev["id"])
+        by_id[ev["id"]] = ev if prev is None else _merge_pair(prev, ev)
 
-    seen_keys: set[tuple[str, str, str]] = set()
-    out: list[Event] = []
+    buckets: dict[str, list[Event]] = {}
     for ev in by_id.values():
-        title_key = re.sub(r"\s+", " ", ev["title"].lower()).strip()
-        day = (ev.get("start") or "")[:10]
-        key = (ev.get("source_url") or "", title_key, day)
-        if key in seen_keys:
-            continue
-        seen_keys.add(key)
-        out.append(ev)
-    out.sort(key=lambda e: (e.get("start") or "", e.get("title") or ""))
-    return out
+        dt = parse_datetime(ev.get("start"))
+        day = dt.astimezone(PT).date().isoformat() if dt else ""
+        buckets.setdefault(day, []).append(ev)
+
+    merged: list[Event] = []
+    for group in buckets.values():
+        group.sort(key=lambda e: (e.get("start") or "", e.get("title") or "", e.get("source_name") or ""))
+        clusters: list[Event] = []
+        for ev in group:
+            placed = False
+            ev_title = ev.get("title") or ""
+            for i, canon in enumerate(clusters):
+                exact = normalize_title(ev_title) == normalize_title(canon.get("title") or "")
+                if titles_near(ev_title, canon.get("title") or "") and starts_near(
+                    ev.get("start"), canon.get("start"), allow_date_only=exact
+                ):
+                    clusters[i] = _merge_pair(canon, ev)
+                    placed = True
+                    break
+            if not placed:
+                clusters.append(ev)
+        merged.extend(clusters)
+    merged.sort(key=lambda e: (e.get("start") or "", e.get("title") or "", e.get("source_name") or ""))
+    return merged
 
 
-def filter_window(events: list[Event], days: int = 30) -> list[Event]:
-    start, end = window_bounds(days=days)
+def filter_window(events: list[Event], days: int = 30, now: datetime | None = None) -> list[Event]:
+    start, end = window_bounds(days=days, now=now)
     return [e for e in events if in_window(e, start, end)]
+
+
+def iter_window_dates(days: int = 30, now: datetime | None = None) -> list[date]:
+    """Inclusive Pacific dates from today through today+``days``."""
+    start, end = window_bounds(days=days, now=now)
+    dates: list[date] = []
+    d = start.date()
+    last = (end - timedelta(seconds=1)).date()
+    while d <= last:
+        dates.append(d)
+        d += timedelta(days=1)
+    return dates
 
 
 def today_pt() -> date:

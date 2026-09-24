@@ -429,19 +429,10 @@
     "source_name": "Stanford Events (Localist)",
     "source_url": "https://events.stanford.edu/",
     "description": "In a time when development progress has dipped to its weakest pace in 75 years, artificial intelligence (AI) offers developing economies a rare path to greater prosperity. World Development Report 2026 provides the first comprehensive assessment of what AI means for these econom…",
-    "audience": "unknown"
-  },
-  {
-    "id": "a5eddc7e98913f95",
-    "title": "World Development Report 2026: The Promise of Artificial Intelligence",
-    "start": "2026-09-24T09:00:00-07:00",
-    "end": "2026-09-24T16:15:00-07:00",
-    "location": null,
-    "url": "https://hai.stanford.edu/events/world-development-report-2026-the-promise-of-artificial-intelligence",
-    "source_name": "Stanford HAI",
-    "source_url": "https://hai.stanford.edu/events",
-    "description": null,
-    "audience": "unknown"
+    "audience": "unknown",
+    "also_sources": [
+      "Stanford HAI"
+    ]
   },
   {
     "id": "6064d46854a1c372",
@@ -960,8 +951,8 @@
     "audience": "stanford_only"
   },
   {
-    "id": "6e8d8b6b859b1ba8",
-    "title": "Precourt special event: Battery fast charging for affordable and sustainable electrification",
+    "id": "aa33fa23ac23fe4a",
+    "title": "Precourt Institute special event: Battery fast charging for affordable and sustainable electrification",
     "start": "2026-09-25T15:00:00-07:00",
     "end": "2026-09-25T16:00:00-07:00",
     "location": "Y2E2 Building, Room 299, 473 Via Ortega, Stanford, CA 94305",
@@ -1200,6 +1191,18 @@
     "audience": "stanford_only"
   },
   {
+    "id": "f2fbdc77d07167e4",
+    "title": "Public Tour | A Closer Look",
+    "start": "2026-09-26T15:00:00-07:00",
+    "end": "2026-09-26T16:00:00-07:00",
+    "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Discover new details, perspectives, and connections with Cantor’s “A Closer Look” tours. Led by a Stanford Student Guide or volunteer Museum Engagement Guide, each tour focuses on three to four artworks organized around a theme, providing participants with opportunities for cont…",
+    "audience": "open_to_public"
+  },
+  {
     "id": "d0f36d10e2bc05d8",
     "title": "Stanford Football vs Georgia Tech | Red Out",
     "start": "2026-09-26T19:30:00-07:00",
@@ -1390,6 +1393,18 @@
     "source_url": "https://events.stanford.edu/",
     "description": "Come to Green Library to see our Book Display on \"Cities and Urban Life.\" Featured books include city walking guides, travel books, historical atlases, novels, and more. Display is located in Hohbach Hall in Green Library.",
     "audience": "stanford_only"
+  },
+  {
+    "id": "cfb78e0b43f6b85e",
+    "title": "Public Tour | A Closer Look",
+    "start": "2026-09-27T15:00:00-07:00",
+    "end": "2026-09-27T16:00:00-07:00",
+    "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Discover new details, perspectives, and connections with Cantor’s “A Closer Look” tours. Led by a Stanford Student Guide or volunteer Museum Engagement Guide, each tour focuses on three to four artworks organized around a theme, providing participants with opportunities for cont…",
+    "audience": "open_to_public"
   },
   {
     "id": "67db4eb1a3058a7c",
@@ -2688,18 +2703,6 @@
     "audience": "open_to_public"
   },
   {
-    "id": "0a17dbc7297232a6",
-    "title": "Empirical Methods in the Age of AI",
-    "start": "2026-10-02T00:00:00-07:00",
-    "end": null,
-    "location": null,
-    "url": "https://hai.stanford.edu/events/empirical-methods-in-the-age-of-ai",
-    "source_name": "Stanford HAI",
-    "source_url": "https://hai.stanford.edu/events",
-    "description": null,
-    "audience": "unknown"
-  },
-  {
     "id": "96d3a07f1dc31819",
     "title": "Flash Sale Fridays",
     "start": "2026-10-02T00:00:00-07:00",
@@ -2793,7 +2796,10 @@
     "source_name": "Stanford Events (Localist)",
     "source_url": "https://events.stanford.edu/",
     "description": "Artificial intelligence is transforming how researchers collect, analyze, and learn from data. As AI systems become increasingly integrated into scientific discovery, business decision-making, and policy analysis, they are reshaping both the questions researchers can ask and the…",
-    "audience": "open_to_public"
+    "audience": "open_to_public",
+    "also_sources": [
+      "Stanford HAI"
+    ]
   },
   {
     "id": "35a645d3ea8d5f71",
@@ -3300,6 +3306,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "818f9ea431419659",
+    "title": "Public Tour | A Closer Look",
+    "start": "2026-10-03T15:00:00-07:00",
+    "end": "2026-10-03T16:00:00-07:00",
+    "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Discover new details, perspectives, and connections with Cantor’s “A Closer Look” tours. Led by a Stanford Student Guide or volunteer Museum Engagement Guide, each tour focuses on three to four artworks organized around a theme, providing participants with opportunities for cont…",
+    "audience": "open_to_public"
+  },
+  {
     "id": "c85081d73db6cd1a",
     "title": "Carolyn Lazard: Long Take",
     "start": "2026-10-04T00:00:00-07:00",
@@ -3429,6 +3447,18 @@
     "source_name": "Stanford Events (Localist)",
     "source_url": "https://events.stanford.edu/",
     "description": "Join us for casual in-gallery conversations in our special exhibition, JANE!, facilitated by our Museum Engagement Guides. Enjoy a spotlight tour focusining on a single object, followed by an open conversation. Curated by Associate Curator of European Art, Patrick R. Crowley, JA…",
+    "audience": "open_to_public"
+  },
+  {
+    "id": "0f073b7c57d8ba34",
+    "title": "Public Tour | A Closer Look",
+    "start": "2026-10-04T15:00:00-07:00",
+    "end": "2026-10-04T16:00:00-07:00",
+    "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Discover new details, perspectives, and connections with Cantor’s “A Closer Look” tours. Led by a Stanford Student Guide or volunteer Museum Engagement Guide, each tour focuses on three to four artworks organized around a theme, providing participants with opportunities for cont…",
     "audience": "open_to_public"
   },
   {
@@ -5148,18 +5178,6 @@
     "audience": "open_to_public"
   },
   {
-    "id": "60ad1187516a55d8",
-    "title": "White Plaza: Vaden Flourishing on the Farm: Flu & COVID-19 Vaccination Clinic",
-    "start": "2026-10-09T09:00:00-07:00",
-    "end": "2026-10-09T16:00:00-07:00",
-    "location": "White Plaza, White Memorial Plaza, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/white-plaza-vaden-flourishing-on-the-farm-flu-covid-19-vaccination-clinic-4590",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Keep Stanford Healthy: Campus Flu & COVID-19 Vaccination Clinic As we head into the autumn season, let’s work together to keep our campus safe, healthy, and thriving. We encourage all members of the Stanford community to take a proactive step in protecting themselves and their c…",
-    "audience": "open_to_public"
-  },
-  {
     "id": "12db5b961dbba332",
     "title": "Emergent Properties: Decennial Reflections on Collections",
     "start": "2026-10-09T09:30:00-07:00",
@@ -5532,6 +5550,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "942ccb857b38f58f",
+    "title": "Public Tour | A Closer Look",
+    "start": "2026-10-10T15:00:00-07:00",
+    "end": "2026-10-10T16:00:00-07:00",
+    "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Discover new details, perspectives, and connections with Cantor’s “A Closer Look” tours. Led by a Stanford Student Guide or volunteer Museum Engagement Guide, each tour focuses on three to four artworks organized around a theme, providing participants with opportunities for cont…",
+    "audience": "open_to_public"
+  },
+  {
     "id": "56f3b77d99cfced6",
     "title": "Carolyn Lazard: Long Take",
     "start": "2026-10-11T00:00:00-07:00",
@@ -5688,18 +5718,6 @@
     "audience": "open_to_public"
   },
   {
-    "id": "57ab2866a301d2f1",
-    "title": "Kronos Quartet with Mahsa and Marjan Vahdat: Placeless",
-    "start": "2026-10-11T14:30:00-07:00",
-    "end": null,
-    "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/kronos-quartet-with-mahsa-and-marjan-vahdat-placeless",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Join Stanford Live and the Hamid and Christina Moghadam Program in Iranian Studies for a performance by Kronos Quartet, featuring Mahsa and Marjan Vahdat. Kronos Quartet David Harrington, violin Gabriela Díaz, violin Ayane Kozasa, viola Paul Wiancko, cello with special guests, M…",
-    "audience": "open_to_public"
-  },
-  {
     "id": "1042f880c75c5a35",
     "title": "Kronos Quartet with Mahsa and Marjan Vahdat: Placeless",
     "start": "2026-10-11T14:30:00-07:00",
@@ -5709,6 +5727,21 @@
     "source_name": "Bing Concert Hall (Localist)",
     "source_url": "https://events.stanford.edu/bing_concert_hall",
     "description": "Join Stanford Live and the Hamid and Christina Moghadam Program in Iranian Studies for a performance by Kronos Quartet, featuring Mahsa and Marjan Vahdat. Kronos Quartet David Harrington, violin Gabriela Díaz, violin Ayane Kozasa, viola Paul Wiancko, cello with special guests, M…",
+    "audience": "open_to_public",
+    "also_sources": [
+      "Stanford Events (Localist)"
+    ]
+  },
+  {
+    "id": "9e21ba4f8c2c72cd",
+    "title": "Public Tour | A Closer Look",
+    "start": "2026-10-11T15:00:00-07:00",
+    "end": "2026-10-11T16:00:00-07:00",
+    "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Discover new details, perspectives, and connections with Cantor’s “A Closer Look” tours. Led by a Stanford Student Guide or volunteer Museum Engagement Guide, each tour focuses on three to four artworks organized around a theme, providing participants with opportunities for cont…",
     "audience": "open_to_public"
   },
   {
@@ -6444,6 +6477,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "d67284b5e8c6a72e",
+    "title": "Sustainability in Practice – Stories of Partnering for Impact",
+    "start": "2026-10-14T16:00:00-07:00",
+    "end": "2026-10-14T18:00:00-07:00",
+    "location": "Press Building, 425 Santa Teresa St.  Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/sustainability-in-practice-stories-of-partnering-for-impact",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Growing Oil Palm Sustainably: Working with Farmers for Change Can diversified oil palm plantations generate win-win outcomes? An experimental test co-designed with local farmers Featuring: Rodolfo Dirzo Sustainability in Practice is a conversation series that brings together sch…",
+    "audience": "stanford_only"
+  },
+  {
     "id": "91e9fdbe063f73bf",
     "title": "Center for African Studies Welcome Reception",
     "start": "2026-10-14T16:30:00-07:00",
@@ -6840,15 +6885,15 @@
     "audience": "open_to_public"
   },
   {
-    "id": "5003d6c084b3b86e",
-    "title": "Environmental Behavioral Sciences Seminar",
+    "id": "88fb22e6fed28a16",
+    "title": "Environmental Behavioral Sciences Seminar with Eugene Richardson",
     "start": "2026-10-15T13:15:00-07:00",
     "end": "2026-10-15T14:30:00-07:00",
     "location": "Y2E2 Building, Room 362, 473 Via Ortega, Stanford, CA 94305",
     "url": "https://events.stanford.edu/event/environmental-behavioral-sciences-seminar-7276",
     "source_name": "Stanford Events (Localist)",
     "source_url": "https://events.stanford.edu/",
-    "description": null,
+    "description": "Climate Change and Counteradaptation Mainstream climate research and policy often treat adaptation as a neutral, technical process, favoring top-down \"adjustment\" approaches. This seminar argues that these paradigms obscure how vulnerability in the Global South is actively produ…",
     "audience": "stanford_only"
   },
   {
@@ -7608,6 +7653,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "443fb40ff623ee1d",
+    "title": "Public Tour | A Closer Look",
+    "start": "2026-10-17T15:00:00-07:00",
+    "end": "2026-10-17T16:00:00-07:00",
+    "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Discover new details, perspectives, and connections with Cantor’s “A Closer Look” tours. Led by a Stanford Student Guide or volunteer Museum Engagement Guide, each tour focuses on three to four artworks organized around a theme, providing participants with opportunities for cont…",
+    "audience": "open_to_public"
+  },
+  {
     "id": "b4715caec63fb84c",
     "title": "CBD 2026: Structured Learning, Unstructured Wonder: Quaker Mindfulness at Summer Camp with Adair Arbor and Sam Green",
     "start": "2026-10-17T16:00:00-07:00",
@@ -7821,6 +7878,18 @@
     "source_name": "Stanford Events (Localist)",
     "source_url": "https://events.stanford.edu/",
     "description": "Explore the Cantor's collections with a museum engagement guide who will lead you through a selection of works from different cultures and time periods. Participants are welcomed to participate in the conversation and provide their thoughts on themes explored throughout the tour…",
+    "audience": "open_to_public"
+  },
+  {
+    "id": "f32c09f6f7166317",
+    "title": "Public Tour | A Closer Look",
+    "start": "2026-10-18T15:00:00-07:00",
+    "end": "2026-10-18T16:00:00-07:00",
+    "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Discover new details, perspectives, and connections with Cantor’s “A Closer Look” tours. Led by a Stanford Student Guide or volunteer Museum Engagement Guide, each tour focuses on three to four artworks organized around a theme, providing participants with opportunities for cont…",
     "audience": "open_to_public"
   },
   {
@@ -8649,19 +8718,10 @@
     "source_name": "Stanford Events (Localist)",
     "source_url": "https://events.stanford.edu/",
     "description": "More information on the event and speaker coming soon. The logistics details for each session will be provided to registered participants. Sign up here to be included on the mailing list and learn about future events. This talk is co-sponsored by USF's Master's in Applied Econom…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "f5fa730a4cd8602d",
-    "title": "Bay Area Tech Economics Seminar with Rehan Khan",
-    "start": "2026-10-20T18:30:00-07:00",
-    "end": "2026-10-20T20:30:00-07:00",
-    "location": null,
-    "url": "https://hai.stanford.edu/events/bay-area-tech-economics-seminar-with-tbd",
-    "source_name": "Stanford HAI",
-    "source_url": "https://hai.stanford.edu/events",
-    "description": null,
-    "audience": "unknown"
+    "audience": "open_to_public",
+    "also_sources": [
+      "Stanford HAI"
+    ]
   },
   {
     "id": "b30c9f970e3cd342",
@@ -9096,18 +9156,6 @@
     "audience": "unknown"
   },
   {
-    "id": "7934ab3686add8aa",
-    "title": "Autumn Quarter: MD Pre-clerkship Term Withdrawal Deadline",
-    "start": "2026-10-22T00:00:00-07:00",
-    "end": null,
-    "location": null,
-    "url": "https://events.stanford.edu/event/autumn-quarter-md-pre-clerkship-term-withdrawal-deadline-3127",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "This is the last day for MD pre-clerkship (MS1 and MS2) to submit a Leave of Absence for a partial refund.",
-    "audience": "unknown"
-  },
-  {
     "id": "29c35ec62ce458e8",
     "title": "Autumn Quarter: MD pre-clerkship term withdrawal deadline (5:00 p.m.)",
     "start": "2026-10-22T00:00:00-07:00",
@@ -9116,7 +9164,7 @@
     "url": "https://events.stanford.edu/event/md-pre-clerkship-term-withdrawal-deadline-500-pm",
     "source_name": "Stanford Events (Localist)",
     "source_url": "https://events.stanford.edu/",
-    "description": null,
+    "description": "This is the last day for MD pre-clerkship (MS1 and MS2) to submit a Leave of Absence for a partial refund.",
     "audience": "open_to_public"
   },
   {
@@ -9198,18 +9246,6 @@
     "end": "2026-10-22T16:00:00-07:00",
     "location": "Li Ka Shing Center, Room Berg Hall, 291 Campus Drive, Stanford, CA 94305",
     "url": "https://events.stanford.edu/event/9th-annual-stanford-maternal-and-child-health-research-institute-symposium",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Join us at the 9th Annual Stanford Maternal and Child Health Research Institute Symposium for Groundbreaking Research Stanford Maternal & Child Health Research Institute Symposium This year’s symposium central theme is “Correlations- -> Causation --> Cures” focusing on Discovery…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "6463d18d9df49a5d",
-    "title": "Copy of 9th Annual Stanford Maternal and Child Health Research Institute Symposium",
-    "start": "2026-10-22T08:00:00-07:00",
-    "end": "2026-10-22T16:00:00-07:00",
-    "location": "Li Ka Shing Center, Room Berg Hall, 291 Campus Drive, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/copy-of-9th-annual-stanford-maternal-and-child-health-research-institute-symposium",
     "source_name": "Stanford Events (Localist)",
     "source_url": "https://events.stanford.edu/",
     "description": "Join us at the 9th Annual Stanford Maternal and Child Health Research Institute Symposium for Groundbreaking Research Stanford Maternal & Child Health Research Institute Symposium This year’s symposium central theme is “Correlations- -> Causation --> Cures” focusing on Discovery…",

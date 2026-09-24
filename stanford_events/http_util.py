@@ -7,7 +7,10 @@ from typing import Any
 
 import requests
 
-USER_AGENT = "StanfordEventsSpike/0.1 (+local research; polite scrape; not a bot farm)"
+USER_AGENT = (
+    "StanfordEvents/1.0 (+https://savil.github.io/stanford-events/; "
+    "polite daily scrape; not a bot farm)"
+)
 DEFAULT_TIMEOUT = 30
 MIN_INTERVAL_SEC = 0.4
 

@@ -782,8 +782,8 @@ def render_html(
         [
             "</main>",
             '<footer class="site-footer"><div class="wrap">',
-            "<p>Sources in this version: Stanford Events (including Bing Concert Hall), "
-            "the HCI Seminar, and Stanford HAI. More sources come later.</p>",
+            "<p>Calendars include Stanford Events (Localist) plus school, venue, and "
+            "seminar pages. A source that fails is noted above and the rest are still listed.</p>",
             '<p>Times are Pacific (<code>America/Los_Angeles</code>). '
             'Machine-readable copy: <a href="events.json">events.json</a>.</p>',
             "<p>Not an official Stanford University site.</p>",

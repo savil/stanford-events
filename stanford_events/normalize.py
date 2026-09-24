@@ -68,6 +68,53 @@ def normalize_audience(value: str | None) -> Audience:
     return value  # type: ignore[return-value]
 
 
+# Audience-tag names shared by Localist and Drupal calendars.
+# A public tag wins. Campus-only tags with no public tag are stanford_only.
+# Anything else (including "By Invitation Only") stays unknown.
+PUBLIC_AUDIENCE_NAMES = frozenset(
+    {
+        "everyone",
+        "general public",
+        "open to the public",
+        "open to public",
+    }
+)
+STANFORD_AUDIENCE_NAMES = frozenset(
+    {
+        "students",
+        "students - undergraduates",
+        "students - graduates",
+        "postdocs",
+        "faculty",
+        "faculty/staff",
+        "staff",
+        "staff - academic",
+        "staff - managers",
+        "affiliates",
+        "alumni",
+        "alumni/friends",
+        "members",
+    }
+)
+
+
+def classify_audience_names(names: list[str] | None) -> Audience:
+    """Map a list of audience-tag names. Empty or unrecognized → unknown."""
+    cleaned = []
+    for name in names or []:
+        text = str(name).strip().lower()
+        if text:
+            cleaned.append(text)
+    if not cleaned:
+        return "unknown"
+    lowered = set(cleaned)
+    if lowered & PUBLIC_AUDIENCE_NAMES:
+        return "open_to_public"
+    if lowered <= STANFORD_AUDIENCE_NAMES:
+        return "stanford_only"
+    return "unknown"
+
+
 # Text classifiers shared by HTML sources (HAI listing/detail, etc.)
 _PUBLIC_RE = re.compile(
     r"(?i)\b(?:"
@@ -77,7 +124,9 @@ _PUBLIC_RE = re.compile(
     r"registration\s+open\s+to\s+all|"
     r"general\s+public|"
     r"everyone\s+is\s+welcome|"
-    r"free\s+and\s+open\s+to\s+the\s+public"
+    r"free\s+and\s+open\s+to\s+the\s+public|"
+    # "free and open to adults/anyone/…" but not "free and open to Stanford…"
+    r"free\s+and\s+open\s+to(?!\s+stanford\b|\s+the\s+stanford\b)"
     r")\b"
 )
 _STANFORD_ONLY_RE = re.compile(

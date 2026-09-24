@@ -5,34 +5,17 @@ from __future__ import annotations
 from typing import Any
 
 from .http_util import get
-from .normalize import Audience, Event, build_event, parse_datetime
+from .normalize import Audience, Event, build_event, classify_audience_names, parse_datetime
 
 SOURCE_NAME = "Stanford Events (Localist)"
 SOURCE_URL = "https://events.stanford.edu/"
 API_URL = "https://events.stanford.edu/api/2/events"
 
-# Bing Concert Hall place/venue id discovered via /api/2/places
+# Bing Concert Hall place/venue id discovered via /api/2/places.
+# A 2026-09-24 spot-check found Bing's in-window events already in the
+# unfiltered feed; the extra venue query stays so a venue-only row is not lost.
 BING_VENUE_ID = 37946728938604
 BING_SOURCE_URL = "https://events.stanford.edu/bing_concert_hall"
-
-# Localist filters.event_audience names that mean open to the public.
-_PUBLIC_AUDIENCE_NAMES = frozenset({"everyone", "general public"})
-# Campus / Stanford-community audience filter names (when public tags absent).
-_STANFORD_AUDIENCE_NAMES = frozenset(
-    {
-        "students",
-        "students - undergraduates",
-        "students - graduates",
-        "postdocs",
-        "faculty",
-        "staff",
-        "staff - academic",
-        "staff - managers",
-        "affiliates",
-        "alumni",
-        "members",
-    }
-)
 
 
 def _audience_names(event: dict[str, Any]) -> list[str]:
@@ -56,16 +39,7 @@ def classify_localist_audience(event: dict[str, Any]) -> Audience:
     payload. Clear public tags → open_to_public; campus-only tags without
     public tags → stanford_only; missing / unrecognized → unknown.
     """
-    names = _audience_names(event)
-    if not names:
-        return "unknown"
-    lowered = {n.lower() for n in names}
-    if lowered & _PUBLIC_AUDIENCE_NAMES:
-        return "open_to_public"
-    if lowered <= _STANFORD_AUDIENCE_NAMES:
-        return "stanford_only"
-    # Unrecognized filter mix — do not guess.
-    return "unknown"
+    return classify_audience_names(_audience_names(event))
 
 
 def _location(event: dict[str, Any]) -> str | None:

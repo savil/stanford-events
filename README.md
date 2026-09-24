@@ -2,19 +2,32 @@
 
 A public, by-day listing of Stanford campus events for **today through the next 30 days** (`America/Los_Angeles`).
 
-v1 scrapes three sources, writes `out/events.json` and `out/index.html`, and publishes the `out/` directory with GitHub Pages.
+The scraper writes `out/events.json` and `out/index.html`, and publishes the `out/` directory with GitHub Pages.
 
 **Site:** https://savil.github.io/stanford-events/
 
-More sources come later. The longer wishlist in [`sources.md`](sources.md) is not scraped.
+[`sources.md`](sources.md) is the full list: what is scraped, which Localist department and venue pages are already in the main feed, and which URLs are skipped.
 
-## Sources (v1 only)
+## Sources
 
 | Module | URL | Strategy |
 |--------|-----|----------|
-| `localist` | https://events.stanford.edu/ and [Bing Concert Hall](https://events.stanford.edu/bing_concert_hall) | Localist JSON API `/api/2/events` |
+| `localist` | https://events.stanford.edu/ and [Bing Concert Hall](https://events.stanford.edu/bing_concert_hall) | Localist JSON `/api/2/events`. Department and venue pages in `sources.md` are already in this feed and are not fetched again. |
 | `hci_seminar` | https://hci.stanford.edu/seminar/ | Fall quarter HTML table |
 | `hai` | https://hai.stanford.edu/events | Server-rendered HTML cards |
+| `stanford_live` | https://live.stanford.edu/events/calendar | JSON `/api/events/Live` |
+| `ccrma` | https://ccrma.stanford.edu/calendar | Month grid, then event pages |
+| `gsb` | https://www.gsb.stanford.edu/events | Drupal HTML rows |
+| `law` | https://law.stanford.edu/events/ | The Events Calendar REST API |
+| `gse` | https://ed.stanford.edu/events | Drupal JSON:API |
+| `fsi` | https://fsi.stanford.edu/events | Drupal JSON:API |
+| `hoover` | https://www.hoover.org/events | Drupal JSON:API |
+| `siepr`, `kipac`, `qfarm`, `aimi`, `bioengineering` | department `/events` pages | Stanford Web Services JSON:API. Rows that link to events.stanford.edu are skipped. |
+| `statistics`, `psychology`, `physics`, `art` | department event pages | H&S `hs_event` JSON:API. Localist links are skipped. |
+| `humanities_center` | https://shc.stanford.edu/stanford-humanities-center/events | HTML rows |
+| `neuroscience` | https://neuroscience.stanford.edu/events | HTML cards |
+| `health_library` | https://med.stanford.edu/healthlibrary/lectures-events.html | Prose lecture list |
+| `slac` | SLAC public lectures and seminars pages | Dated HTML cards |
 
 One source failing does not fail the run. The error is stored in `out/errors.json` and noted on the page. The run fails only when every source fails, so an empty calendar is not published over the last good listing.
 
@@ -69,8 +82,9 @@ Each event in `out/events.json`:
 ### Audience
 
 - **HCI Seminar** — the page says the seminar is open to the public, so talks are `open_to_public`.
-- **Localist** — `filters.event_audience` names (`Everyone`, `General Public` → public; Students / Faculty / Staff / Postdocs / Affiliates / Alumni / Members without a public tag → `stanford_only`; missing or unrecognized → `unknown`).
-- **HAI** — listing text. Clear public phrasing → `open_to_public`; Stanford community / campus-only / SUNet → `stanford_only`; otherwise `unknown`.
+- **Localist and Drupal audience tags** — `Everyone`, `General Public` → public; Students / Faculty / Staff / Postdocs / Affiliates / Alumni / Faculty/Staff / Alumni/Friends / Members without a public tag → `stanford_only`; missing, unrecognized, or `By Invitation Only` → `unknown`.
+- **GSE** — `field_event_admission`: `open_to_public` or `gse_community_only`. Events hidden from the public listing are skipped.
+- **Other HTML and JSON listings** — clear public phrasing (`open to the public`, `free and open to …`) → `open_to_public`; Stanford community / campus-only / SUNet → `stanford_only`; otherwise `unknown`. Ticketed shows are not marked public unless the page says so.
 
 ## GitHub Action
 
@@ -105,9 +119,10 @@ If `main` is protected, allow `github-actions[bot]` to push, or the commit step 
 
 ## Limitations
 
-- v1 is these three parsers only. Do not scrape the rest of [`sources.md`](sources.md) yet.
-- Localist returns one instance per occurrence. Audience comes from `filters.event_audience`, not from the title.
+- Localist returns one instance per occurrence. Audience comes from `filters.event_audience`, not from the title. Department pages on events.stanford.edu are not queried separately; see [`sources.md`](sources.md).
 - HCI uses the current quarter table (Fall 2026 at time of writing). “No Seminar” rows are skipped. Times are the page’s standing Friday 11:30–12:30 PT slot.
 - HAI cards often omit the room, so location may be empty. Cards without audience language stay `unknown`.
+- H&S and SWS rows that point at events.stanford.edu are skipped so they are not downloaded twice. Physics and Art & Art History currently publish through Localist, so their own feeds may add nothing in a given window.
+- CCRMA loads one page per in-window event (capped). Stanford Live’s calendar HTML is a Vue template; the JSON feed behind it is what gets parsed.
 - Deduping matches normalized titles (a short added suffix counts) and starts within 15 minutes on the same Pacific day. An exact title also matches when one source only has a date (midnight) and the other has a clock time. Different times on the same day are kept.
-- HTML and API shapes can change. Parsers are brittle.
+- HTML and API shapes can change. Parsers are brittle. Skipped URLs and the reasons are in [`sources.md`](sources.md).

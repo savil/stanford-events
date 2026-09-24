@@ -22,16 +22,20 @@ def get(
     *,
     params: dict[str, Any] | None = None,
     timeout: float = DEFAULT_TIMEOUT,
+    headers: dict[str, str] | None = None,
 ) -> requests.Response:
     """GET with a shared User-Agent and light rate limiting."""
     global _last_request_at
     elapsed = time.monotonic() - _last_request_at
     if elapsed < MIN_INTERVAL_SEC:
         time.sleep(MIN_INTERVAL_SEC - elapsed)
+    hdrs = {"User-Agent": USER_AGENT, "Accept": "*/*"}
+    if headers:
+        hdrs.update(headers)
     resp = requests.get(
         url,
         params=params,
-        headers={"User-Agent": USER_AGENT, "Accept": "*/*"},
+        headers=hdrs,
         timeout=timeout,
     )
     _last_request_at = time.monotonic()

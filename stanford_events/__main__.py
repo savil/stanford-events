@@ -1,4 +1,4 @@
-"""CLI: scrape Localist + HCI Seminar + HAI, write out/events.json and the by-day page."""
+"""CLI: scrape Stanford calendars, write out/events.json and the by-day page."""
 
 from __future__ import annotations
 
@@ -9,9 +9,9 @@ import traceback
 from collections import Counter
 from pathlib import Path
 
-from . import hai, hci_seminar, localist
 from .normalize import dedupe, filter_window
 from .preview import render_html, render_markdown
+from .registry import iter_sources
 
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_OUT = ROOT / "out"
@@ -53,32 +53,18 @@ def main(argv: list[str] | None = None) -> int:
 
     errors: list[dict] = []
     all_events = []
+    sources = iter_sources()
 
-    print("Fetching Localist…", flush=True)
-    all_events.extend(_run_source("localist", lambda: localist.fetch_events(days=args.days), errors))
-
-    print("Fetching HCI Seminar…", flush=True)
-    all_events.extend(_run_source("hci_seminar", hci_seminar.fetch_events, errors))
-
-    print("Fetching HAI…", flush=True)
-    all_events.extend(_run_source("hai", hai.fetch_events, errors))
+    for source in sources:
+        print(f"Fetching {source.label}…", flush=True)
+        all_events.extend(
+            _run_source(source.key, lambda src=source: src.fetch(args.days), errors)
+        )
 
     windowed = filter_window(all_events, days=args.days)
     final = dedupe(windowed)
 
     counts = Counter(e["source_name"] for e in final)
-    # Also collapse Bing into a report-friendly localist bucket note
-    by_module = Counter()
-    for e in final:
-        sn = e["source_name"]
-        if "Localist" in sn or sn.startswith("Bing"):
-            by_module["localist"] += 1
-        elif "HCI" in sn:
-            by_module["hci_seminar"] += 1
-        elif "HAI" in sn:
-            by_module["hai"] += 1
-        else:
-            by_module["other"] += 1
 
     events_path = out_dir / "events.json"
     errors_path = out_dir / "errors.json"
@@ -108,7 +94,8 @@ def main(argv: list[str] | None = None) -> int:
     print(f"Wrote {md_path}", flush=True)
     print(f"Wrote {html_path}", flush=True)
     print("Counts by source_name:", dict(counts), flush=True)
-    print("Counts by module:", dict(by_module), flush=True)
+    failed = {err["source"] for err in errors}
+    print(f"Sources ok: {len(sources) - len(failed)}/{len(sources)}", flush=True)
     aud_counts = Counter(e.get("audience", "unknown") for e in final)
     print("Counts by audience:", dict(aud_counts), flush=True)
     by_src_aud: dict[str, Counter] = {}

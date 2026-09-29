@@ -1,112 +1,6 @@
 # Stanford events
 
-_Generated 2026-09-28 11:33 PDT_
-
-## 2026-09-28 Monday
-
-- **2026-27 Shoucheng Zhang Conference on Quantum Science and Engineering** — 12:00 AM – 11:59 PM · _Stanford only_
-  - source: Q-FARM · audience: `stanford_only` · [link](https://qfarm.stanford.edu/events/conference-workshop/2026-27-shoucheng-zhang-conference-quantum-science-and-engineering)
-  - The Shoucheng Zhang Conference and Retreat for Quantum Science and Engineering is an annual event that brings together the Stanford community of quantum science and engineering. The conference is named in honor of the late Professor Shoucheng Zhang, a visionary scientist and men…
-- **Autumn Quarter: GSB MBA/MSx Add/Drop Deadline** — All day · _Unknown_
-  - source: Stanford Events (Localist) · audience: `unknown` · [link](https://events.stanford.edu/event/autumn-quarter-gsb-mbamsx-adddrop-deadline-4420)
-  - This is the last day for students to add or drop GSB courses. See the full Graduate School of Business academic calendar for more information.
-- **Big Earth Hackathon: Wildland Fire Challenge** — All day @ Y2E2 Building, Room 111, 473 Via Ortega, Stanford, CA 94305 · _Stanford only_
-  - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/big-earth-hackathon-wildland-fire-challenge)
-  - Big Earth Hackathon: Wildland Fire Challenge bridges the gap between innovation and impact by bringing Stanford students together with real-world stakeholders to design, build, and prototype solutions to one of today’s most pressing global systems crises — wildfire. Big Earth Ha…
-- **Branner Library Book & Map Exhibit - Water in the West** — All day @ Mitchell Earth Sciences, Room Branner Earth Sciences Library & Map Collections, 397 Panama Mall, Stanford, CA 94305 · _Public_
-  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/branner-library-book-map-exhibit-water)
-  - Branner Earth Sciences Library & Map Collection Exhibit: Water in the West Our Fall 2026 exhibition highlights the water resources in California & the Western United States to shed light on the issues that affect our waterways. The exhibit features maps and the Layperson’s guide…
-- **Carolyn Lazard: Long Take** — All day @ Cantor Arts Center, Room Lynn Krywick Gibbons Gallery, 328 Lomita Drive, Stanford, CA 94305 · _Public_
-  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/carolyn-lazard-long-take)
-  - Carolyn Lazard: Long Take is a multimedia exhibition that begins with a score for a performance and unfolds as a series of interventions that engage accessibility as an artistic material. Made in collaboration with dancer Jerron Herman and poet and artist Joselia Rebekah Hughes,…
-- **JANE! An intimate exploration of Gilded Age excess  and the enigmatic life and death of Jane Stanford** — All day @ Cantor Arts Center, Room Stanford Family Rooms, 328 Lomita Drive, Stanford, CA 94305 · _Public_
-  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/jane-an-intimate-exploration-of-gilded-age-excess-and-the-enigmatic-life-and-death-of-jane-stanford)
-  - Curated by Associate Curator of European Art, Patrick R. Crowley, JANE! celebrates the aesthetic and affective excesses of Jane Stanford, the Gilded Age founder and matriarch of Stanford University. Bringing together precious keepsakes, souvenirs, archaeological detritus, and sp…
-- **Library Treasure Hunt 2026** — All day · _Stanford only_
-  - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/LibTreasureHunt26)
-  - 🪎 Embark on a quest across campus and discover the amazing resources our libraries and research centers have to offer! ⌛ The treasure hunt opens on Monday September 14th and ends on Friday October 2nd at 5pm. 🏆 The more you explore, the more chances you have to win prizes! 💎 Top…
-- **Solid Pictures: Photosculpture and the Making of Modern Likeness** — All day @ Cantor Arts Center, Room Pigott Family Gallery, 328 Lomita Drive, Stanford, CA 94305 · _Unknown_
-  - source: Stanford Events (Localist) · audience: `unknown` · [link](https://events.stanford.edu/event/solid-pictures-photosculpture-and-the-making-of-modern-likeness)
-  - Before 3D printing, there was photosculpture. Curated by Patrick R. Crowley, Associate Curator of European Art, Solid Pictures is the first major exhibition to explore these largely overlooked objects first conceived in 1859 by the twenty-nine-year-old French artist and inventor…
-- **Text Machines: Scarlet Thread of the Digital Order (1883-2026)** — All day @ Green Library, Bing Wing, Room Hohbach Hall, 459 Lasuen Mall, Stanford, CA 94305 · _Public_
-  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/text-machines-scarlet-thread-of-the-digital-order-1883-2026)
-  - Stanford Libraries now holds an 1883 edition of a rare book, Les laboureurs: poème tiré de Jocelyn, whose pages (text and ornaments) were entirely woven on a Jacquard loom by the firm of silk merchant Joseph-Alphonse Henry. This exhibition explores the cultural contexts and mate…
-- **9th Dr. Lawrence H. and Roberta Cohn Visiting Professorship Featuring Marc Gillinov, MD** — 7:30 AM – 8:30 AM @ James H. Clark Center Auditorium, 318 Campus Drive, Stanford, CA 94305 · _Stanford only_
-  - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/9th-dr-lawrence-h-and-roberta-cohn-visiting-professorship-featuring-dr-marc-gillinov)
-  - The Stanford Department of Cardiothoracic Surgery is excited to invite you to the Ninth Dr. Lawrence H. and Roberta Cohn Visiting Professorship Lecture. Marc Gillinov, MD, Professor and Chair of the Department of Thoracic and Cardiovascular Surgery at Cleveland Clinic, will join…
-- **#SLSSocial Breakfast** — 8:00 AM – 10:00 AM @ @ SLS: Russo Commons &#8211; Student Law Lounge, 559 Nathan Abbott Way, Stanford · _Unknown_
-  - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/sls-social-breakfast-2/)
-  - Join the SLS community for coffee, breakfast, and conversation. Students, staff, and faculty are all welcome!
-- **Financial Counseling with Fidelity (Virtual Only)** — 8:00 AM – 5:00 PM · _Stanford only_
-  - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/copy-of-financial-counseling-with-fidelity-virtual-only-1600)
-  - Did you know that advisors from Fidelity Investments and TIAA provide free individual financial counseling on campus at your convenience? They can offer guidance on the best strategy to meet your retirement goals through Stanford's retirement savings plans. Contact Fidelity dire…
-- **Jewish Law Students Association Drop In Event** — 8:00 AM – 9:30 AM @ @ SLS: Room 272, Crown Quadrangle, 559 Nathan Abbott Way, Stanford · _Unknown_
-  - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/jewish-law-students-association-drop-in-event/)
-  - Jewish Law Student’s Association invites students to join in their welcome event
-- **Electric Contrasts: the Art of the Detail** — 9:00 AM – 7:00 PM @ McMurtry Building, Room Bowes Art & Architecture Library, 2nd floor. Visitors: Please call 650-723-3408 for building/elevator access., 355 Roth Way, Stanford, CA 94305 · _Public_
-  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/electric-contrasts-the-art-of-the-detail-7315)
-  - Electric Contrasts: The Art of the Detail brings together photobooks and magazines to show how the revolution of photography in the late 19th and early 20th century changed the history of art. Electric Contrasts takes Kenneth Clark’s landmark 1938 book One Hundred Details from P…
-- **Stanford Bright Award for Environmental Sustainability Celebration 2026** — 9:00 AM – 10:00 AM @ Webinar · _Unknown_
-  - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/bright-award-2026/)
-  - Note: The time and location of this event have changed. It will now take place online at 9:00 AM. In recognition of her advocacy, Promise Mabilo was selected as the 2026 recipient of the Bright Award for Environmental Sustainability. Join the online event for panel discussion hi…
-- **A Vision of Paris: The Roxane Debuisson Collection at Stanford** — 10:00 AM – 6:00 PM @ Green Library, Bing Wing, 459 Lasuen Mall, Stanford, CA 94305 · _Public_
-  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/a-vision-of-paris-the-roxane-debuisson-collection-at-stanford)
-  - Stanford University Libraries presents A Vision of Paris: the Roxane Debuisson Collection at Stanford, on view in the Peterson Gallery and Munger Rotunda of the Cecil H. Green Library from September 22, 2026 to January 24, 2027. Roxane Debuisson (1927–2018) dedicated sixty years…
-- **Developmental and Psychological Sciences (DAPS) Information Session - Virtual** — 10:00 AM – 11:30 AM @ Zoom · _Public_
-  - source: Stanford GSE · audience: `open_to_public` · [link](https://ed.stanford.edu/events/developmental-and-psychological-sciences-daps-information-session-virtual-0)
-  - Interested in becoming a scholar that helps transform both research and practice, with a focus on leveraging insights to improve children's and youth's adjustment, education, and learning outcomes? Come learn more about the Stanford Developmental and Psychological Sciences (DAPS…
-- **In Focus: Asian American Art from the Collection** — 11:00 AM – 6:00 PM @ Cantor Arts Center, Room Ruth Levison Halperin Gallery, 328 Lomita Drive, Stanford, CA 94305 · _Public_
-  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/in-focus-asian-american-art-from-the-collection)
-  - In Focus: Asian American Art from the Collection showcases recent acquisitions made through the Cantor’s Asian American Art Initiative (AAAI), offering a glimpse into one of the fastest-growing areas of the museum’s collection. Many of the works on view are being presented for t…
-- **KIPAC Seminar: Probing baryonic feedback with stacked kinetic Sunyaev-Zeldovich effect** — 11:00 AM – 12:00 PM @ Campus, Varian 206 · _Unknown_
-  - source: KIPAC · audience: `unknown` · [link](https://kipac.stanford.edu/events/kipac-seminar/kipac-seminar-probing-baryonic-feedback-stacked-kinetic-sunyaev-zeldovich)
-  - Abstract: Understanding how baryons trace the underlying matter distribution remains one of the main challenges in precision cosmology. Recent high signal-to-noise measurements of the kinematic Sunyaev-Zeldovich (kSZ) effect now provide a powerful way to probe these diffuse bary…
-- **Latest dark matter results with the LUX-ZEPLIN experiment: An unusual event in 220 days** — 11:00 AM – 12:00 PM @ SLAC, Kavli Auditorium · _Unknown_
-  - source: KIPAC · audience: `unknown` · [link](https://kipac.stanford.edu/events/slac-special-seminar/latest-dark-matter-results-lux-zeplin-experiment-unusual-event-220-days)
-  - Abstract: Understanding the composition of dark matter is one of the most compelling problems in particle physics. Although there is abundant astrophysical evidence, detecting dark matter using terrestrial experiments would allow us to directly probe the nature of a new particle…
-- **Snacking Reinvented** — 12:00 PM – 1:00 PM · _Unknown_
-  - source: Stanford Events (Localist) · audience: `unknown` · [link](https://events.stanford.edu/event/snacking-reinvented-9001)
-  - Strategic snacking can help with a variety of wellness-related goals, such as improving nutrient intake, managing appetite, and stabilizing mood and energy levels. However, the growing number of choices can be overwhelming and may leave us confused about what to try and how to i…
-- **OSA 1L Section Lunches** — 12:45 PM – 2:00 PM @ @ SLS: Room 14, Crown Quadrangle, 559 Nathan Abbott Way, Stanford · _Unknown_
-  - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/osa-1l-section-lunches-3/)
-  - Each fall, the Office of Student Affairs meets with 1L sections. This is an opportunity for us to get to know each other, to share information about school resources, check in on how you are doing, and to answer your questions.
-- **SLA x OCS Recruiting Mixer** — 12:45 PM – 1:45 PM @ @ SLS: Room 290, 559 Nathan Abbott Way, Stanford · _Unknown_
-  - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/sla-recruiting-mixer/)
-  - Come meet 2L/3L students that have already gone through the recruiting process.
-- **Untamed Unicorns – A Conversation with Renée M. Jones** — 12:45 PM – 2:00 PM @ @ SLS: Room 190, Crown Quadrangle 559 Nathan Abbott Way, Stanford · _Stanford only_
-  - source: Stanford Law · audience: `stanford_only` · [link](https://law.stanford.edu/event/untamed-unicorns-a-conversation-with-renee-m-jones/)
-  - This event is open to Stanford Law School and Stanford Students. Lunch will be provided to registered students. The Private Capital Initiative is hosting a lunch talk with Renée M. Jones, Professor of Law and Dr. Thomas F. Carney Distinguished Scholar at Boston College Law Schoo…
-- **CEE PhD Defense: Eleanor Ho, "A Multi-Scale Investigation of Building Energy Use: From Attribution to Prediction, for Design and Operational Decision-Making"** — 1:00 PM – 2:00 PM @ Y2E2 Building, Room 300, 473 Via Ortega, Stanford, CA 94305 · _Stanford only_
-  - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/cee-phd-defense-eleanor-ho)
-  - Abstract: Buildings account for roughly one third of global energy use, and both their design and operation shape how much they consume. This dissertation investigates building energy use across spatial scales, asking how building and urban form attributes affect energy use, and…
-- **Cities and Urban Life Book Display** — 2:00 PM @ Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305 · _Stanford only_
-  - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/cities-and-urban-life-book-display)
-  - Come to Green Library to see our Book Display on "Cities and Urban Life." Featured books include city walking guides, travel books, historical atlases, novels, and more. Display is located in Hohbach Hall in Green Library.
-- **Learning Sciences and Technology Design (LSTD) Information Session - Virtual** — 3:00 PM – 4:00 PM @ Zoom · _Public_
-  - source: Stanford GSE · audience: `open_to_public` · [link](https://ed.stanford.edu/events/learning-sciences-and-technology-design-lstd-information-session-virtual-0)
-  - Are you a prospective PhD program applicant interested in research in the learning sciences and/or the design of innovative learning technologies? Join Stanford GSE faculty and current PhD students to learn how our PhD program in Learning Sciences and Technology Design (LSTD) is…
-- **Biology Seminar Series - Alex Pollen "Perturbational Genomics of Human Brain Evolution"** — 4:00 PM – 5:00 PM @ Clark Center, Room Clark Auditorium, 318 Campus Drive, Stanford, CA 94305 · _Public_
-  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/biology-seminar-series-alex-pollen-perturbational-genomics-of-human-brain-evolution)
-- **Inside China’s Secret Prisons: An Undercover Exposé and its Lasting Legacy** — 4:00 PM – 5:30 PM @ George P. Shultz Building, Room Shultz Auditorium, 426 Galvez Mall, Stanford, CA 94305 · _Public_
-  - source: Stanford Events (Localist) · also Hoover Institution · audience: `open_to_public` · [link](https://events.stanford.edu/event/inside-chinas-secret-prisons-an-undercover-expose-and-its-lasting-legacy)
-  - What is the nature of the vast part of China’s penal system that has long been dedicated to extra-judicial detention, imprisonment, and compulsory “forced labor” in the PRC? What sort of effects did this system have on its victims, their families, friendships, marriages, and com…
-- **LDP for tensor forms** — 4:00 PM – 4:00 PM @ Sequoia 200 · _Unknown_
-  - source: Statistics · audience: `unknown` · [link](https://statistics.stanford.edu/events/ldp-tensor-forms)
-  - Reihaneh Malekian, Columbia. We study the large deviation principle (LDP) for a tensor-weighted functional of i.i.d. random variables, when the sequence of tensors converges under a variant of the "bad" cut norm. Using the LDP, we analyze a Gibbs measure with a tensor-valued Ham…
-- **Meenakshi Khosla- Understanding Vision Through Neural Supervision and Generative Probes** — 4:00 PM – 5:30 PM @ Stanford Neurosciences Building, Room James Lin and Nisa Leung Seminar Room, E153, 290 Jane Stanford Way, Stanford, CA 94305 · _Stanford only_
-  - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/meenakshi-khosla-understanding-vision-through-neural-supervision-and-generative-probes)
-  - Understanding Vision Through Neural Supervision and Generative Probes Abstract How can neural data guide the learning of visual representations, and how can we choose stimuli that reveal their properties? I will present two lines of work addressing these questions. First, I will…
-- **Unpacking the Trump - Xi Meeting: What Happened and What's Next?** — 4:00 PM – 5:30 PM @ Encina Hall, Room Philippines Conference Room (C330), 616 Jane Stanford Way, Stanford, CA 94305 · _Stanford only_
-  - source: Stanford Events (Localist) · also FSI · audience: `stanford_only` · [link](https://events.stanford.edu/event/unpacking-the-trump-xi-meeting-what-happened-and-whats-next)
-  - Drawing on decades of experience at the center of U.S. policy toward China, Mark Lambert, former State Department China Coordinator and recently appointed China Policy Fellow at Stanford’s Asia-Pacific Research Center (APARC), and Ambassador Laura Stone, former Deputy Assistant…
-- **Stanford Energy Seminar | AI for Climate Solutions: GRAIL | Shanthakumar Bannirchelvam, SUN New Energy Capital** — 4:30 PM – 5:20 PM @ Shriram Center, Room 104, 443 Via Ortega, Stanford, CA 94305 · _Public_
-  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/stanford-energy-seminar-09282026)
-  - The Stanford Energy Seminar has been a mainstay of energy engagement at Stanford for nearly 20 years and is one of the flagship programs of the Precourt Institute for Energy. We aim to bring a wide variety of perspectives to the Stanford community – academics, entrepreneurs, uti…
-- **Top Graduate Schools of Education Information Session - In Person, NYC** — 7:00 PM – 9:00 PM @ Teachers College at Columbia University · _Public_
-  - source: Stanford GSE · audience: `open_to_public` · [link](https://ed.stanford.edu/events/top-graduate-schools-education-information-session-person-nyc-0)
-  - Join us for an insightful event featuring top graduate schools of education, where you will have the opportunity to engage with representatives from the following institutions: Harvard Graduate School of Education University of Pennsylvania Graduate School of Education Stanford…
-- **An Intimate Evening With Molly Tuttle** — 7:30 PM @ Bing Concert Hall · _Unknown_
-  - source: Stanford Live · audience: `unknown` · [link](https://live.stanford.edu/events/26-27season/bing-concert-hall/molly-tuttle/)
+_Generated 2026-09-29 09:51 PDT_
 
 ## 2026-09-29 Tuesday
 
@@ -283,6 +177,9 @@ _Generated 2026-09-28 11:33 PDT_
 - **Planetary Science and Exploration Seminar, Ryushi Miyayama - "Atmospheric chemical evolution driven by meteoritic interactions"** — 12:30 PM – 1:20 PM @ Mitchell Earth Sciences, Room 350/372, 397 Panama Mall, Stanford, CA 94305 · _Unknown_
   - source: Stanford Events (Localist) · audience: `unknown` · [link](https://events.stanford.edu/event/planetary-science-and-exploration-seminar-ryushi-miyayama-atmospheric-chemical-evolution-driven-by-meteoritic-interactions)
   - Planetary atmospheres - and their potential habitability - evolve under external energy inputs, including stellar irradiation, cosmic rays, and meteoroid accretion. Meteoroid entry is ubiquitous across planetary systems but its role as a driver of atmospheric chemical evolution…
+- **Immigration Pro Bono New Member Training** — 12:40 PM – 2:00 PM @ @ SLS: Room 14, Crown Quadrangle, 559 Nathan Abbott Way, Stanford · _Unknown_
+  - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/immigration-pro-bono-new-member-training/)
+  - MANDATORY training for new members of the Immigration Pro Bono Project
 - **FLI – Big Law 101** — 12:45 PM – 2:00 PM @ @ SLS: Room 185, Crown Quadrangle 559 Nathan Abbott Way, Stanford · _Unknown_
   - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/fli-big-law-101/)
   - Come sit in on a casual panel discussion followed by a roundtable with FLI over lunch. We will discuss personal experience and advice for recruitment and working in big law firms from a first-gen perspective.
@@ -427,6 +324,9 @@ _Generated 2026-09-28 11:33 PDT_
 - **Sober State: Origins of Alcohol Prohibition in India| Book Talk with Darinee Alagirisamy** — 12:00 PM @ Encina Commons, Room 123, 615 Crothers Way, Stanford, CA 94305 · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/sober-state-origins-of-alcohol-prohibition-in-india-book-talk-with-darinee-alagirisamy)
   - This event is sponsored by the Center for South Asia. About the event What happens when a democratic state―still in the process of formation―commits to banning a substance, especially one as controversial as alcohol? This book traces the origins and evolution of alcohol prohibit…
+- **Video Game Character Creation, or Do I Have To Be a White Guy?** — 12:15 PM – 1:15 PM @ Building 160, Wallenberg Hall, Room 433A, 450 Jane Stanford Way, Building 160, Stanford, CA 94305 · _Stanford only_
+  - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/video-game-character-creation-or-do-i-have-to-be-a-white-guy)
+  - The video game character creation screen represents the clearest aesthetic iteration of the medium’s promise of agency. The player is given the ability to create a self-insert character or a fantastical projection and then become whoever they want to be within the game world cur…
 - **Justene Hill Edwards | Slavery, Freedom, and the Complicated Logics of American Capitalism** — 12:30 PM – 2:00 PM @ Humanities Center, Room SHC Board Room, 424 Santa Teresa Street, Stanford, CA 94305 · _Public_
   - source: Stanford Events (Localist) · also Stanford Humanities Center · audience: `open_to_public` · [link](https://events.stanford.edu/event/justene-hill-edwards-slavery-freedom-and-the-complicated-logics-of-american-capitalism)
   - What is the relationship between capitalism and freedom in the United States? This question has motivated a generation of scholars who have looked to the history of American slavery to better understand the origins of American capitalism. But scholars have yet to fully grapple w…
@@ -460,9 +360,9 @@ _Generated 2026-09-28 11:33 PDT_
 - **Law and Economics Seminar with Prof. Daniel Hemel** — 4:15 PM – 5:45 PM @ @ SLS: Room 285, Crown Quadrangle, 559 Nathan Abbott Way, Stanford · _Unknown_
   - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/law-and-economics-seminar-with-prof-daniel-hemel/)
   - Prof. Hemel (NYU Law School) will speak on “Valuing Future Lives” at the next seminar on October 1st from 4:15-5:45 pm in Room 285. The paper can be downloaded here . This event is open to the University public.
-- **Hoover Institution George P. Shultz Memorial Lecture Series** — 4:30 PM – 6:00 PM @ Shultz Auditorium, George P. Shultz Building · _Unknown_
-  - source: Hoover Institution · audience: `unknown` · [link](https://www.hoover.org/events/hoover-institution-george-p-shultz-memorial-lecture-series)
-  - The Hoover Institution is pleased to announce the third and final memorial event in honor of former Secretary of State and Hoover Distinguished Senior Fellow, George P. Shultz on October 1, 2026 from 4:30-6:00 PM at the Shultz Auditorium, George P. Shultz Building.
+- **Hoover Institution George P. Shultz Memorial Lecture Series** — 4:30 PM – 6:00 PM @ Hoover Institution - George P. Shultz Building, Room Shultz Auditorium, 426 Galvez Mall, Stanford, CA 94305 · _Unknown_
+  - source: Stanford Events (Localist) · also Hoover Institution · audience: `unknown` · [link](https://events.stanford.edu/event/hoover-institution-george-p-shultz-memorial-lecture-series)
+  - The Hoover Institution is pleased to announce the third and final memorial event in honor of former Secretary of State and Hoover Distinguished Senior Fellow, George P. Shultz on October 1, 2026 from 4:30-6:00 PM at the Shultz Auditorium, George P. Shultz Building. MODERATOR Pet…
 - **Inaugural Quarterly BBQ** — 4:30 PM – 7:30 PM @ Lomita Dr, Stanford, CRFG+5J Stanford, California · _Unknown_
   - source: KIPAC · audience: `unknown` · [link](https://kipac.stanford.edu/events/other/inaugural-quarterly-bbq)
   - We will grill a good amount of food and provide beverages, but all are encouraged to bring their favorite side dishes and desserts to share! Lake Lagunita BBQ Pit is located on Lomita Dr. between Lagunita Dr. and Mayfield Ave (behind the Denning House). There is ample parking ne…
@@ -487,6 +387,9 @@ _Generated 2026-09-28 11:33 PDT_
 - **Wild & Bright: Designing for Belonging | Artist Talk with Yiying Lu, in Conversation with Thomas S. Mullaney** — 5:00 PM – 6:30 PM · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/wild-bright-designing-for-belonging-artist-talk-with-yiying-lu-in-conversation-with-thomas-s-mullaney)
   - What can a whale, a dumpling, and an endangered clouded leopard tell us about belonging? Join artist and designer Yiying Lu, creator of Twitter’s Fail Whale and six emoji adopted into the Unicode Standard, for an opening talk celebrating Wild & Bright, an exhibition of nine larg…
+- **Stanford University Libraries 101: Library Basics   (Evening Session)** — 5:30 PM – 6:00 PM @ Green Library, Bing Wing, Room Reference Desk, Green Library, 459 Lasuen Mall, Stanford, CA 94305 · _Stanford only_
+  - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/stanford-university-libraries-101-library-basics)
+  - New to Stanford? Join us at the Green Library reference desk for a 20-minute crash course in library basics, followed by live demos and Q&A with your own research topics. In one quick session, you'll learn: Overview of library study space options across campus Set up CardinalPri…
 - **Academic Office Hours** — 6:00 PM – 7:30 PM @ @ SLS: Room 85, Crown Quadrangle, 559 Nathan Abbott Way, Stanford · _Unknown_
   - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/academic-office-hours/)
   - Thurs, Oct. 1, 6-7:30pm @ Crocker APILSA 2Ls will be hosting office hours to answer any academic questions (about readings, studying, outlining, etc.) from 1L students in Crocker Garden. Boba will be provided for those who RSVP by September 29!
@@ -605,6 +508,9 @@ _Generated 2026-09-28 11:33 PDT_
 - **Oceans Seminar Series | Brian Arbic and Eunice Asamoah** — 12:00 PM – 1:00 PM @ Hopkins Marine Station, Room Boatworks Lecture Hall, 120 Ocean View Blvd Pacific Grove, CA 93950 · _Stanford only_
   - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/oceans-seminar-series-brian-arbic-and-eunice-asamoah)
   - Please join us for the next installment of our Fall Oceans Seminar Series! Brian Arbic and Eunice Konadu Asamoah - Building a Global Science Community Through Summer Schools in West Africa, East Africa, and Beyond Where: In-person at Boatworks Lecture Hall; livestreamed to Y2E2…
+- **Deep Dive: Food Recovery Program** — 12:15 PM – 1:00 PM @ Zoom · _Unknown_
+  - source: Stanford Events (Localist) · audience: `unknown` · [link](https://events.stanford.edu/event/deep-dive-food-recovery-program)
+  - Running a campus event means more than logistics — it means working together to improve processes and reduce food waste. This session will cut through the confusion and give event planners a clear, actionable roadmap to zero waste events. From smart bin ordering to food recovery…
 - **SLE Salon: Adrian Daub: What Tech Calls Governing** — 12:15 PM – 1:05 PM @ Florence Moore Hall, Room SLE Main Lounge, 436 Mayfield Ave, Stanford, CA 94305 · _Stanford only_
   - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/sle-salon-adrian-daub-what-tech-calls-governing)
   - Tech companies increasingly determine who regulates and who governs. And the tech elite increasingly wield political power, seeking to remake your workplace, your child's school, and the federal government in their image. But what do they mean by power? Join us in Florence Moore…
@@ -690,12 +596,18 @@ _Generated 2026-09-28 11:33 PDT_
 - **A Vision of Paris: The Roxane Debuisson Collection at Stanford** — 10:00 AM – 6:00 PM @ Green Library, Bing Wing, 459 Lasuen Mall, Stanford, CA 94305 · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/a-vision-of-paris-the-roxane-debuisson-collection-at-stanford)
   - Stanford University Libraries presents A Vision of Paris: the Roxane Debuisson Collection at Stanford, on view in the Peterson Gallery and Munger Rotunda of the Cecil H. Green Library from September 22, 2026 to January 24, 2027. Roxane Debuisson (1927–2018) dedicated sixty years…
+- **Explore the Bay: California's Great America** — 10:00 AM – 4:30 PM @ California's Great America, 4701 Great America Pkwy, Santa Clara, CA 95054 · _Stanford only_
+  - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/explore-the-bay-californias-great-america-8980)
+  - Join Cardinal Nights on an exhilarating trip to California's Great America, the Bay Area's local amusement park 🎢 Tickets are $20 and include roundtrip transportation. Limited Financial Assistance for tickets is available, please follow this link. Please note that your Humanitix…
 - **In Focus: Asian American Art from the Collection** — 10:00 AM – 5:00 PM @ Cantor Arts Center, Room Ruth Levison Halperin Gallery, 328 Lomita Drive, Stanford, CA 94305 · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/in-focus-asian-american-art-from-the-collection)
   - In Focus: Asian American Art from the Collection showcases recent acquisitions made through the Cantor’s Asian American Art Initiative (AAAI), offering a glimpse into one of the fastest-growing areas of the museum’s collection. Many of the works on view are being presented for t…
 - **Public Tour |  Auguste Rodin** — 11:30 AM – 12:30 PM @ Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305 · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/copy-of-cancelled-public-tour-auguste-rodin-565)
   - Join us for a tour of our indoor and outdoor Rodin Sculptures! Our collection spans three galleries, an outdoor sculpture garden, and features nearly 100 Rodin sculptures essential to telling his story and representing his groundbreaking engagement with the body. IMAGE: Auguste…
+- **LSI Community Gathering** — 12:00 PM – 2:00 PM @ @Stanford: Escondido Village, Escondido Village, Stanford · _Unknown_
+  - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/lsi-community-gathering/)
+  - The Law Students for Israel first community gathering of the year. We will celebrate the beginning of the Jewish new year (Rosh Hashana) together as well as introduce our student leaders and present the planned events for the year ahead.
 - **Public Tour | A Closer Look** — 1:00 PM – 2:00 PM @ Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305 · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/public-tour-a-closer-look)
   - Discover new details, perspectives, and connections with Cantor’s “A Closer Look” tours. Led by a Stanford Student Guide or volunteer Museum Engagement Guide, each tour focuses on three to four artworks organized around a theme, providing participants with opportunities for cont…
@@ -811,6 +723,9 @@ _Generated 2026-09-28 11:33 PDT_
 - **it's kinda chic to get vaccinated: flu & COVID shots at Vaden Health Center** — 11:00 AM – 4:30 PM @ Vaden Student Health Center, 866 Campus Drive, Stanford, CA 94305 · _Stanford only_
   - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/its-kinda-chic-to-get-vaccinated)
   - Join us at one of three upcoming flu and COVID events at the Vaden Health Center to safeguard your health and contribute to a healthier Stanford community. There are no out-of-pocket costs for flu shots provided to students. (In instances where possible, cost will be directed to…
+- **Book Talk: How to Survive Authoritarianism** — 12:00 PM – 1:15 PM @ Encina Hall, 616 Jane Stanford Way, Stanford, CA 94305 · _Stanford only_
+  - source: Stanford Events (Localist) · also FSI · audience: `stanford_only` · [link](https://events.stanford.edu/event/book-talk-how-to-survive-authoritarianism)
+  - Join the Center on Democracy, Development and the Rule of Law for a conversation with Maria Kuznetsova and Dan Storyev, Russian journalists in exile and co-authors of How to Survive Authoritarianism: A Russian's Phrasebook for Everyday Life in America (Liveright, 2026). The book…
 - **Eating to Support Brain Health** — 12:00 PM – 1:00 PM · _Unknown_
   - source: Stanford Events (Localist) · audience: `unknown` · [link](https://events.stanford.edu/event/eating-to-support-brain-health)
   - Research shows that specific dietary patterns and nutrient choices can play a crucial role in preventing cognitive decline, with some evidence suggesting that nutrition may be even more effective than medications. Join us for an engaging webinar where we will explore the science…
@@ -899,6 +814,9 @@ _Generated 2026-09-28 11:33 PDT_
 - **KIPAC Tea Talk: Are Cluster Galaxies Too Efficient at Strong Lensing? Revisiting a Tension Between Observations and Simulations / Exploring a cosmic ray inverse-Compton origin to the SZ-to-X-ray pressure deficit in the cool core cluster ZwCl 3146** — 10:40 AM – 11:30 AM @ Campus, PAB 102/103 · _Stanford only_
   - source: KIPAC · audience: `stanford_only` · [link](https://kipac.stanford.edu/events/kipac-tea-talk/kipac-tea-talk-are-cluster-galaxies-too-efficient-strong-lensing-revisiting)
   - Roche Abstract: Cosmological simulations are essential tools for testing models of structure formation and probing the nature of dark matter. When discrepancies arise between simulations and observations, it can indicate the presence of new physics, insufficient complexity of th…
+- **Earth & Planetary Sciences Seminar - Dr. Marjorie A. Chan  "Red Rocks from Earth to Mars: Stories of science, crime, art"** — 12:00 PM – 1:15 PM @ Building 320, Geology Corner, Room 112, 450 Jane Stanford Way, Building 320, Stanford, CA 94305 · _Public_
+  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/earth-planetary-sciences-seminar-dr-marjorie-a-chan-red-rocks-from-earth-to-mars-stories-of-science-crime-art)
+  - Abstract: Mars is an exciting frontier, with opportunities to discover what might exist within its sedimentary layers and surface landforms. Comparative studies of red rocks on Earth have provided important clues for interpreting the geology on Mars. Small terrestrial concretion…
 - **Earth Systems Honors & Master's Thesis Info Session** — 12:00 PM – 1:00 PM · _Stanford only_
   - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/earth-systems-honors-masters-thesis-info-session)
   - 💚 Earth Systems Coterm Students 💚 Are you planning to write an Honors or Master’s thesis in Earth Systems this year? If so—and you haven’t yet been accepted to the Honors program or approved to write a Master’s thesis, the Autumn Quarter deadline for applications is October 20th…
@@ -926,7 +844,7 @@ _Generated 2026-09-28 11:33 PDT_
 - **Touch Me Not: 12th Annual Undergraduate Juried Exhibition** — 1:00 PM – 5:00 PM @ Art Gallery, 419 Lasuen Mall, Stanford, CA 94305 · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/touch-me-not-12th-annual-undergraduate-juried-exhibition)
   - Presented by the Department of Art & Art History, the 12th Annual Undergraduate Juried Exhibition, Touch Me Not, showcases a campus-wide selection of artwork by twenty-two Stanford undergraduate students. Touch Me Not: 12th Annual Undergraduate Juried Exhibition On View: October…
-- **History of Art and Student Organizing  with Dr. Omowale Satterwhite** — 1:30 PM – 3:30 PM @ Harmony House, 561 Lomita Drive, Stanford, CA 94305 · _Public_
+- **History of Art and Student Organizing with Dr. Omowale Satterwhite** — 2:15 PM – 3:20 PM @ Harmony House, 561 Lomita Drive, Stanford, CA 94305 · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/history-of-art-and-student-organizing-with-dr-omowale-satterwhite)
   - Organizing + the Legacy of Committee on Black Performing Arts (CBPA) | Intro to IDA Public Sessions Guests: amara tabor-smith, Alexis Jones, Dr. Omowale Satterwhite, Kim Yule Today, we’ll hear about CBPA as foremother to IDA, the political context that propelled its creation, in…
 - **Ethics in Society Open House** — 2:30 PM – 4:30 PM @ Meyer Green, 560 Escondido Mall, Stanford, CA 94305 · _Stanford only_
@@ -952,8 +870,9 @@ _Generated 2026-09-28 11:33 PDT_
 - **Living with OCD** — 3:30 PM – 4:30 PM @ Vaden Student Health Center, 866 Campus Drive, Stanford, CA 94305 · _Stanford only_
   - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/copy-of-living-with-ocd-6052)
   - The experience of OCD (Obsessive Compulsive Disorder) can be isolating and stressful. This is an open and ongoing group for students who live with OCD to support each other and have a safe space to connect. The group will focus on providing mutual support, sharing wisdom, increa…
-- **Elynn Chen, NYU — Title to come** — 4:00 PM – 4:00 PM @ CoDa E160 · _Unknown_
-  - source: Statistics · audience: `unknown` · [link](https://statistics.stanford.edu/events/title-come-12)
+- **What makes an RL sample transferable? A statistical theory of transfer Q-learning** — 4:00 PM – 4:00 PM @ CoDa E160 · _Unknown_
+  - source: Statistics · audience: `unknown` · [link](https://statistics.stanford.edu/events/what-makes-rl-sample-transferable-statistical-theory-transfer-q-learning)
+  - Elynn Chen, NYU. In business, healthcare, and education, sequential decisions must often be learned for a target population with little data, while abundant data exist from related populations. Transfer learning is the natural remedy and in regression the recipe is well understo…
 - **The Stella W. & Ira S. Lillick Chair Lecture: How should Flock cameras be regulated under the Fourth Amendment?** — 4:30 PM – 5:30 PM @ @ SLS: Room 290, 559 Nathan Abbott Way, Stanford · _Unknown_
   - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/the-stella-w-ira-s-lillick-professorship-chair-lecture/)
   - In honor of his appointment to the Stella W. & Ira S. Lillick Professorship, Orin Kerr will give a Chair Lecture to the entire Stanford Law Community, discussing a topic currently in the news: How should Flock cameras be regulated under the Fourth Amendment? Welcoming remarks wi…
@@ -1233,6 +1152,9 @@ _Generated 2026-09-28 11:33 PDT_
 - **Global Environmental Policy Seminar with Guojun He** — 1:15 PM – 2:30 PM @ Y2E2 Building, Room 299, 473 Via Ortega, Stanford, CA 94305 · _Stanford only_
   - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/global-environmental-policy-seminar-with-guojun-he)
   - Carbon Markets with Chinese Characteristics: From Design to Consequences This paper studies the design and consequences of China’s national rate-based carbon market. Under this system, emission‑intensity benchmarks create implicit subsidies for cleaner plants and taxes for dirti…
+- **A3C Graduate Community Boba Mixer** — 3:00 PM – 4:30 PM @ Asian American Activities Center, Room 524 Lasuen Mall, 1st Floor, 524 Lasuen Mall, Stanford, CA 94305 · _Public_
+  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/a3c-graduate-community-boba-mixer)
+  - Come join us at the A3C for a boba mixer on Thursday, October 8th from 3-4:30pm! Meet other graduate students, enjoy some boba and mochi waffles, and walk away with some friends to explore other on-campus events with! Non-dairy and less-sweet options are available :)
 - **Improving All Lives Through Science: The Case for Fundamental Research, Public Policy, and Advocacy** — 3:00 PM – 4:20 PM @ Sapp Center for Science Teaching and Learning, Room STLC 114 - Sapp Lecture Hall, 376 Lomita Dr, Stanford, CA 94305 · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/improving-all-lives-through-science-the-case-for-fundamental-research-public-policy-and-advocacy)
   - Curiosity-driven, fundamental research fuels breakthrough technologies and lifesaving therapeutics—with chemistry at the center of it all. Yet, as scientists, we face a critical challenge: public trust in science is at a historic low, and the policy decisions shaping research fu…
@@ -1290,6 +1212,11 @@ _Generated 2026-09-28 11:33 PDT_
 - **Cursed Subjects and Other Sights: Qajar Prison Photography and the Sounds and Silences of Heresy in Nineteenth-Century Iranian Legal History** — 6:30 PM @ In person at Stanford · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/cursed-subjects-and-other-sights-qajar-prison-photography-and-the-sounds-and-silences-of-heresy-in-nineteenth-century-iranian-legal-history)
   - Bringing together legal history and the history of photography, this panel discussion examines the ways Qajar state power sought to make dissident, criminal, and heretical subjects both speak and appear through interrogation and torture, through the marking and mutilation of bod…
+- **Blazing the path to a fusion future** — 7:00 PM – 8:00 PM · _Unknown_
+  - source: SLAC · audience: `unknown` · [link](https://www6.slac.stanford.edu/events/2026-10-08-blazing-path-fusion-future)
+- **JD/MBA Dinner and Professional Networking** — 7:00 PM – 9:00 PM @ Offsite/Private Location · _Unknown_
+  - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/jd-mba-dinner-and-professional-networking/)
+  - We’ll be hosted by the Demarzos and accompanied by other business leaders from GSB.
 - **Sex After Cancer: Navigating Changes in Sexual Health and Intimacy** — 7:00 PM · _Public_
   - source: Stanford Events (Localist) · also Stanford Health Library · audience: `open_to_public` · [link](https://events.stanford.edu/event/sex-after-cancer-navigating-changes-in-sexual-health-and-intimacy)
   - There is no single definition of a healthy sex life after cancer. Dr. Kathryne Sanserino, gynecologist, and Dr. Catherine Benedict, psychologist and researcher, will discuss common sexual health concerns during and after cancer treatment, available treatments and resources, and…
@@ -1436,6 +1363,8 @@ _Generated 2026-09-28 11:33 PDT_
 - **Environmental Law Welcome BBQ** — 5:00 PM – 7:00 PM @ @ Stanford: Munger BBQ Pit · _Public_
   - source: Stanford Law · audience: `open_to_public` · [link](https://law.stanford.edu/event/environmental-law-welcome-bbq/)
   - An opportunity to meet other students interested in environmental, clean energy, and infrastructure law and policy! Co-sponsored by the Environmental Law Society, the Stanford Environmental Law Journal, and Stanford Law’s Abundance chapter. Open to all SLS community members.
+- **Low Frequency Trio Performs New Works by Stanford Graduate Composers** — 7:30 PM – 9:00 PM @ CCRMA Stage · _Public_
+  - source: CCRMA · audience: `open_to_public` · [link](https://ccrma.stanford.edu/events/low-frequency-trio-performs-new-works-stanford-graduate-composers-0)
 
 ## 2026-10-10 Saturday
 
@@ -1457,6 +1386,9 @@ _Generated 2026-09-28 11:33 PDT_
 - **2026 Annual RILE Conference** — 9:00 AM – 6:00 PM @ Graduate School of Education · _Public_
   - source: Stanford GSE · audience: `open_to_public` · [link](https://ed.stanford.edu/events/2026-annual-rile-conference)
   - SAVE THE DATE!!! Please join us for our annual RILE conference that will happen all day on Oct 9th & 10th here in the Graduate School of Education. Conference Details: Day 1: Friday, October 9th Keynote Speakers Jamila Lyiscott Veronica Terriquez Day 2: Saturday, October 10th Ke…
+- **OutLaw Retreat** — 9:00 AM – 6:00 PM @ Offsite/Private Location · _Unknown_
+  - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/outlaw-retreat/)
+  - We will be heading into wonderful San Francisco for a day of joy, community building, and great vibes. We anticipate the formal programming to start at 9am and end around 6pm. More information on logistics to come.
 - **Volunteering at Stanford Educational Farm** — 9:30 AM – 11:30 AM @ O'Donohue Educational Farm, 175 Electioneer Rd, Stanford, CA 94305 · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/copy-of-volunteering-at-the-stanford-educational-farm)
   - Volunteers help keep the farm running. Volunteer tasks vary from week to week. Farm tasks may include keeping our fields free of weeds and rocks, planting new crop rotations, deadheading flowers, teaming up on irrigation, composting, mulching, and having a great time getting dir…
@@ -1486,6 +1418,9 @@ _Generated 2026-09-28 11:33 PDT_
   - Play or watch the annual SLA Kickball Tournament, followed by dim sum hosted by #SLSSocial at 5:30 PM! Students, faculty, and staff are invited. Registration for the tournament and dim sum is required by Monday, October 5.
 - **Taking Back Sunday** — 7:00 PM – 10:00 PM @ Frost Amphitheater · _Unknown_
   - source: Stanford Live · audience: `unknown` · [link](https://live.stanford.edu/events/26-frost/taking-back-sunday/)
+- **WOCC Craft Night** — 8:00 PM – 10:00 PM @ @ SLS: Russo Commons &#8211; Student Law Lounge, 559 Nathan Abbott Way, Stanford · _Unknown_
+  - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/wocc-craft-night/)
+  - Stanford’s Women of Color Collective (WOCC) is hosting a craft night on Saturday, October 10th. Join us starting at 8pm for friendship bracelet making, snacks, and community.
 
 ## 2026-10-11 Sunday
 
@@ -1587,6 +1522,11 @@ _Generated 2026-09-28 11:33 PDT_
   - In Focus: Asian American Art from the Collection showcases recent acquisitions made through the Cantor’s Asian American Art Initiative (AAAI), offering a glimpse into one of the fastest-growing areas of the museum’s collection. Many of the works on view are being presented for t…
 - **KIPAC Seminar** — 11:00 AM – 12:00 PM @ Campus, Varian 206 · _Unknown_
   - source: KIPAC · audience: `unknown` · [link](https://kipac.stanford.edu/events/kipac-seminar/kipac-seminar-2)
+- **Leadership in Crisis: Lessons from Armed Conflict and Devastating Disasters** — 12:00 PM – 1:30 PM @ Philippines Conference Room (C330) Encina Hall, 3rd Floor 616 Jane Stanford Way, Stanford, CA 94305 · _Unknown_
+  - source: FSI · audience: `unknown` · [link](https://fsi.stanford.edu/events/leadership-crisis-lessons-armed-conflict-and-devastating-disasters)
+- **Neil Thompson: Forecasting AI’s Impact on Human Expertise and the Future of Work** — 12:00 PM – 1:00 PM @ Gates Computer Science Building, Room 119, 353 Jane Stanford Way, Stanford, CA 94305 · _Public_
+  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/neil-thompson-forecasting-ais-impact-on-human-expertise-and-the-future-of-work)
+  - AI is advancing rapidly at the cognitive tasks that make up knowledge work, raising fears among firms, policymakers, and, not least, workers of a “China shock” for white-collar jobs. Neil Thompson will present new research on whether those fears are warranted. The research asks…
 - **Stanford Indo-Pacific Policy Lab Principals Series: Conversations with National Security Leaders** — 12:15 PM – 1:30 PM @ Encina Hall, Room William J. Perry Conference, 616 Jane Stanford Way, Stanford, CA 94305 · _Unknown_
   - source: Stanford Events (Localist) · also FSI · audience: `unknown` · [link](https://events.stanford.edu/event/stanford-indo-pacific-policy-lab-principals-series-conversations-with-national-security-leaders)
   - About the event: The Stanford Indo-Pacific Policy Lab (IPPL) at the Center for International Security and Cooperation (CISAC) invites the Stanford community to join us for the first event in the Principals Series: Conversations with National Security Leaders. Dr. Oriana Skylar M…
@@ -1642,6 +1582,9 @@ _Generated 2026-09-28 11:33 PDT_
 - **Electric Contrasts: the Art of the Detail** — 9:00 AM – 7:00 PM @ McMurtry Building, Room Bowes Art & Architecture Library, 2nd floor. Visitors: Please call 650-723-3408 for building/elevator access., 355 Roth Way, Stanford, CA 94305 · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/electric-contrasts-the-art-of-the-detail-7315)
   - Electric Contrasts: The Art of the Detail brings together photobooks and magazines to show how the revolution of photography in the late 19th and early 20th century changed the history of art. Electric Contrasts takes Kenneth Clark’s landmark 1938 book One Hundred Details from P…
+- **LBRE: Flu & COVID-19 Vaccination Clinic** — 9:00 AM – 3:00 PM @ 560 Fremont, Stanford, CA 94305 · _Public_
+  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/lbre-flu-covid-19-vaccination-clinic)
+  - Keep Stanford Healthy: Campus Flu & COVID-19 Vaccination Clinic As we head into the autumn season, let’s work together to keep our campus safe, healthy, and thriving. We encourage all members of the Stanford community to take a proactive step in protecting themselves and their c…
 - **A Vision of Paris: The Roxane Debuisson Collection at Stanford** — 10:00 AM – 6:00 PM @ Green Library, Bing Wing, 459 Lasuen Mall, Stanford, CA 94305 · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/a-vision-of-paris-the-roxane-debuisson-collection-at-stanford)
   - Stanford University Libraries presents A Vision of Paris: the Roxane Debuisson Collection at Stanford, on view in the Peterson Gallery and Munger Rotunda of the Cecil H. Green Library from September 22, 2026 to January 24, 2027. Roxane Debuisson (1927–2018) dedicated sixty years…
@@ -1657,6 +1600,8 @@ _Generated 2026-09-28 11:33 PDT_
 - **Aging Wisely - Long-Term Care Goals and Strategies** — 11:00 AM – 12:30 PM · _Unknown_
   - source: Stanford Events (Localist) · audience: `unknown` · [link](https://events.stanford.edu/event/aging-wisely-long-term-care-goals-and-strategies-576)
   - This class is co-sponsored by the Stanford WorkLife Office. Caring for ourselves and those we love as we age can bring about many questions about what to expect and hope for as time unfolds. In this free webinar, we will provide guidance on forming long-term care, health, legal,…
+- **Anthony Chen | What Young People's Technology Use Tells Us** — 11:40 AM – 1:00 PM @ McClatchy Hall, S40 Studio 450 Serra Mall, Stanford, CA 94305 For those attending the in-person seminar, please bring your Stanford ID card/mobile ID to enter the building. · _Unknown_
+  - source: FSI · audience: `unknown` · [link](https://fsi.stanford.edu/events/anthony-chen-what-young-peoples-technology-use-tells-us)
 - **Emma Shaw Crane, "The Periphery Within: War, Labor, and the Camp in the Florida Suburbs," in conversation with Abigail Kahn (CCSRE Graduate Dissertation Fellow)** — 12:00 PM – 1:15 PM @ Building 360, Room CCSRE Conference Room, Center for Comparative Studies in Race and Ethnicity (CCSRE), 450 Jane Stanford Way Building 360, Stanford, CA 94305 · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/emma-shaw-crane-the-periphery-within-war-labor-and-the-camp-in-the-florida-suburbs)
   - Learn more about Professor Crane's work in this 2026 press release by Earthjustice, "Another Florida Detention Center Plagued with Toxic Chemicals and Unbreathable Air, According to Report." Florida has long been a laboratory for the policing and confinement of noncitizens. This…
@@ -1686,6 +1631,9 @@ _Generated 2026-09-28 11:33 PDT_
 - **The Keys to Successful Outlining: How to Synthesize Your 1L Fall** — 3:45 PM – 5:00 PM @ @ SLS: Room 280B, Crown Quadrangle, 559 Nathan Abbott Way, Stanford · _Unknown_
   - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/the-keys-to-successful-outlining-how-to-synthesize-your-1l-fall-2/)
   - Join Director of Academic Success, Sarah Brim, as she provides guidance to 1Ls on the value of outlining, useful approaches to the practice, and various methods one could implement, while dispelling myths about the format those outlines “must” take. There will be a substantive p…
+- **Multivariate point process treatments: Causal inference via instrumental variables** — 4:00 PM – 4:00 PM @ CoDa E160 · _Unknown_
+  - source: Statistics · audience: `unknown` · [link](https://statistics.stanford.edu/events/multivariate-point-process-treatments-causal-inference-instrumental-variables)
+  - Shizhe Chen, UC Davis. Neural recordings reveal rich patterns of dependence across brain regions, but identifying causal effects in the presence of unmeasured confounding remains challenging. In this talk, I will present an instrumental variable framework for studying the causal…
 - **Stanford Cancer Institute Breakthroughs in Cancer: Health Policy and Oncology: Understanding Care and Outcomes in a Changing Delivery System** — 4:00 PM – 5:00 PM @ E.D. Stone - Alway Building, Room Alway M106, 300 Pasteur Dr , Palo Alto, CA 94304 · _Stanford only_
   - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/stanford-cancer-institute-breakthroughs-in-cancer-health-policy-and-oncology-understanding-care-and-outcomes-in-a-changing-delivery-system)
   - The Stanford Cancer Institute Breakthroughs in Cancer seminar series provides a platform for eminent leaders in oncology to share their insights with the Stanford community. Seminars highlight innovations across basic, translational, clinical, and population cancer science. Join…
@@ -1737,8 +1685,6 @@ _Generated 2026-09-28 11:33 PDT_
 - **2-Part Virtual Advance Care Planning Workshop at Stanford Health Care** — 12:00 PM @ Wednesday, October 21, 12:00 pm Pacific Time · _Unknown_
   - source: Stanford Health Library · audience: `unknown` · [link](https://stanfordmedicine.zoom.us/meeting/register/B2rLbfPpTHeGd-YeANjI2g#/registration#/registration)
   - Stanford Palliative Care is proud to provide quarterly 2-Part, FREE Advance Health Care Planning virtual workshops for the public.
-- **Book Talk: How to Survive Authoritarianism** — 12:00 PM – 1:15 PM @ Only those with an active Stanford ID and access to the William J. Perry Conference Room in Encina Hall may attend in person. Others may attend virtually, via Zoom. Registration required. · _Unknown_
-  - source: FSI · audience: `unknown` · [link](https://fsi.stanford.edu/events/book-talk-how-survive-authoritarianism)
 - **CBD 2026: Introduction to Stanford's 2026 Contemplation by Design Summit: The Role of Contemplation in the Age of AI with Tia Rich, PhD** — 12:00 PM – 1:00 PM · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/cbd-2026-introduction-to-the-2026-contemplation-by-design-summit-with-tia-rich-phd)
   - Experience how contemplative practices can cultivate the resilience, discernment, and wise compassion that support individual and societal health and well-being, healing, and transformation. Learn evidence-based contemplative practices from secular as well as spiritual tradition…
@@ -1757,11 +1703,17 @@ _Generated 2026-09-28 11:33 PDT_
 - **Ukraine: An Update from the Ground** — 12:00 PM – 1:15 PM @ Encina Hall, 616 Jane Stanford Way, Stanford, CA 94305 · _Stanford only_
   - source: Stanford Events (Localist) · also FSI · audience: `stanford_only` · [link](https://events.stanford.edu/event/ukraine-an-update-from-the-ground)
   - The war in Ukraine is in its 5th year, and casualties continue to mount. How did we get here? And how does this war end? This presentation and discussion will cover the latest military developments, as well as a review of the economic and political factors that will determine ho…
+- **WoCC Professional Development: Navigating 1L Career Options** — 12:00 PM – 2:00 PM @ @ SLS: Room 90, Crown Quadrangle 559 Nathan Abbott Way, Stanford · _Unknown_
+  - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/wocc-professional-development-navigating-1l-career-options/)
+  - Join members of the Women of Color Collective to discuss your career-related thoughts and concerns! Whether you are interested in big law recruiting, unsure whether OCI is right for you, or planning to pursue public interest work, we know this time of year can feel overwhelming…
 - **Microbiology & Immunology Wednesday Seminar:  Jacobs-Wagner & Davis Labs** — 12:30 PM – 1:30 PM @ Clark Center, Room Clark S360, 318 Campus Drive, Stanford, CA 94305 · _Stanford only_
   - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/microbiology-immunology-wednesday-seminar-jacobs-wagner-davis-labs)
 - **International Law and Conflict Resolution in Practice: A Conversation with Dr. Paul Williams** — 12:45 PM – 2:00 PM @ @ SLS: Room 285, Crown Quadrangle, 559 Nathan Abbott Way, Stanford · _Unknown_
   - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/international-law-and-conflict-resolution-in-practice-a-conversation-with-dr-paul-williams/)
   - Join the Stanford International Law Society (ILS) for a moderated conversation and open Q&A with Dr. Paul Williams. Paul Williams is one of the world’s leading experts on international law, peace negotiations, and post-conflict constitution drafting. He has advised over two doze…
+- **Women in Transactional Panel** — 12:45 PM – 2:00 PM @ @ SLS: Room 280B, Crown Quadrangle, 559 Nathan Abbott Way, Stanford · _Unknown_
+  - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/women-in-transactional-panel/)
+  - Join Kirkland & Ellis for an opportunity to hear from accomplished attorneys as they share their career paths, professional insights, and advice for current law students. Learn about the many ways lawyers build meaningful and successful careers while gaining valuable perspective…
 - **Criminal Practice Panel: Defense & Prosecution** — 1:00 PM – 2:00 PM @ @ SLS: Room 280A, Crown Quadrangle, 559 Nathan Abbott Way, Stanford · _Unknown_
   - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/public-interest-career-panel-4-part-series/)
   - Criminal Practice: Defense & Prosecution Are you interested in practicing criminal law? Hear from SLS alumni public defenders and prosecutors about the realities of criminal practice and the different roles lawyers play in the criminal legal system. Learn about day-to-day practi…
@@ -1885,7 +1837,7 @@ _Generated 2026-09-28 11:33 PDT_
 - **Quick Bytes - Ethical AI Management** — 12:00 PM – 1:15 PM @ Tresidder Memorial Union, Room Oak West · _Stanford only_
   - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/quick-bytes-ethical-ai-management)
   - In an accelerating AI landscape, simply knowing how to use generative and agentic AI isn't enough – understanding how to use and manage it responsibly is paramount. Led by Rachel Gillum, VP of Ethical & Humane Use of Technology at Salesforce, this workshop will equip you with a…
-- **Working with GenAI** — 12:00 PM – 1:00 PM @ Green Library, Bing Wing, Room Velma Denning Room (120F), 459 Lasuen Mall, Stanford, CA 94305 · _Stanford only_
+- **Working with GenAI - Towards a Reflective Practice** — 12:00 PM – 1:00 PM @ Green Library, Bing Wing, Room Velma Denning Room (120F), 459 Lasuen Mall, Stanford, CA 94305 · _Stanford only_
   - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/working-with-genai)
   - Date and Time: 12–1PM, Thursday, October 15, 2026Location: Velma Denning Room (120F), Green Library & Virtual (zoom link provided upon registration)Instructor: Claudia Engel (Academic Technology Specialist for Anthropology)This workshop is for those who have engaged with Generat…
 - **Action Plan for Mental Health** — 12:30 PM – 2:00 PM @ Vaden Student Health Center, 866 Campus Drive, Stanford, CA 94305 · _Stanford only_
@@ -1965,6 +1917,8 @@ _Generated 2026-09-28 11:33 PDT_
 - **The New Era of Obesity Treatment** — 7:00 PM · _Public_
   - source: Stanford Events (Localist) · also Stanford Health Library · audience: `open_to_public` · [link](https://events.stanford.edu/event/the-new-era-of-obesity-treatment)
   - Treating obesity is about more than losing weight; it’s about improving overall health, quality of life, and long-term well-being. Dan Azagury, MD, FACS, and Michelle Hauser, MD, MS, MPA, will explore lifestyle changes, GLP-1 medications, bariatric surgery, and who may benefit f…
+- **Stefano Pilia** — 7:30 PM – 9:00 PM @ CCRMA Stage / CCRMA LIVE · _Public_
+  - source: CCRMA · audience: `open_to_public` · [link](https://ccrma.stanford.edu/events/stefano-pilia)
 
 ## 2026-10-16 Friday
 
@@ -2332,6 +2286,9 @@ _Generated 2026-09-28 11:33 PDT_
 - **Darshan and the Savarna Sensorium** — 5:30 PM @ Encina Commons, Room 123, 615 Crothers Way, Stanford, CA 94305 · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/darshan-and-the-savarna-sensorium)
   - This talk is sponsored by the Center for South Asia. About the event This presentation pulls back from a post-Enlightenment genealogy of the senses to ask how we might resituate the sensorium, and with it ideas such as darshan, in relation to the habitus of caste. Drawing on col…
+- **FLI: Firm Things First** — 6:00 PM – 8:00 PM @ Reposado, 236 Hamilton Avenue, Palo Alto · _Unknown_
+  - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/fli-firm-things-first/)
+  - Come speak to practicing attorneys about what its like to work in Big Law. This event is open to everyone but catered to First Gen-Low Income students who may be unfamiliar with corporate legal concepts and the corporate workforce. Lawyers are primed to answer your questions, no…
 - **CBD 2026: Contemplation in an Age of AI:  Ever Ancient, Ever New with Ilia Delio, OSF, PhD** — 7:00 PM – 8:15 PM · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/cbd-2026-contemplation-in-the-age-of-ai-with-ilia-delio)
   - Contemplation is an ancient practice of integrating the mind on deeper levels of consciousness. What happens, however, when the mind is extended into machinic life? Does Artificial Intelligence invite us to a new level of contemplation or is it an obstacle to contemplation? In t…
@@ -2560,6 +2517,9 @@ _Generated 2026-09-28 11:33 PDT_
 - **Noon Concert: Violin Students of Robin Sharp** — 12:30 PM – 2:00 PM @ Braun Music Center, Room Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305 · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/noon-sharp-fall26)
   - Join us for our Noon Concert Series, where student musicians from a variety of instrumental and vocal studios take the stage. Each performance offers a vibrant showcase of emerging talent, celebrating music in a relaxed midday setting.﻿ Admission Information Free admissionParkin…
+- **Remediation in Context: A Colloquium on Digital Media** — 12:30 PM @ Building 160, Wallenberg Hall, Room 433A, 450 Jane Stanford Way, Building 160, Stanford, CA 94305 · _Stanford only_
+  - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/remediation-in-context-a-colloquium-on-digital-media)
+  - Remediation in Context is a colloquium by the Critical Game Studies Lab dedicated to exploring how we remember, recover, and revitalize digital media of the past. Dene Grigar and Nick Montfort will each present talks on their own current research, both of which concern creative…
 - **A Conversation With Judge Richard Seeborg** — 1:00 PM – 2:00 PM @ @ SLS: Room 190, Crown Quadrangle 559 Nathan Abbott Way, Stanford · _Unknown_
   - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/a-conversation-with-judge-richard-seeborg/)
   - ACS is excited to host Judge Richard Seeborg of the U.S. District Court for the Northern District of California for substantive conversation about his experiences on the bench, ranging from topics such as the role of the judiciary in curbing executive power to the way in which j…
@@ -2592,7 +2552,7 @@ _Generated 2026-09-28 11:33 PDT_
   - In a student-led conversation, get to know Professor Kerr, who joined the SLS faculty in 2025 and is a professor of criminal procedure, computer crime law, and evidence.
 - **Colloquium** — 3:45 PM – 5:00 PM @ Building 420, room 041 · _Unknown_
   - source: Psychology · audience: `unknown` · [link](https://psychology.stanford.edu/events/colloquium-84)
-  - Tania Lambrozo, Arthur W. Marks Professor of Psychology at Princeton University .
+  - Tania Lombrozo, Arthur W. Marks Professor of Psychology at Princeton University .
 - **CBD 2026: Reclaiming Presence and Ethical Grounding in Challenging Times with Diana Winston** — 4:00 PM – 5:15 PM · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/cbd-2026-reclaiming-presence-and-ethical-grounding-in-challenging-times-with-diana-winston)
   - Discover and experience ways that mindfulness offers us a beacon of hope in challenging times. During this lecture we’ll explore fundamental mindfulness principles that can help us navigate the complexities of our changing and often distressing political and social landscape. We…
@@ -2663,8 +2623,8 @@ _Generated 2026-09-28 11:33 PDT_
 - **Build Your Own Bouquet: O’Donohue Family Stanford Educational Farm** — 10:00 AM – 2:00 PM @ O'Donohue Educational Farm, Room Back Oak Deck, 175 Electioneer Rd, Stanford, CA 94305 · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/copy-of-build-your-own-bouquet-odonohue-family-stanford-educational-farm-4191)
   - Come to The O'Donohue Family Stanford Educational Farm to build your own seasonal, organic, flower bouquet using flowers grown on the campus farm. Follow provided directions, to make your bouquet. Flowers will be available in buckets for your choosing. Pay onsite via QR code. Th…
-- **Astrophysics Colloquium: Milky Way Galactic Center** — 11:00 AM – 12:00 PM @ Campus, PAB 102/103 · _Unknown_
-  - source: KIPAC · audience: `unknown` · [link](https://kipac.stanford.edu/events/astrophysics-colloquium/astrophysics-colloquium-milky-way-galactic-center)
+- **Astrophysics Colloquium** — 11:00 AM – 12:00 PM @ Campus, PAB 102/103 · _Unknown_
+  - source: KIPAC · audience: `unknown` · [link](https://kipac.stanford.edu/events/astrophysics-colloquium/astrophysics-colloquium-7)
 - **In Focus: Asian American Art from the Collection** — 11:00 AM – 8:00 PM @ Cantor Arts Center, Room Ruth Levison Halperin Gallery, 328 Lomita Drive, Stanford, CA 94305 · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/in-focus-asian-american-art-from-the-collection)
   - In Focus: Asian American Art from the Collection showcases recent acquisitions made through the Cantor’s Asian American Art Initiative (AAAI), offering a glimpse into one of the fastest-growing areas of the museum’s collection. Many of the works on view are being presented for t…
@@ -2866,6 +2826,9 @@ _Generated 2026-09-28 11:33 PDT_
 - **2027 Grad Class Reception** — 4:30 PM – 6:30 PM @ @ SLS: Russo Commons &#8211; Student Law Lounge, 559 Nathan Abbott Way, Stanford · _Unknown_
   - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/2027-grad-class-reception/)
   - Whether you’ve been here 2+ years (JD students ) or 2+ months (AdvDeg students ), it’s time to kick off the graduation celebration season! Please join us for a celebratory reception for the Class of 2027. This is an opportunity for graduating JD students to get to know their fel…
+- **Play the Long Game: Reusable Water Bottle Giveaway at Stanford Football Game** — 5:30 PM – 7:00 PM @ Stanford Stadium · _Unknown_
+  - source: Stanford Events (Localist) · audience: `unknown` · [link](https://events.stanford.edu/event/play-the-long-game-reusable-water-bottle-giveaway-at-stanford-football-game)
+  - Show up in your favorite Stanford gear and get a free reusable water bottle before the game. Fill up at the new water bottle filling stations throughout Stanford Stadium!
 - **Jontavious Willis** — 7:00 PM @ The Studio · _Unknown_
   - source: Stanford Live · audience: `unknown` · [link](https://live.stanford.edu/events/26-27season/studio/jontavious-willis/)
 - **Stanford Football vs NC State | Heroes Appreciation** — 7:30 PM @ Stanford Stadium, 625 Nelson Rd, Stanford, CA 94305 · _Public_
@@ -2969,6 +2932,9 @@ _Generated 2026-09-28 11:33 PDT_
 - **Public Tour | A Closer Look** — 1:00 PM – 2:00 PM @ Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305 · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/public-tour-a-closer-look)
   - Discover new details, perspectives, and connections with Cantor’s “A Closer Look” tours. Led by a Stanford Student Guide or volunteer Museum Engagement Guide, each tour focuses on three to four artworks organized around a theme, providing participants with opportunities for cont…
+- **SLS Women of Color Mentorship Meet-Up** — 1:00 PM – 2:00 PM @ The Oval, 20 Palm Dr, Stanford · _Unknown_
+  - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/sls-women-of-color-mentorship-meet-up/)
+  - The Women of Color Collective (WoCC) is having our first Stanford Law Women of Color mentorship meet-up, so that our mentorship pairings have a space to meet for the first time (or again)! We will be serving light snacks and coffee for you to grab before you go meet up with your…
 - **Gallery Conversations | JANE!** — 2:00 PM – 3:00 PM @ Cantor Arts Center, Room Stanford Family Room (122), 328 Lomita Drive, Stanford, CA 94305 · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/copy-of-gallery-conversations-jeremy-frey-woven-8444)
   - Join us for casual in-gallery conversations in our special exhibition, JANE!, facilitated by our Museum Engagement Guides. Enjoy a spotlight tour focusining on a single object, followed by an open conversation. Curated by Associate Curator of European Art, Patrick R. Crowley, JA…
@@ -3100,6 +3066,9 @@ _Generated 2026-09-28 11:33 PDT_
 - **KIPAC Tea Talk: Characterizing Turbulence in Circumgalactic Gas** — 10:40 AM – 11:30 AM @ Campus, PAB 102/103 · _Stanford only_
   - source: KIPAC · audience: `stanford_only` · [link](https://kipac.stanford.edu/events/kipac-tea-talk/kipac-tea-talk-characterizing-turbulence-circumgalactic-gas)
   - Abstract: The circumgalactic medium is the turbulent interface between galaxies and the intergalactic medium. I will present empirical measurements of its turbulent motions, the insights they offer into AGN feedback and the baryon cycle, and our use of simulations and forward mo…
+- **IT Career Pathways: Explore Roles in Data & Analytics** — 11:00 AM – 12:00 PM · _Stanford only_
+  - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/it-career-pathways-explore-roles-in-data-analytics)
+  - IT Career Pathways highlights the diverse roles across our organization, connecting you with the people who do this work and the resources to help you follow in their footsteps. In this session, we’ll explore the dynamic, high-impact world of Data & Analytics. Have you ever wond…
 - **After Fission: Recognition and Contestation in the Atomic Age** — 12:00 PM – 1:15 PM @ Encina Hall, Room William J. Perry Conference Room, 616 Jane Stanford Way, Stanford, CA 94305 · _Public_
   - source: Stanford Events (Localist) · also FSI · audience: `open_to_public` · [link](https://events.stanford.edu/event/after-fission-recognition-and-contestation-in-the-atomic-age)
   - About the event: Nuclear status is typically treated as a stable feature of a state's capacity to possess, use, or build nuclear weapons. Challenging this view, After Fission reveals how states contest their nuclear status in the atomic age. By examining the legal structure of t…
@@ -3139,6 +3108,8 @@ _Generated 2026-09-28 11:33 PDT_
 - **Zhang Annual Lecture - Matthew Fisher [UCSB]** — 3:30 PM – 4:30 PM @ Hewlett Teaching Center, 370 Jane Stanford Way, Stanford · _Unknown_
   - source: Q-FARM · audience: `unknown` · [link](https://qfarm.stanford.edu/events/conference-workshop/zhang-annual-lecture-matthew-fisher-ucsb)
   - Schedule: Shoucheng Zhang Lecture - 3:30–4:30 PM at Applied Physics/Physics Colloquium, Hewlett Teaching Center, Room 201 (370 Jane Stanford Way) Reception - 4:45–5:45 PM at Varian Courtyard
+- **Melody Huang, Yale — Title to come** — 4:00 PM – 4:00 PM @ CoDa E160 · _Unknown_
+  - source: Statistics · audience: `unknown` · [link](https://statistics.stanford.edu/events/title-come-0)
 - **2027 Global Health Fall Kickoff** — 4:30 PM – 6:00 PM @ E.D. Stone - Alway Building, Room Alway Courtyward, 300 Pasteur Dr , Palo Alto, CA 94304 · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/2027-global-health-fall-kickoff)
   - October 27, 2026 | 4:30-6:00pm | Alway Courtyard, Stanford School of Medicine *For Stanford affiliates and supporters This event hosted by the Stanford Center for Innovation in Global Health will bring together the Stanford Global Health community including students, staff, post…
@@ -3204,6 +3175,8 @@ _Generated 2026-09-28 11:33 PDT_
 - **Yimu Bao & Alexey Khudorozhkov [Bloch Fellows]** — 11:00 AM – 1:00 PM @ PAB 102/103, 452 Lomita Mall, Stanford · _Unknown_
   - source: Q-FARM · audience: `unknown` · [link](https://qfarm.stanford.edu/events/yimu-bao-alexey-khudorozhkov-bloch-fellows)
   - Notes: Talks will begin @ 11:30 am in PAB 102/103 Boxed lunch will available for attendees @ 12:30 pm in PAB 102/103 Video Recordings once Speaker approved, will be available on our youtube channel
+- **AI4MH Seminar: Data-Driven Insights: Machine Learning's Role in Addiction Science - Lindsay Squeglia, PhD** — 12:00 PM – 1:00 PM · _Unknown_
+  - source: AIMI · audience: `unknown` · [link](https://aimi.stanford.edu/events/seminar/ai4mh-seminar-data-driven-insights-machine-learnings-role-addiction-science-lindsay)
 - **CMEMS: Elaine Treharne presents, "Books, Bombs, Britishness"** — 12:00 PM – 1:15 PM @ Building 260, Pigott Hall, Room 252, 450 Jane Stanford Way, Building 260, Stanford, CA 94305 · _Unknown_
   - source: Stanford Events (Localist) · audience: `unknown` · [link](https://events.stanford.edu/event/cmems-elaine-treharne-presents-books-bombs-britishness)
   - Organized and hosted by the Center for Medieval and Early Modern Studies (CMEMS). Elaine Treharne (English, Stanford) presents, "Books, Bombs, Britishness: Medieval Manuscript Hunters in the Second World War" With a response from Dr. Jean Cannon (Fellow, Hoover Institution). The…
@@ -3257,3 +3230,128 @@ _Generated 2026-09-28 11:33 PDT_
 - **Liu Lecture: Llisa Demetrios** — 5:00 PM – 7:00 PM @ Building 550, Peterson Laboratory, Room Atrium, 416 Escondido Mall, Stanford, CA 94305 · _Public_
   - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/liu-lecture-llisa-demetrios)
   - Join us for a conversation on Infinite Curiosity, Design and Possibility, with Llisa Demetrios, Chief Curator of the Eames Institute of Infinite Curiosity and granddaughter of Ray and Charles Eames. This is a special opportunity to learn with one of design's most thoughtful and…
+
+## 2026-10-29 Thursday
+
+- **Carolyn Lazard: Long Take** — All day @ Cantor Arts Center, Room Lynn Krywick Gibbons Gallery, 328 Lomita Drive, Stanford, CA 94305 · _Public_
+  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/carolyn-lazard-long-take)
+  - Carolyn Lazard: Long Take is a multimedia exhibition that begins with a score for a performance and unfolds as a series of interventions that engage accessibility as an artistic material. Made in collaboration with dancer Jerron Herman and poet and artist Joselia Rebekah Hughes,…
+- **JANE! An intimate exploration of Gilded Age excess  and the enigmatic life and death of Jane Stanford** — All day @ Cantor Arts Center, Room Stanford Family Rooms, 328 Lomita Drive, Stanford, CA 94305 · _Public_
+  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/jane-an-intimate-exploration-of-gilded-age-excess-and-the-enigmatic-life-and-death-of-jane-stanford)
+  - Curated by Associate Curator of European Art, Patrick R. Crowley, JANE! celebrates the aesthetic and affective excesses of Jane Stanford, the Gilded Age founder and matriarch of Stanford University. Bringing together precious keepsakes, souvenirs, archaeological detritus, and sp…
+- **Korean Indigenous Futures: The Art of Kim Bong-Jun 김봉준 판화전: 토착적 미래- K아트, 디아스포라, 세계** — All day @ Lathrop Library, Room East Asia Library, 2nd Floor, 518 Memorial Way, Stanford, CA 94305 · _Public_
+  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/korean-indigenous-futures)
+  - The East Asia Library at Stanford University will host a print exhibition by Kim Bong-Jun, a leading figure in Korean Minjung (People’s) Art, from September 29 to December 11, 2026. Active since the 1980s, Kim has developed a distinctive visual language that combines traditional…
+- **Solid Pictures: Photosculpture and the Making of Modern Likeness** — All day @ Cantor Arts Center, Room Pigott Family Gallery, 328 Lomita Drive, Stanford, CA 94305 · _Unknown_
+  - source: Stanford Events (Localist) · audience: `unknown` · [link](https://events.stanford.edu/event/solid-pictures-photosculpture-and-the-making-of-modern-likeness)
+  - Before 3D printing, there was photosculpture. Curated by Patrick R. Crowley, Associate Curator of European Art, Solid Pictures is the first major exhibition to explore these largely overlooked objects first conceived in 1859 by the twenty-nine-year-old French artist and inventor…
+- **Text Machines: Scarlet Thread of the Digital Order (1883-2026)** — All day @ Green Library, Bing Wing, Room Hohbach Hall, 459 Lasuen Mall, Stanford, CA 94305 · _Public_
+  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/text-machines-scarlet-thread-of-the-digital-order-1883-2026)
+  - Stanford Libraries now holds an 1883 edition of a rare book, Les laboureurs: poème tiré de Jocelyn, whose pages (text and ornaments) were entirely woven on a Jacquard loom by the firm of silk merchant Joseph-Alphonse Henry. This exhibition explores the cultural contexts and mate…
+- **Financial Counseling with Fidelity (Virtual Only)** — 8:00 AM – 5:00 PM · _Stanford only_
+  - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/copy-of-financial-counseling-with-fidelity-virtual-only-3754)
+  - Did you know that advisors from Fidelity Investments and TIAA provide free individual financial counseling on campus at your convenience? They can offer guidance on the best strategy to meet your retirement goals through Stanford's retirement savings plans. Contact Fidelity dire…
+- **Electric Contrasts: the Art of the Detail** — 9:00 AM – 7:00 PM @ McMurtry Building, Room Bowes Art & Architecture Library, 2nd floor. Visitors: Please call 650-723-3408 for building/elevator access., 355 Roth Way, Stanford, CA 94305 · _Public_
+  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/electric-contrasts-the-art-of-the-detail-7315)
+  - Electric Contrasts: The Art of the Detail brings together photobooks and magazines to show how the revolution of photography in the late 19th and early 20th century changed the history of art. Electric Contrasts takes Kenneth Clark’s landmark 1938 book One Hundred Details from P…
+- **Page Mill: Flu & COVID-19 Vaccination Clinic** — 9:00 AM – 3:00 PM @ Page Mill Rd, 1701 Page Mill Rd, Palo Alto, CA 94304 · _Unknown_
+  - source: Stanford Events (Localist) · audience: `unknown` · [link](https://events.stanford.edu/event/page-mill-flu-covid-19-vaccination-clinic)
+  - Keep Stanford Healthy: Campus Flu & COVID-19 Vaccination Clinic As we head into the autumn season, let’s work together to keep our campus safe, healthy, and thriving. We encourage all members of the Stanford community to take a proactive step in protecting themselves and their c…
+- **A Vision of Paris: The Roxane Debuisson Collection at Stanford** — 10:00 AM – 6:00 PM @ Green Library, Bing Wing, 459 Lasuen Mall, Stanford, CA 94305 · _Public_
+  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/a-vision-of-paris-the-roxane-debuisson-collection-at-stanford)
+  - Stanford University Libraries presents A Vision of Paris: the Roxane Debuisson Collection at Stanford, on view in the Peterson Gallery and Munger Rotunda of the Cecil H. Green Library from September 22, 2026 to January 24, 2027. Roxane Debuisson (1927–2018) dedicated sixty years…
+- **Build Your Own Bouquet: O’Donohue Family Stanford Educational Farm** — 10:00 AM – 2:00 PM @ O'Donohue Educational Farm, Room Back Oak Deck, 175 Electioneer Rd, Stanford, CA 94305 · _Public_
+  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/copy-of-build-your-own-bouquet-odonohue-family-stanford-educational-farm-4191)
+  - Come to The O'Donohue Family Stanford Educational Farm to build your own seasonal, organic, flower bouquet using flowers grown on the campus farm. Follow provided directions, to make your bouquet. Flowers will be available in buckets for your choosing. Pay onsite via QR code. Th…
+- **Astrophysics Colloquium: The X-ray Sky in High Definition: The Continuing Astrophysics Legacy of the Chandra X-ray Observatory** — 11:00 AM – 12:00 PM @ Campus, PAB 102/103 · _Unknown_
+  - source: KIPAC · audience: `unknown` · [link](https://kipac.stanford.edu/events/astrophysics-colloquium/astrophysics-colloquium-x-ray-sky-high-definition-continuing)
+  - Abstract: X-ray astronomy is a product of the space age. Possible only from viewing platforms above the atmosphere, the first celestial X-ray source other than the Sun was discovered just over sixty years ago. Following fresh on the heels of this discovery, with X-ray astronomy…
+- **In Focus: Asian American Art from the Collection** — 11:00 AM – 8:00 PM @ Cantor Arts Center, Room Ruth Levison Halperin Gallery, 328 Lomita Drive, Stanford, CA 94305 · _Public_
+  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/in-focus-asian-american-art-from-the-collection)
+  - In Focus: Asian American Art from the Collection showcases recent acquisitions made through the Cantor’s Asian American Art Initiative (AAAI), offering a glimpse into one of the fastest-growing areas of the museum’s collection. Many of the works on view are being presented for t…
+- **Benjamin Yoel — International Pressure and Opposition to Democratic Backsliding** — 12:00 PM – 1:15 PM @ Virtual to Public. If prompted for a password, use: 123456 Only those with an active Stanford ID with access to Conference Room E-008 in Encina Hall, East, may attend in person. · _Public_
+  - source: Stanford Events (Localist) · also FSI · audience: `open_to_public` · [link](https://events.stanford.edu/event/benjamin-yoel-international-pressure-and-opposition-to-democratic-backsliding)
+  - Under what conditions do pro-democracy global actors support domestic opposition actors resisting democratic backsliding, and when does such support shape public opinion? This book project develops a theory of international rhetorical pressure that examines both the supply and d…
+- **Emily Jacobs - New frontiers in women&#039;s brain health** — 12:00 PM – 12:00 PM @ Stanford Neurosciences Building, 290 Jane Stanford Way, Stanford, CA 94305 · _Unknown_
+  - source: Stanford Events (Localist) · audience: `unknown` · [link](https://events.stanford.edu/event/emily-jacobs-new-frontiers-in-women039s-brain-health)
+  - Join the speaker for coffee, cookies, and conversation before the talk, starting at 11:45am. New frontiers in women's brain health Abstract Gonadal hormones are potent neuromodulators of learning and memory. Yet, how these tiny molecules shape the structural and functional archi…
+- **Emily Jacobs - New frontiers in women's brain health** — 12:00 PM @ Stanford Neurosciences Building, Gunn Rotunda (E241) · _Unknown_
+  - source: Wu Tsai Neurosciences · audience: `unknown` · [link](https://neuroscience.stanford.edu/events/emily-jacobs-new-frontiers-womens-brain-health)
+- **From Yahweh to Jupiter: Orthodox Muscovy Deals with the Classical World** — 12:00 PM – 1:30 PM @ Humanities Center, Room SHC Board Room, 424 Santa Teresa Street, Stanford, CA 94305 · _Public_
+  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/from-yahweh-to-jupiter-orthodox-muscovy-deals-with-the-classical-world)
+  - Considering a few instances taking place between 1680–1705, the talk shows how interculturalism, multilingualism, and multiconfessionalism in the Polish-Lithuanian Commonwealth and in Ruthenia helped to spread Classical culture into Eastern Europe. In his collection, Multiflower…
+- **Geophysics Seminar - Tarje Nissen-Meyer** — 12:00 PM – 1:00 PM @ Mitchell Earth Sciences, Room 350/372, 397 Panama Mall, Stanford, CA 94305 · _Unknown_
+  - source: Stanford Events (Localist) · audience: `unknown` · [link](https://events.stanford.edu/event/geophysics-seminar-tarje-nissen-meyer)
+  - Speaker: Tarje-Nissen Meyer Professor in Environmental Intelligence, University of Exeter More information forthcoming
+- **Korea’s Nuclear Odyssey Beyond Borders: From KEDO to the Age of AI** — 12:00 PM – 1:15 PM @ Encina Hall, Room 3RD Floor, Philippines Conference Room (C330), 616 Jane Stanford Way, Stanford, CA 94305 · _Public_
+  - source: Stanford Events (Localist) · also FSI · audience: `open_to_public` · [link](https://events.stanford.edu/event/koreas-nuclear-odyssey-beyond-borders-from-kedo-to-the-age-of-ai)
+  - Every odyssey begins with a departure, but the Odyssey is also a story of return—not just to where one began, but to lessons learned along the way. South Korea’s nuclear journey beyond its borders spans three landmark projects: KEDO in North Korea, Barakah in the United Arab Emi…
+- **Smart Strategies for Holiday Eating** — 12:00 PM – 1:00 PM · _Unknown_
+  - source: Stanford Events (Localist) · audience: `unknown` · [link](https://events.stanford.edu/event/smart-strategies-for-holiday-eating-5915)
+  - The winter holiday season is almost here. This time of year, we may look forward to joyful experiences and time spent with loved ones. Yet, many of us also anticipate what can feel like the inevitable accompaniment to all these good times: too much food, drinks, sweets, and the…
+- **Yes, And! Improv Techniques for Confident Communication and Creative Thinking** — 12:00 PM – 1:30 PM @ Tresidder Memorial Union, Room Oak West · _Stanford only_
+  - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/quick-bytes-yes-and-improv-techniques-for-confident-communication-and-creative-thinking-2026)
+  - Join us for a fun and interactive workshop designed to support your professional development through the art of improvisation! Engage in interactive (and hilarious) improv exercises with fellow grad students to explore essential skills such as spontaneity, active listening, trus…
+- **Action Plan for Mental Health** — 12:30 PM – 2:00 PM @ Vaden Student Health Center, 866 Campus Drive, Stanford, CA 94305 · _Stanford only_
+  - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/copy-of-action-plan-for-mental-health)
+  - In this workshop you will be able to design a structured, self-designed plan that helps you maintain wellness, respond to stress, and navigate challenges with resilience and clarity. Do you find that stress, anxiety, and mental health issues make it difficult for you to thrive a…
+- **Urban Studies Model Scholar Lecture | How Surprising Neighborhood Changes Are Bringing Down Black-White Segregation** — 12:30 PM – 1:45 PM @ Building 120, McClatchy Hall, Main Quad, Room Studio 40, Building 120, Stanford, CA 94305 · _Stanford only_
+  - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/urban-studies-20th-annual-model-scholar-lecturehow-surprising-neighborhood-changes-are-bringing-down-black-white-segregation)
+  - Join Urban Studies for the 20th Annual Model Scholar Lecture featuring John R. Logan, sociology professor at Brown University About the talk: It is well known by now that the overall level of Black-white segregation in American urban areas is going down. One surprise is that the…
+- **AI Initiative Speaker Series – Manage the Machine: Human AI Collaboration and Agentic Governance with Paula Goldman, Salesforce** — 12:45 PM – 2:00 PM @ @ SLS: Room 270, Crown Quadrangle, 559 Nathan Abbott Way, Stanford · _Unknown_
+  - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/ai-initiative-speaker-series-8/)
+  - Paula Goldman, Salesforce’s Chief Ethical and Humane Use Officer, discusses frameworks for effective human-AI collaboration as autonomous AI agents become more prevalent in the enterprise. The session will explore governance structures, oversight mechanisms, and ethical guardrai…
+- **[BigLaw & AI – Event Title TBD]** — 12:45 PM – 2:00 PM @ @ SLS: Room 190, Crown Quadrangle 559 Nathan Abbott Way, Stanford · _Unknown_
+  - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/big-laws-biggest-ai-bet-a-talk-with-kirkland-ellis-partner-ari-levi/)
+  - [BigLaw & AI – Event Description TBD] Thursday, October 29, 2026, 12:45 to 2:00pm. Lunch provided.
+- **A Legacy of Illegal Infrastructure: Fish Passage Laws in Oregon, California, and Washington** — 1:00 PM – 2:00 PM @ @ SLS: Room 280B, Crown Quadrangle, 559 Nathan Abbott Way, Stanford · _Unknown_
+  - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/a-legacy-of-illegal-infrastructure-fish-passage-laws-in-oregon-california-and-washington/)
+  - Join SLS alum and leading water law expert at UC Davis, Karrigan Börk for a discussion on illegal infrastructure and failed fish passage and ecosystem protections on the West Coast. There is a long history of laws in California (and other states) that tried to protect fish passa…
+- **Emergent Properties: Decennial Reflections on Collections** — 1:00 PM – 5:00 PM @ David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305 · _Public_
+  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/emergent-properties)
+  - In 2026 the David Rumsey Map Center celebrates its tenth year—a moment to reflect on how the Center has added value to scholarship on campus and around the world. Our collections are vast and not bounded by geography, spanning the 15th century to the present. Yet over the last d…
+- **TNT Traysikel: Never Gonna Give You Up!** — 1:00 PM – 5:00 PM @ McMurtry Building, Room Miller Discussion Room and Vitrine Gallery, 355 Roth Way, Stanford, CA 94305 · _Public_
+  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/never-gonna-give-you-up)
+  - TNT Traysikel: Never Gonna Give You Up! On View: October 14–December 4, 2026* McMurtry Building, 355 Roth Way, Stanford Miller Discussion Room and Vitrine Gallery Open Monday–Friday, 1:00pm–5:00pm Curated By: Gabriel Harrison Free & open to the public Opening Reception: Friday,…
+- **Tangling the Digital: Weaving, Printmaking, Computing** — 1:00 PM – 5:00 PM @ McMurtry Building, Room Coulter Art Gallery, 355 Roth Way, Stanford, CA 94305 · _Public_
+  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/tangling-the-digital-weaving-printmaking-computing)
+  - Digital objects are often seen as alien to craft, as though no hands had shaped them. They can be copied endlessly and exactly, bereft of the maker’s touch. Yet weaving and printmaking are among our oldest technologies of reproduction, fixing patterns so they can be repeated and…
+- **Touch Me Not: 12th Annual Undergraduate Juried Exhibition** — 1:00 PM – 5:00 PM @ Art Gallery, 419 Lasuen Mall, Stanford, CA 94305 · _Public_
+  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/touch-me-not-12th-annual-undergraduate-juried-exhibition)
+  - Presented by the Department of Art & Art History, the 12th Annual Undergraduate Juried Exhibition, Touch Me Not, showcases a campus-wide selection of artwork by twenty-two Stanford undergraduate students. Touch Me Not: 12th Annual Undergraduate Juried Exhibition On View: October…
+- **Environmental Behavioral Sciences Seminar with Fran Moore** — 1:15 PM – 2:30 PM @ Y2E2 Building, Room 299, 473 Via Ortega, Stanford, CA 94305 · _Stanford only_
+  - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/environmental-behavioral-sciences-seminar-with-fran-moore)
+  - The High Cost of Extreme Weather Under Climate Change Climate change is already altering the frequency and intensity of weather extremes, with large and growing costs around the world. However, considering only realized losses understates the costs of climate-change driven extre…
+- **Anxiety Toolbox** — 2:30 PM – 4:30 PM @ Vaden Student Health Center, Room Ed Center, 866 Campus Drive, Stanford, CA 94305 · _Stanford only_
+  - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/copy-of-anxiety-toolbox-1029)
+  - Learn about how stress and anxiety show up in your body, emotions, thoughts and behaviors, and gain skills to lower anxiety in each area. Increase your ability to manage anxious thoughts and develop skills to recognize the role of systems of oppression and conditioning in anxiet…
+- **Worse than War: The Global Costs of Violence** — 3:30 PM – 5:00 PM @ Encina Hall, Room William J. Perry Conference Room, 616 Jane Stanford Way, Stanford, CA 94305 · _Public_
+  - source: Stanford Events (Localist) · also FSI · audience: `open_to_public` · [link](https://events.stanford.edu/event/worse-than-war-the-global-costs-of-violence)
+  - About the event: Civil wars, interstate wars, and terrorism receive a great deal of media and policy attention, for good reasons. By contrast, the major forms of interpersonal violence—homicide, intimate partner violence, and severe physical punishment of children—generally have…
+- **On-Campus Public Interest Career Fair (OCPI)** — 3:45 PM – 6:45 PM @ @ SLS: Crocker Garden, Crown Quadrangle, 559 Nathan Abbott Way, Stanford · _Unknown_
+  - source: Stanford Law · audience: `unknown` · [link](https://law.stanford.edu/event/on-campus-public-interest-interviews-1/)
+  - The Levin Center is proud to announce our inaugural On-Campus Public Interest Career Fair, OCPI, which will gather local employers and students for structured informational interview appointments and table talk opportunities. The same day at lunch time from 1-2 pm, OCPI will als…
+- **Leadership Bootcamp: Communication, Negotiation and Influence** — 4:00 PM – 7:30 PM @ EVGR 144B · _Stanford only_
+  - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/leadership-bootcamp-communication-negotiation-and-influence-oct28-oct29-2026)
+  - In these highly interactive and practical sessions, we will discuss how effective leaders create a healthy, collaborative environment in which negotiations and difficult conversations are likely to go more smoothly. We will explore how leaders navigate different types of influen…
+- **Tea for the Soul** — 4:00 PM @ Old Union, Room CIRCLE Common Room (Old Union, 3rd floor), 520 Lasuen Mall, Stanford, CA 94305 · _Stanford only_
+  - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/tea-for-the-soul)
+  - Join us on Thursday for some tea and space to relax and discuss this week's tea! Meet us at the couches outside of the Common Room.
+- **InterPlay Salon with Austin Anderson, Jussi Ängeslevä, and Patrick R. Crowley | Stanford Affiliates Only** — 5:00 PM – 6:30 PM @ Cantor Arts Center, Room Cantor Auditorium, 328 Lomita Drive, Stanford, CA 94305 · _Stanford only_
+  - source: Stanford Events (Localist) · audience: `stanford_only` · [link](https://events.stanford.edu/event/InterPlay_Oct_2026)
+  - InterPlay (Interdisciplinary Playground) is a quarterly salon series co-organized by VPA Interdisciplinary Arts Programs and the Cantor Arts Center. Designed for faculty, graduate students, and campus collaborators, the series creates a lively space to share work, spark ideas, a…
+- **PTO (Patio Time, Obviously)** — 5:00 PM – 8:00 PM @ PAB Patio · _Stanford only_
+  - source: KIPAC · audience: `stanford_only` · [link](https://kipac.stanford.edu/events/other/pto-patio-time-obviously-3)
+  - Join your colleagues on the PAB Patio for an elevated selection of wines, non-alcoholic beverages, and snacks. All members of KIPAC and their guests are welcome! Wine selection curated by the Postdoc Wine Club.
+- **Weintz Art Lecture Series: Elizabeth Dospěl Williams** — 5:30 PM – 7:00 PM @ McMurtry Building, Room Oshman Hall, 355 Roth Way, Stanford, CA 94305 · _Public_
+  - source: Stanford Events (Localist) · also Stanford Humanities Center · audience: `open_to_public` · [link](https://events.stanford.edu/event/weintz-art-lecture-series-elizabeth-dospel-williams-2203)
+  - Made possible by the J. Fred Weintz and Rosemary Weintz Art Lecture Series Fund, this series invites distinguished art historians from diverse concentrations each quarter to speak and engage with our students and the Stanford community, enriching the culture of art history and a…
+- **AUDITIONS | "Angels in America Part One: Millennium Approaches"** — 6:00 PM – 9:00 PM @ To Be Announced · _Public_
+  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/Angels-Auditions)
+  - WINTER 2027 MAIN STAGE | SIGN UP DETAILS COMING SOON | View 26-27 Season Written Tony Kushner | Directed by TAPS Graduate Student Connor Lifson ABOUT Angels in America Part One: Millennium Approaches As the AIDS crisis intensifies in the mid-1980s, a group of New Yorkers find th…
+- **Witness to Iran’s Paradigm Shift: From Flight PS752 to Woman, Life, Freedom and Beyond** — 6:30 PM – 8:00 PM @ In person at Stanford · _Public_
+  - source: Stanford Events (Localist) · audience: `open_to_public` · [link](https://events.stanford.edu/event/witness-to-irans-paradigm-shift-from-flight-ps752-to-woman-life-freedom-and-beyond)
+  - In this lecture, Babak Payami argues that the Woman, Life, Freedom uprising was not simply another episode in Iran’s long struggle for freedom. It marked the collapse of a political dialogue with power sustained for decades by repression, ideological rivalry, and the recurring i…
+- **DEVELOPMENTAL STAGE | 404 Not Found** — 8:00 PM – 9:30 PM @ Pigott Theater Stage, Room Pigott Stage, 550 Memorial Way, Stanford CA 94305 · _Unknown_
+  - source: Stanford Events (Localist) · audience: `unknown` · [link](https://events.stanford.edu/event/dev-stage-404-not-found)
+  - FALL DEVELOPMENTAL STAGE 2026 | Tickets on Sale OCT 2026 | NO LATE SEATING Written & Directed By TAPS Graduate Student Lucas Baisch We find ourselves at the back of a clay building that signals ‘stay away, stay awake.’ Slack has a bad habit of holding people captive. Now he’s th…

@@ -1,875 +1,5 @@
 [
   {
-    "id": "574dbaf321f5d37f",
-    "title": "Book spells",
-    "start": "2026-10-08T00:00:00-07:00",
-    "end": null,
-    "location": "Education (Cubberley Bldg), Room 101, 485 Lasuen Mall, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/book-spells",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Boil, boil, toil and trouble… what bewitching book will you find at the Education Library? Our witchy book display has a little bit of magic for everyone! Meet witches who are mischievous, adventurous, and sometimes downright wicked. From little witches who aren’t too scary to c…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "9f2c6f63654d5cf3",
-    "title": "Carolyn Lazard: Long Take",
-    "start": "2026-10-08T00:00:00-07:00",
-    "end": null,
-    "location": "Cantor Arts Center, Room Lynn Krywick Gibbons Gallery, 328 Lomita Drive, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/carolyn-lazard-long-take",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Carolyn Lazard: Long Take is a multimedia exhibition that begins with a score for a performance and unfolds as a series of interventions that engage accessibility as an artistic material. Made in collaboration with dancer Jerron Herman and poet and artist Joselia Rebekah Hughes,…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "51716a1f4bbfa018",
-    "title": "InnovateED",
-    "start": "2026-10-08T00:00:00-07:00",
-    "end": null,
-    "location": null,
-    "url": "https://events.stanford.edu/event/innovateed-5811",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Join us for a power-packed event bringing together Silicon Valley’s cutting-edge technology and the future of learning! With dynamic concurrent sessions, this conference is a must for educators, instructional designers, administrators, CE/CPD professionals, online program develo…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "9cde88a362372470",
-    "title": "Korean Indigenous Futures: The Art of Kim Bong-Jun 김봉준 판화전: 토착적 미래- K아트, 디아스포라, 세계",
-    "start": "2026-10-08T00:00:00-07:00",
-    "end": null,
-    "location": "Lathrop Library, Room East Asia Library, 2nd Floor, 518 Memorial Way, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/korean-indigenous-futures",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "The East Asia Library at Stanford University will host a print exhibition by Kim Bong-Jun, a leading figure in Korean Minjung (People’s) Art, from September 29 to December 11, 2026. Active since the 1980s, Kim has developed a distinctive visual language that combines traditional…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "83e6bd70348168c7",
-    "title": "New FusionGO app",
-    "start": "2026-10-08T00:00:00-07:00",
-    "end": null,
-    "location": null,
-    "url": "https://events.stanford.edu/event/new-fusiongo-app",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "We’ve moved to a new FusionGO app – your all-in-one pass for quick facility access, live class schedules, membership management, program sign-ups, and more! Download the new FusionGO app on the Apple App Store or Google Play Store today!",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "5c91c79fdfedde80",
-    "title": "SLS Firm Expos",
-    "start": "2026-10-08T00:00:00-07:00",
-    "end": "2026-10-09T23:59:59-07:00",
-    "location": "@ Stanford: Paul Brest Hall, 555 Salvatierra Walk, Stanford",
-    "url": "https://law.stanford.edu/event/sls-firm-expo/",
-    "source_name": "Stanford Law",
-    "source_url": "https://law.stanford.edu/events/",
-    "description": "The third annual SLS Firm Expo Series is a great way to research employers! The event is hosted from 3:30pm – 5:30pm on October 8th – October 9th. These two career-fair style events are an efficient and convenient way to network in-person with over 70 firms in just two afternoon…",
-    "audience": "unknown"
-  },
-  {
-    "id": "68766bf23ffd2d2e",
-    "title": "Solid Pictures: Photosculpture and the Making of Modern Likeness",
-    "start": "2026-10-08T00:00:00-07:00",
-    "end": null,
-    "location": "Cantor Arts Center, Room Pigott Family Gallery, 328 Lomita Drive, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/solid-pictures-photosculpture-and-the-making-of-modern-likeness",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Before 3D printing, there was photosculpture. Curated by Patrick R. Crowley, Associate Curator of European Art, Solid Pictures is the first major exhibition to explore these largely overlooked objects first conceived in 1859 by the twenty-nine-year-old French artist and inventor…",
-    "audience": "unknown"
-  },
-  {
-    "id": "a5cf2abfebf916fb",
-    "title": "Text Machines: Scarlet Thread of the Digital Order (1883-2026)",
-    "start": "2026-10-08T00:00:00-07:00",
-    "end": null,
-    "location": "Green Library, Bing Wing, Room Hohbach Hall, 459 Lasuen Mall, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/text-machines-scarlet-thread-of-the-digital-order-1883-2026",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Stanford Libraries now holds an 1883 edition of a rare book, Les laboureurs: poème tiré de Jocelyn, whose pages (text and ornaments) were entirely woven on a Jacquard loom by the firm of silk merchant Joseph-Alphonse Henry. This exhibition explores the cultural contexts and mate…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "dc40a43f85d9dc19",
-    "title": "Financial Counseling with Fidelity (Main Campus, Huang Bldg, Room B019) (By Appointment Only)",
-    "start": "2026-10-08T08:00:00-07:00",
-    "end": "2026-10-08T17:00:00-07:00",
-    "location": "Jen-Hsun Huang Building (School of Engineering), Room B019, 475 Via Ortega, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/copy-of-financial-counseling-with-fidelity-main-campus-huang-bldg-room-b019-by-appointment-only-4862",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Did you know that advisors from Fidelity Investments and TIAA provide free individual financial counseling on campus at your convenience? They can offer guidance on the best strategy to meet your retirement goals through Stanford's retirement savings plans. Contact Fidelity dire…",
-    "audience": "stanford_only"
-  },
-  {
-    "id": "c7d315ace1ac8fd7",
-    "title": "Electric Contrasts: the Art of the Detail",
-    "start": "2026-10-08T09:00:00-07:00",
-    "end": "2026-10-08T19:00:00-07:00",
-    "location": "McMurtry Building, Room Bowes Art & Architecture Library, 2nd floor. Visitors: Please call 650-723-3408 for building/elevator access., 355 Roth Way, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/electric-contrasts-the-art-of-the-detail-7315",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Electric Contrasts: The Art of the Detail brings together photobooks and magazines to show how the revolution of photography in the late 19th and early 20th century changed the history of art. Electric Contrasts takes Kenneth Clark’s landmark 1938 book One Hundred Details from P…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "044d3f938ffed5f3",
-    "title": "SLAC Safety Fair: Flu & COVID-19 Vaccination Clinic",
-    "start": "2026-10-08T09:00:00-07:00",
-    "end": "2026-10-08T15:00:00-07:00",
-    "location": "SLAC National Accelerator Laboratory, 2575 Sand Hill Rd, Menlo Park, CA 94025",
-    "url": "https://events.stanford.edu/event/slac-safety-fair-flu-covid-19-vaccination-clinic",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Keep Stanford Healthy: Campus Flu & COVID-19 Vaccination Clinic ***SLAC BADGE REQUIRED*** As we head into the autumn season, let’s work together to keep our campus safe, healthy, and thriving. We encourage all members of the Stanford community to take a proactive step in protect…",
-    "audience": "unknown"
-  },
-  {
-    "id": "1f0ce702208c3916",
-    "title": "The Bible and Wonder: Literary, Philosophical, and Visual Encounters with the Extraordinary",
-    "start": "2026-10-08T09:15:00-07:00",
-    "end": "2026-10-08T17:30:00-07:00",
-    "location": null,
-    "url": "https://events.stanford.edu/event/the-bible-and-wonder-literary-philosophical-and-visual-encounters-with-the-extraordinary",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "The Taube Center for Jewish Studies and the Department of Comparative Literature present The Bible and Wonder: Literary, Philosophical, and Visual Encounters with the Extraordinary. Join us for two days of interdisciplinary conversation at Stanford University on Oct 8, 2026 and…",
-    "audience": "unknown"
-  },
-  {
-    "id": "da83aa10b23fcd28",
-    "title": "A Vision of Paris: The Roxane Debuisson Collection at Stanford",
-    "start": "2026-10-08T10:00:00-07:00",
-    "end": "2026-10-08T18:00:00-07:00",
-    "location": "Green Library, Bing Wing, 459 Lasuen Mall, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/a-vision-of-paris-the-roxane-debuisson-collection-at-stanford",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Stanford University Libraries presents A Vision of Paris: the Roxane Debuisson Collection at Stanford, on view in the Peterson Gallery and Munger Rotunda of the Cecil H. Green Library from September 22, 2026 to January 24, 2027. Roxane Debuisson (1927–2018) dedicated sixty years…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "2a0659ea2ebe4234",
-    "title": "Build Your Own Bouquet: O’Donohue Family Stanford Educational Farm",
-    "start": "2026-10-08T10:00:00-07:00",
-    "end": "2026-10-08T14:00:00-07:00",
-    "location": "O'Donohue Educational Farm, Room Back Oak Deck, 175 Electioneer Rd, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/copy-of-build-your-own-bouquet-odonohue-family-stanford-educational-farm-4191",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Come to The O'Donohue Family Stanford Educational Farm to build your own seasonal, organic, flower bouquet using flowers grown on the campus farm. Follow provided directions, to make your bouquet. Flowers will be available in buckets for your choosing. Pay onsite via QR code. Th…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "fb1a76c2ba37dfba",
-    "title": "Astrophysics Colloquium: The LBT Search for Failed Supernovae",
-    "start": "2026-10-08T11:00:00-07:00",
-    "end": "2026-10-08T12:00:00-07:00",
-    "location": "Campus, PAB 102/103",
-    "url": "https://kipac.stanford.edu/events/astrophysics-colloquium/astrophysics-colloquium-lbt-search-failed-supernovae",
-    "source_name": "KIPAC",
-    "source_url": "https://kipac.stanford.edu/events/upcoming-events",
-    "description": "Abstract: Theory predicts that 10-30% of massive star core collapses produce a black hole without a supernova explosion. The only presently feasible way to identify such events in a human lifetime is to search for massive stars vanishing in nearby star forming galaxies, perhaps…",
-    "audience": "unknown"
-  },
-  {
-    "id": "5b08f3ba8dd74dc8",
-    "title": "Gear Up for Social Science Data - IRB for Non-Medical Research",
-    "start": "2026-10-08T11:00:00-07:00",
-    "end": "2026-10-08T12:00:00-07:00",
-    "location": "Green Library, Bing Wing, Room Velma Denning Room (Green Library 120F), 459 Lasuen Mall, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/gear-up-for-social-science-data-irb-for-non-medical-research",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Come meet the Michael Levesque from the Stanford IRB office and learn more about the process and when you might need them to review your research plan. An Institutional Review Board (IRB) is a committee that reviews and approves research involving human subjects to ensure it is…",
-    "audience": "unknown"
-  },
-  {
-    "id": "03498af169e5b031",
-    "title": "In Focus: Asian American Art from the Collection",
-    "start": "2026-10-08T11:00:00-07:00",
-    "end": "2026-10-08T20:00:00-07:00",
-    "location": "Cantor Arts Center, Room Ruth Levison Halperin Gallery, 328 Lomita Drive, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/in-focus-asian-american-art-from-the-collection",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "In Focus: Asian American Art from the Collection showcases recent acquisitions made through the Cantor’s Asian American Art Initiative (AAAI), offering a glimpse into one of the fastest-growing areas of the museum’s collection. Many of the works on view are being presented for t…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "34d4ff22b16fda96",
-    "title": "Between Philosophy and Literature: On Kohelet and Wonder",
-    "start": "2026-10-08T11:30:00-07:00",
-    "end": "2026-10-08T12:30:00-07:00",
-    "location": "Building 160, Wallenberg Hall, Room 433A, 450 Jane Stanford Way, Building 160, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/between-philosophy-and-literature-on-kohelet-and-wonder",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "The Bible and Wonder brings together scholars of literature, philosophy, religion, and the visual arts to explore encounters with the extraordinary in biblical texts and their later interpretations. The two-day conference considers wonder across biblical narrative, Jewish though…",
-    "audience": "stanford_only"
-  },
-  {
-    "id": "556ef8976d2473f6",
-    "title": "A Conversation with Rick Osterloh, MBA ’00, SVP of Platforms & Devices at Google and Sarah Soule, Dean of Stanford GSB",
-    "start": "2026-10-08T12:00:00-07:00",
-    "end": "2026-10-08T13:00:00-07:00",
-    "location": "CEMEX Auditorium, Room CEMEX, Graduate School of Business",
-    "url": "https://events.stanford.edu/event/a-conversation-with-rick-osterloh-mba-00-svp-of-platforms-devices-at-google-and-sarah-soule-dean-of-stanford-gsb",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Dean Sarah Soule sits down with Google SVP of Platforms & Devices Rick Osterloh for a wide-ranging conversation on AI, product, and the future of computing. This converstion is part of the AI@GSB Applied AI Initiative. Through conversations with founders, researchers, and execut…",
-    "audience": "stanford_only"
-  },
-  {
-    "id": "7b58ebe4b0a334d7",
-    "title": "AI and Mental Health: Clinical and Ethical Considerations",
-    "start": "2026-10-08T12:00:00-07:00",
-    "end": "2026-10-08T13:15:00-07:00",
-    "location": null,
-    "url": "https://events.stanford.edu/event/ai-and-mental-health-clinical-and-ethical-considerations-2813",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Increasingly considered as a possible means of supporting therapist training or extending between-session support to patients, AI is also being evaluated as a stand-alone mental health intervention. Although the field is advancing, demonstrating that AI can be deployed safely, e…",
-    "audience": "stanford_only"
-  },
-  {
-    "id": "a1f4067442b6a990",
-    "title": "Aleksandar Matovski — The Kremlin’s Pressure Cooker: Restraint and Escalation in Russia’s War on Ukraine",
-    "start": "2026-10-08T12:00:00-07:00",
-    "end": "2026-10-08T13:15:00-07:00",
-    "location": "Virtual to Public. If prompted for a password, use: 123456 Only those with an active Stanford ID with access to William J. Perry Conference Room in Encina Hall may attend in person.",
-    "url": "https://events.stanford.edu/event/aleksandar-matovski-the-kremlins-pressure-cooker-restraint-and-escalation-in-russias-war-on-ukraine",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "As Russia’s war against Ukraine grinds on and debate intensifies over how to end it, what could push the conflict into a more dangerous phase of escalation? This talk examines how the Putin regime’s domestic political imperatives shape when Moscow absorbs setbacks and when it es…",
-    "audience": "open_to_public",
-    "also_sources": [
-      "FSI"
-    ]
-  },
-  {
-    "id": "6ba998678a012e38",
-    "title": "Black Mental Wellness Group--No Meeting on 10/8/2026; Next meeting on 11/12/2026",
-    "start": "2026-10-08T12:00:00-07:00",
-    "end": "2026-10-08T13:30:00-07:00",
-    "location": null,
-    "url": "https://events.stanford.edu/event/black-mental-wellness-group-415",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Co-sponsored with the Black Staff Alliance The Black Mental Wellness Group will not meet on Thursday, 10/8/2026. Meetings will resume on Thursday, 11/12/2026",
-    "audience": "stanford_only"
-  },
-  {
-    "id": "5f78e74eb4b3dc9a",
-    "title": "Comics: More Than Words: Amrita Adak - Cultural Trends Through Manhwa",
-    "start": "2026-10-08T12:00:00-07:00",
-    "end": "2026-10-08T13:30:00-07:00",
-    "location": null,
-    "url": "https://events.stanford.edu/event/comics-more-than-words-amrita-adak-cultural-trends-through-manhwa",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Please join Comics: More Than Words for Cultural Trends Through Manhwa, a discussion with Amrita Adak, Professional Korean Translator, on understanding translation, transmigration, and cultural trends through manhwa. In this event, we will explore the theme of gender equity in S…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "5250a1e6a420769f",
-    "title": "DAAAS Fall Faculty Research Seminar(s)",
-    "start": "2026-10-08T12:00:00-07:00",
-    "end": "2026-10-08T13:00:00-07:00",
-    "location": "Building 80, Room 114, 450 Jane Stanford Way, Building 80, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/daaas-fall-faculty-research-seminars",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Please join DAAAS for the Fall Quarter Faculty Research Seminars on first thursdays from 12-1.30pm. The speaker line-up: October 8: Power, Historiography, Photography--Professor Joshua Cohen, Associate Professor of Art and Art History and, by courtesy, of African and African Ame…",
-    "audience": "stanford_only"
-  },
-  {
-    "id": "f58803f883e71a6f",
-    "title": "Earth System Science Seminar Series: Dr. Morgan Raven",
-    "start": "2026-10-08T12:00:00-07:00",
-    "end": "2026-10-08T13:00:00-07:00",
-    "location": "Y2E2 Building, Room 299, 473 Via Ortega, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/earth-system-science-seminar-series-dr-morgan-raven",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "EARTH SYSTEM SCIENCE SEMINAR SERIES October 8, 2026 12:00 - 1:00 PM Y2E2, Room 299 Morgan Raven, Ph.D. Associate Professor University of California, Santa Barbara Earth Science Department and Marine Science Program “Evaluating the Potential Scale and Impacts of Marine Anoxic Car…",
-    "audience": "stanford_only"
-  },
-  {
-    "id": "aeed7ad4ceb6007f",
-    "title": "Geophysics Seminar - Rodrigo Contreras Arratia, \"Volcano Seismology - Translating Academic Results into Monitoring\"",
-    "start": "2026-10-08T12:00:00-07:00",
-    "end": "2026-10-08T13:00:00-07:00",
-    "location": "Mitchell Earth Sciences, Room 350/372, 397 Panama Mall, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/geophysics-seminar-rodrigo-contreras-arratia-volcano-seismology-translating-academic-results-into-monitoring",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Speaker: Prof. Rodrigo Contreras Arratia Luksic Visiting Scholar / Assistant Professor, Universidad Católica de Temuco, Chile Abstract: Scientific advances in volcano seismology are difficult to translate into actual volcano observatory practice. Scientific conclusions drawn fro…",
-    "audience": "unknown"
-  },
-  {
-    "id": "49c96f4641ccfd0e",
-    "title": "Managing Stress Effectively for Well-Being",
-    "start": "2026-10-08T12:00:00-07:00",
-    "end": "2026-10-08T13:00:00-07:00",
-    "location": null,
-    "url": "https://events.stanford.edu/event/managing-stress-effectively-for-well-being-1891",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Ongoing stress can take a toll, draining your energy, making it harder to stay motivated, and leaving you feeling less engaged in daily life. Over time, these challenges can profoundly affect your focus, productivity, and mood. Recognizing the signs that your stress is building…",
-    "audience": "unknown"
-  },
-  {
-    "id": "81b495915b33cddf",
-    "title": "Takaki Komiyama - A cell-type-specific cortical circuit for maintenance of value representations",
-    "start": "2026-10-08T12:00:00-07:00",
-    "end": "2026-10-09T12:00:00-07:00",
-    "location": "Stanford Neurosciences Building, 290 Jane Stanford Way, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/takaki-komiyama-a-cell-type-specific-cortical-circuit-for-maintenance-of-value-representations",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Join the speaker for coffee, cookies, and conversation before the talk, starting at 11:45am. A cell-type-specific cortical circuit for maintenance of value representationsAbstract Our decisions are shaped by the history of our choices and their outcomes. To guide future behavior…",
-    "audience": "unknown",
-    "also_sources": [
-      "Wu Tsai Neurosciences"
-    ]
-  },
-  {
-    "id": "7760e83cfc849f55",
-    "title": "Welcome Back Event",
-    "start": "2026-10-08T12:00:00-07:00",
-    "end": "2026-10-08T13:30:00-07:00",
-    "location": "Board Room",
-    "url": "https://shc.stanford.edu/stanford-humanities-center/events/welcome-back-event",
-    "source_name": "Stanford Humanities Center",
-    "source_url": "https://shc.stanford.edu/stanford-humanities-center/events",
-    "description": "Research Workshop",
-    "audience": "unknown"
-  },
-  {
-    "id": "4665a18f05288eb6",
-    "title": "CPR/AED/First Aid Certification Class",
-    "start": "2026-10-08T12:30:00-07:00",
-    "end": "2026-10-08T16:30:00-07:00",
-    "location": "Environmental Health & Safety, Room 116/118, 484 Oak Road",
-    "url": "https://events.stanford.edu/event/cpraedfirst-aid-certification-class",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "This class trains employees in the use of AED, CPR and First Aid, and meets the standards required by California for AED use. Certification is good for 2 years. This is a great class for anyone interested in renewing their certification or getting certified for the first time.",
-    "audience": "stanford_only"
-  },
-  {
-    "id": "b77adce77bb0994b",
-    "title": "LA Spring Break Arts Immersion - Info Session",
-    "start": "2026-10-08T12:30:00-07:00",
-    "end": "2026-10-08T13:00:00-07:00",
-    "location": null,
-    "url": "https://events.stanford.edu/event/la-spring-break-arts-immersion-info-session",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Learn more about the 2027 Los Angeles Arts Immersion and the application process at an online info session on Thursday, Oct 8 at 12:30-1PM. RSVP here for zoom link About LA Arts Immersion Over the course of spring break 2027, participating students will explore the dynamic histo…",
-    "audience": "unknown"
-  },
-  {
-    "id": "e2c6b76f679d3d59",
-    "title": "AI Initiative Speaker Series – Privilege Risk in the Age of AI with Jina Choi, Gibson Dunn",
-    "start": "2026-10-08T12:45:00-07:00",
-    "end": "2026-10-08T14:00:00-07:00",
-    "location": "@ SLS: Room 270, Crown Quadrangle, 559 Nathan Abbott Way, Stanford",
-    "url": "https://law.stanford.edu/event/privilege-risk-in-the-age-of-ai/",
-    "source_name": "Stanford Law",
-    "source_url": "https://law.stanford.edu/events/",
-    "description": "Jina Choi, a partner at Gibson Dunn and former Chief of the Corporate and Securities Fraud Division at the U.S. Attorney’s Office – Northern District of California, examines how AI tools intersect with privilege and confidentiality risks in legal practice. This discussion will a…",
-    "audience": "unknown"
-  },
-  {
-    "id": "64d4c7f2340c7630",
-    "title": "At the Intersection of Law, Business & Government",
-    "start": "2026-10-08T12:45:00-07:00",
-    "end": "2026-10-08T14:00:00-07:00",
-    "location": "@ SLS: Room 95, Crown Quadrangle, 559 Nathan Abbott Way, Stanford",
-    "url": "https://law.stanford.edu/event/at-the-intersection-of-law-business-government/",
-    "source_name": "Stanford Law",
-    "source_url": "https://law.stanford.edu/events/",
-    "description": "Please join Women of Stanford Law for a conversation with lawyers from Hogan Lovells Cadwalader. The participating lawyers will be Marcy Wilder, Melissa Jacobs, Debbie Oh, and Meghan Anand . Lizzie Spaeth will moderate the panel. Spanning multiple practices and offices, they wil…",
-    "audience": "unknown"
-  },
-  {
-    "id": "14fdde98e4e4d589",
-    "title": "Digital Wellness with the Law Library",
-    "start": "2026-10-08T12:45:00-07:00",
-    "end": "2026-10-08T14:00:00-07:00",
-    "location": "@ Stanford Law School, 559 Nathan Abbott Way, Stanford",
-    "url": "https://law.stanford.edu/event/digital-wellness-with-the-law-library/",
-    "source_name": "Stanford Law",
-    "source_url": "https://law.stanford.edu/events/",
-    "description": "Join us at the library for a digital reset! Librarians will help you explore practical ways to reduce unwanted AI features and build healthier habits around digital tools. Plus, get an early look at one of our newest resources: Freewrite typewriters for distraction-free writing.",
-    "audience": "unknown"
-  },
-  {
-    "id": "064232cff7e4705a",
-    "title": "Policy Lab Workshop | Understanding the Differences Between Empirical Analysis and Policy Advocacy",
-    "start": "2026-10-08T12:45:00-07:00",
-    "end": "2026-10-08T14:00:00-07:00",
-    "location": "@ SLS: Room 14, Crown Quadrangle, 559 Nathan Abbott Way, Stanford",
-    "url": "https://law.stanford.edu/event/policy-lab-workshop-understanding-the-differences-between-empirical-analysis-and-policy-advocacy/",
-    "source_name": "Stanford Law",
-    "source_url": "https://law.stanford.edu/events/",
-    "description": "This workshop elevates understanding of how biases and value systems may play out in policy research. It compares examples of strong empirical writing with effective advocacy, with attention to tone, word choice, evidence, audience, and policy goals.",
-    "audience": "unknown"
-  },
-  {
-    "id": "dc78a2eec41f599f",
-    "title": "Private Lunch w/ Matt Botvinick [Anthropic; AI & Rule of Law]",
-    "start": "2026-10-08T12:45:00-07:00",
-    "end": "2026-10-08T13:45:00-07:00",
-    "location": "@ SLS: Room 272, Crown Quadrangle, 559 Nathan Abbott Way, Stanford",
-    "url": "https://law.stanford.edu/event/private-lunch-w-matt-botvinick-anthropic-ai-rule-of-law/",
-    "source_name": "Stanford Law",
-    "source_url": "https://law.stanford.edu/events/",
-    "description": "A private lunch with SAILS and Matt Botvinick, who leads the AI & Rule of Law Team at the Anthropic Institute . This team, embedded within Anthropic, conducts research on what AI will mean for executive power, for courts and elections, and for the public deliberation that consti…",
-    "audience": "unknown"
-  },
-  {
-    "id": "ee7f16f8ea14f349",
-    "title": "The Ongoing Controversy Involving the Southern Poverty Law Center – Ryan Bangert (Alliance Defending Freedom)",
-    "start": "2026-10-08T12:45:00-07:00",
-    "end": "2026-10-08T14:00:00-07:00",
-    "location": "@ SLS: Room 285, Crown Quadrangle, 559 Nathan Abbott Way, Stanford",
-    "url": "https://law.stanford.edu/event/ryan-bangert-alliance-defending-freedom/",
-    "source_name": "Stanford Law",
-    "source_url": "https://law.stanford.edu/events/",
-    "description": "Join the Stanford Federalist Society for a conversation with Ryan Bangert, Vice-President of the Alliance Defending Freedom (ADF) titled “ The Ongoing Controversy Involving the Southern Poverty Law Center.”",
-    "audience": "unknown"
-  },
-  {
-    "id": "43fccf0536c0c955",
-    "title": "Emergent Properties: Decennial Reflections on Collections",
-    "start": "2026-10-08T13:00:00-07:00",
-    "end": "2026-10-08T17:00:00-07:00",
-    "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/emergent-properties",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "In 2026 the David Rumsey Map Center celebrates its tenth year—a moment to reflect on how the Center has added value to scholarship on campus and around the world. Our collections are vast and not bounded by geography, spanning the 15th century to the present. Yet over the last d…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "626d426c9b2b9f9a",
-    "title": "Federal Bar Association Indian Law Conference Info Meeting",
-    "start": "2026-10-08T13:00:00-07:00",
-    "end": "2026-10-08T14:00:00-07:00",
-    "location": "@ Stanford Law School, 559 Nathan Abbott Way, Stanford",
-    "url": "https://law.stanford.edu/event/federal-bar-association-indian-law-conference-info-meeting/",
-    "source_name": "Stanford Law",
-    "source_url": "https://law.stanford.edu/events/",
-    "description": "An informational meeting on attending the annual Federal Bar Association Indian Law Conference to give details and answer questions.",
-    "audience": "unknown"
-  },
-  {
-    "id": "c853de4984198a97",
-    "title": "Grad 201: Navigating Your Health at Stanford: Vaden Services, CAPS, Insurance",
-    "start": "2026-10-08T13:00:00-07:00",
-    "end": "2026-10-08T14:30:00-07:00",
-    "location": "Online",
-    "url": "https://law.stanford.edu/event/grad-201-navigating-your-health-at-stanford-vaden-services-caps-insurance/",
-    "source_name": "Stanford Law",
-    "source_url": "https://law.stanford.edu/events/",
-    "description": "Navigating healthcare while in graduate school shouldn’t feel like a research project. Whether you are new to campus or returning for another year, join the Graduate Life Office (GLO) for a comprehensive webinar designed to help you get the most out of your health and wellness r…",
-    "audience": "unknown"
-  },
-  {
-    "id": "01730f07bdf5c5e6",
-    "title": "Tangling the Digital: Weaving, Printmaking, Computing",
-    "start": "2026-10-08T13:00:00-07:00",
-    "end": "2026-10-08T17:00:00-07:00",
-    "location": "McMurtry Building, Room Coulter Art Gallery, 355 Roth Way, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/tangling-the-digital-weaving-printmaking-computing",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Digital objects are often seen as alien to craft, as though no hands had shaped them. They can be copied endlessly and exactly, bereft of the maker’s touch. Yet weaving and printmaking are among our oldest technologies of reproduction, fixing patterns so they can be repeated and…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "01cf215c9ca9a9f0",
-    "title": "Touch Me Not: 12th Annual Undergraduate Juried Exhibition",
-    "start": "2026-10-08T13:00:00-07:00",
-    "end": "2026-10-08T17:00:00-07:00",
-    "location": "Art Gallery, 419 Lasuen Mall, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/touch-me-not-12th-annual-undergraduate-juried-exhibition",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Presented by the Department of Art & Art History, the 12th Annual Undergraduate Juried Exhibition, Touch Me Not, showcases a campus-wide selection of artwork by twenty-two Stanford undergraduate students. Touch Me Not: 12th Annual Undergraduate Juried Exhibition On View: October…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "7944aed08290a2a1",
-    "title": "Global Environmental Policy Seminar with Guojun He",
-    "start": "2026-10-08T13:15:00-07:00",
-    "end": "2026-10-08T14:30:00-07:00",
-    "location": "Y2E2 Building, Room 299, 473 Via Ortega, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/global-environmental-policy-seminar-with-guojun-he",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Carbon Markets with Chinese Characteristics: From Design to Consequences This paper studies the design and consequences of China’s national rate-based carbon market. Under this system, emission‑intensity benchmarks create implicit subsidies for cleaner plants and taxes for dirti…",
-    "audience": "stanford_only"
-  },
-  {
-    "id": "11b756f4980b9d3c",
-    "title": "Artist Talk: José-Luis Hurtado",
-    "start": "2026-10-08T14:30:00-07:00",
-    "end": "2026-10-08T15:30:00-07:00",
-    "location": "CCRMA Stage",
-    "url": "https://ccrma.stanford.edu/events/artist-talk-jos-luis-hurtado",
-    "source_name": "CCRMA",
-    "source_url": "https://ccrma.stanford.edu/calendar",
-    "description": null,
-    "audience": "open_to_public"
-  },
-  {
-    "id": "5a484fba697dc348",
-    "title": "A3C Graduate Community Boba Mixer",
-    "start": "2026-10-08T15:00:00-07:00",
-    "end": "2026-10-08T16:30:00-07:00",
-    "location": "Asian American Activities Center, Room 524 Lasuen Mall, 1st Floor, 524 Lasuen Mall, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/a3c-graduate-community-boba-mixer",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Come join us at the A3C for a boba mixer on Thursday, October 8th from 3-4:30pm! Meet other graduate students, enjoy some boba and mochi waffles, and walk away with some friends to explore other on-campus events with! Non-dairy and less-sweet options are available :)",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "3c09196e79d68488",
-    "title": "Improving All Lives Through Science: The Case for Fundamental Research, Public Policy, and Advocacy",
-    "start": "2026-10-08T15:00:00-07:00",
-    "end": "2026-10-08T16:20:00-07:00",
-    "location": "Sapp Center for Science Teaching and Learning, Room STLC 114 - Sapp Lecture Hall, 376 Lomita Dr, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/improving-all-lives-through-science-the-case-for-fundamental-research-public-policy-and-advocacy",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Curiosity-driven, fundamental research fuels breakthrough technologies and lifesaving therapeutics—with chemistry at the center of it all. Yet, as scientists, we face a critical challenge: public trust in science is at a historic low, and the policy decisions shaping research fu…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "c4130001c1b2fd59",
-    "title": "Autumn Goal-Setting - Academic Advising Workshop",
-    "start": "2026-10-08T15:30:00-07:00",
-    "end": "2026-10-08T16:30:00-07:00",
-    "location": "Sweet Hall, Room 020, 590 Escondido Mall, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/goal-setting-academic-advising-workshop",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "What will you achieve this quarter? Let's make a plan! UADs will provide a framework to help you assess your academic performance in the previous quarter(s), identifying strengths and areas for growth. Then you'll set some goals, choosing specific objectives for personal and aca…",
-    "audience": "stanford_only"
-  },
-  {
-    "id": "029a8b15d2396bee",
-    "title": "How to: Audio",
-    "start": "2026-10-08T15:30:00-07:00",
-    "end": "2026-10-08T17:00:00-07:00",
-    "location": "Roble Arts Gym, Room Roble Gym, Room 116, 375 Santa Teresa",
-    "url": "https://events.stanford.edu/event/how-to-audio-f26",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Running a small music event, unsure what a “decibel” is, or generally just curious about how sound works? Learn the basics, from cord types to speakers to key audio terms and concepts. Includes a mini-workshop on live mixing! This event is part of Roble Arts Gym's \"How to\" Week,…",
-    "audience": "stanford_only"
-  },
-  {
-    "id": "262d22f66c66b4e2",
-    "title": "Weekly Teatime",
-    "start": "2026-10-08T15:30:00-07:00",
-    "end": "2026-10-08T15:30:00-07:00",
-    "location": "Sequoia Lounge",
-    "url": "https://statistics.stanford.edu/events/weekly-teatime",
-    "source_name": "Statistics",
-    "source_url": "https://statistics.stanford.edu/events/statistics-seminar",
-    "description": "Hi everyone! Your Autumn Teatime coordinators, Kenny and Tracy, announce the return of this weekly treat for the new quarter in Sequoia Lounge. Come join us for various fall-themed snacks and non-alcoholic drinks! 🍂🍁🎃 Sincere thanks go out to Jane Street for generously supportin…",
-    "audience": "unknown"
-  },
-  {
-    "id": "bdcd18e718ec30ae",
-    "title": "Books, Bonds, and Bereavement: Helping Siblings Process Loss",
-    "start": "2026-10-08T16:00:00-07:00",
-    "end": "2026-10-08T17:00:00-07:00",
-    "location": null,
-    "url": "https://events.stanford.edu/event/books-bonds-and-bereavement-helping-siblings-process-loss",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "OverviewThis activity explores the experiences and often-overlooked needs of siblings of children with serious illness or medical complexity. Faculty will discuss the emotional, social, and developmental impacts of caregiving, illness, and bereavement on siblings and share pract…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "72172d252405091b",
-    "title": "Creative Teaching with AI",
-    "start": "2026-10-08T16:00:00-07:00",
-    "end": "2026-10-08T17:30:00-07:00",
-    "location": "Room See the schedule for session locations",
-    "url": "https://events.stanford.edu/event/creative-teaching-with-ai",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "The d.school, Accelerator for Learning, and Center for Teaching and Learning invite Stanford instructors and their allies to a five-session workshop series on creative ways to use AI in Stanford teaching, weekly, October 8–November 3. No prior knowledge or experience with AI is…",
-    "audience": "stanford_only"
-  },
-  {
-    "id": "da6471be2a128726",
-    "title": "Green Library Book Display: Banned Books Week",
-    "start": "2026-10-08T16:00:00-07:00",
-    "end": null,
-    "location": null,
-    "url": "https://events.stanford.edu/event/green-library-book-display-banned-books-week",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Come to Green Library to check out a book display in honor of the American Library Association's Banned Books Week. From \"All Quiet on the Western Front\" to \"The Color Purple,\" and \"Das Kapital\" to \"Maus,\" all of these titles have been banned or challenged at some point. The dis…",
-    "audience": "stanford_only"
-  },
-  {
-    "id": "d8b810acaed5859c",
-    "title": "Tea for the Soul",
-    "start": "2026-10-08T16:00:00-07:00",
-    "end": null,
-    "location": "Old Union, Room CIRCLE Common Room (Old Union, 3rd floor), 520 Lasuen Mall, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/tea-for-the-soul",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Join us on Thursday for some tea and space to relax and discuss this week's tea! Meet us at the couches outside of the Common Room.",
-    "audience": "stanford_only"
-  },
-  {
-    "id": "a6717aa51e375f0a",
-    "title": "Tour Denning House, home to Knight-Hennessy Scholars",
-    "start": "2026-10-08T16:00:00-07:00",
-    "end": "2026-10-08T16:30:00-07:00",
-    "location": "Denning House, 580 Lomita Dr, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/copy-of-tour-denning-house-home-to-knight-hennessy-scholars-5362",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Join a free tour of Denning House and explore its treehouse-inspired architecture and art collection. Built in 2018 specifically to house Knight-Hennessy Scholars, Denning House provides an inspiring venue for scholars, staff, and visitors, and a magnificent setting for art. A g…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "c0b381ea7314ec0d",
-    "title": "Opening Reception and Dance Performance for Korean Indigenous Futures: The Art of Kim Bong-Jun",
-    "start": "2026-10-08T16:30:00-07:00",
-    "end": "2026-10-08T18:00:00-07:00",
-    "location": "Lathrop Library, Room East Asia Library Courtyard & Library Gallery, 518 Memorial Way, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/opening-reception-and-dance-performance-for-korean-indigenous-futures",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "A reception will be held at the East Asia Library on Thursday, October 8, 2026, from 4:30-6:00 PM, to commemorate the opening of the exhibition Korean Indigenous Futures: The Art of Kim Bong-Jun 김봉준 판화전: 토착적 미래- K아트, 디아스포라, 세계 . The reception will feature an artist talk and a Ko…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "28dc57e587ed461e",
-    "title": "PhD Defense Christopher Williams \"Direct and Large-Eddy Simulation of Turbulent Hypersonic Boundary Layers In Thermochemical Non-Equilibrium\"",
-    "start": "2026-10-08T16:45:00-07:00",
-    "end": null,
-    "location": "Building 300, Room 300, 450 Jane Stanford Way, Building 300, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/phd-defense-christopher-williams-direct-and-large-eddy-simulation-of-turbulent-hypersonic-boundary-layers-in-thermochemical-non-equilibrium",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Activated by elevated temperatures in the shock layers of hypersonic vehicles, non-equilibrium thermochemical effects including dissociation/recombination phenomena and ionization, together with near-wall turbulence structures, mediate the unsteady heat fluxes, ablation rates, a…",
-    "audience": "stanford_only"
-  },
-  {
-    "id": "895aefa65d87a2a9",
-    "title": "Distinguished Lecture | The third East-West Road in the Old World: Early crop and livestock dispersal across the Tibetan Plateau",
-    "start": "2026-10-08T17:00:00-07:00",
-    "end": "2026-10-08T18:30:00-07:00",
-    "location": "Building 500, Archaeology Center, Room 106, 488 Escondido Mall, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/distinguished-lecture-the-third-east-west-road-in-the-old-world-early-crop-and-livestock-dispersal-across-the-tibetan-plateau",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Each quarter, the Stanford Archaeology Center invites prominent archaeologists from around the globe to be in residence for a week as a Distinguished Lecturer. During their residency, the Distinguished Lecturer gives two lectures and interacts with faculty, postdoctoral scholars…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "0e850c5bb0e2b055",
-    "title": "Methods Revisited: What Is the Islamic Archive?",
-    "start": "2026-10-08T17:00:00-07:00",
-    "end": "2026-10-08T18:30:00-07:00",
-    "location": "Board Room",
-    "url": "https://shc.stanford.edu/stanford-humanities-center/events/methods-revisited-what-islamic-archive",
-    "source_name": "Stanford Humanities Center",
-    "source_url": "https://shc.stanford.edu/stanford-humanities-center/events",
-    "description": "Research Workshop",
-    "audience": "unknown"
-  },
-  {
-    "id": "534e9877afd576d7",
-    "title": "PTO (Patio Time, Obviously)",
-    "start": "2026-10-08T17:00:00-07:00",
-    "end": "2026-10-08T20:00:00-07:00",
-    "location": "PAB Patio",
-    "url": "https://kipac.stanford.edu/events/other/pto-patio-time-obviously-0",
-    "source_name": "KIPAC",
-    "source_url": "https://kipac.stanford.edu/events/upcoming-events",
-    "description": "Join your colleagues on the PAB Patio for an elevated selection of wines, non-alcoholic beverages, and snacks. All members of KIPAC and their guests are welcome! Wine selection curated by the Postdoc Wine Club.",
-    "audience": "stanford_only"
-  },
-  {
-    "id": "35a5e0bdc0f64d50",
-    "title": "Rule of Law Speaker Series: AI and Political Freedom",
-    "start": "2026-10-08T17:00:00-07:00",
-    "end": "2026-10-08T18:00:00-07:00",
-    "location": "@ SLS: Room 290, 559 Nathan Abbott Way, Stanford",
-    "url": "https://law.stanford.edu/event/rule-of-law-speaker-series-ai-and-political-freedom/",
-    "source_name": "Stanford Law",
-    "source_url": "https://law.stanford.edu/events/",
-    "description": "AI safety is having a moment. Once the preoccupation of technologists and futurists, it is now front-page news and kitchen-table conversation. This is a welcome development. But there is one crucial dimension the public conversation has yet to reach: the connection between AI sa…",
-    "audience": "unknown"
-  },
-  {
-    "id": "b458d5e3512081d9",
-    "title": "Science for Everyone: Tactile Braille Periodic Table of Elements at Stanford",
-    "start": "2026-10-08T17:00:00-07:00",
-    "end": "2026-10-08T19:00:00-07:00",
-    "location": "Sapp Center for Science Teaching and Learning, Room Sapp Auditorium, 376 Lomita Dr, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/science-for-everyone-tactile-braille-periodic-table-of-elements-at-stanford",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Celebrating the permanent installation of a Tactile Braille Periodic Table of Elements at Stanford The first permanent university installation in the country — an initiative of the ACS Committee on Chemists with Disabilities (CWD). An evening highlighting how access to science c…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "51c6ecdb74650859",
-    "title": "Shih-shan Susan Huang: \"Buddhist Book Roads: The Dynamic Spread of Buddhist Print Culture in China and Beyond\"",
-    "start": "2026-10-08T17:00:00-07:00",
-    "end": "2026-10-08T18:30:00-07:00",
-    "location": "Lathrop Library, Room 338, 518 Memorial Way, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/shih-shan-susan-huang-buddhist-book-roads-the-dynamic-spread-of-buddhist-print-culture-in-china-and-beyond",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Abstract: This lecture investigates the \"Buddhist Book Roads,\" exploring the dynamic transnational spread of Buddhist print culture through a wealth of illustrated books discovered in archaeological sites, statues, and museums. Moving beyond viewing Buddhist woodcuts as static r…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "122a60023eacb680",
-    "title": "What is the Islamic Archive? Methods Revisited",
-    "start": "2026-10-08T17:00:00-07:00",
-    "end": "2026-10-08T18:30:00-07:00",
-    "location": "Humanities Center, Room SHC Board Room, 424 Santa Teresa Street, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/what-is-the-islamic-archive-methods-revisited",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "“What is the Islamic Archive?” is a new SHC Global Humanities Research Workshop. This inaugural event will feature lightning presentations by Stanford scholars on methodology, materiality, interdisciplinarity, and the challenges in the archives they work with. The presentations…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "7a78239953f4659c",
-    "title": "Yoga and Meditation",
-    "start": "2026-10-08T17:00:00-07:00",
-    "end": null,
-    "location": "REGISTER",
-    "url": "https://stanford.zoom.us/webinar/register/WN_vYUoi5k2Q-aWkbr8whwFmA#/registration",
-    "source_name": "Stanford Health Library",
-    "source_url": "https://med.stanford.edu/healthlibrary/lectures-events.html",
-    "description": "Kathleen Judge, RN, CNS, CDCES, explores how mind-body practices can support diabetes self-management by reducing stress, improving sleep, and potentially aiding glycemic control. She will cover practical implementations, safety considerations, and ways to tailor yoga and medita…",
-    "audience": "open_to_public",
-    "also_sources": [
-      "Stanford Events (Localist)"
-    ]
-  },
-  {
-    "id": "27864af29069c942",
-    "title": "Film Screening: Alaav (2024)",
-    "start": "2026-10-08T17:30:00-07:00",
-    "end": null,
-    "location": "Oshman Hall, 355 Roth Way",
-    "url": "https://events.stanford.edu/event/film-screening-alaav-2024",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "This event is sponsored by the Center for South Asia and the Department of Art and Art History. About the film Alaav, is the story of Bhaveen Gossain, a 63-year-old son, taking care of Savitri, his ailing 95-year-old mother in their home nestled in a quiet suburb of New Delhi, I…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "e3e4d36124625852",
-    "title": "Forms & Frequencies | Temporary Body by Jerron Herman",
-    "start": "2026-10-08T18:00:00-07:00",
-    "end": "2026-10-08T19:30:00-07:00",
-    "location": "Cantor Arts Center, Room Cantor Auditorium and Lobby, 328 Lomita Drive, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/forms-frequencies-temporary-body-by-jerron-herman",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Cantor Arts Center presents Forms & Frequencies, a Thursday night series featuring live performance from the Bay Area and beyond. Join us on Thursday, October 8, for an immersive, participatory dance performance by New York-based dancer, choreographer, and writer Jerron Herman,…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "253782a76a351480",
-    "title": "Film Screening: Everyone Is Lying to You for Money",
-    "start": "2026-10-08T18:15:00-07:00",
-    "end": "2026-10-08T20:15:00-07:00",
-    "location": "GSB Knight - Arbuckle / Cemex, Room CEMEX, 641 Knight Way, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/film-screening-everyone-is-lying-to-you-for-money",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Since the earliest days of the technology, cryptocurrency has been mired in controversy, as people debate its social value against its potential to enable criminal activity and operate in a regulatory gray area that opens opportunities for malfeasance. From its early role in onl…",
-    "audience": "open_to_public",
-    "also_sources": [
-      "FSI"
-    ]
-  },
-  {
-    "id": "0a2f989cbdcd0f41",
-    "title": "Cursed Subjects and Other Sights: Qajar Prison Photography and the Sounds and Silences of Heresy in Nineteenth-Century Iranian Legal History",
-    "start": "2026-10-08T18:30:00-07:00",
-    "end": null,
-    "location": "In person at Stanford",
-    "url": "https://events.stanford.edu/event/cursed-subjects-and-other-sights-qajar-prison-photography-and-the-sounds-and-silences-of-heresy-in-nineteenth-century-iranian-legal-history",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Bringing together legal history and the history of photography, this panel discussion examines the ways Qajar state power sought to make dissident, criminal, and heretical subjects both speak and appear through interrogation and torture, through the marking and mutilation of bod…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "961b8a2dcd694870",
-    "title": "JD/MBA Dinner and Professional Networking",
-    "start": "2026-10-08T19:00:00-07:00",
-    "end": "2026-10-08T21:00:00-07:00",
-    "location": "Offsite/Private Location",
-    "url": "https://law.stanford.edu/event/jd-mba-dinner-and-professional-networking/",
-    "source_name": "Stanford Law",
-    "source_url": "https://law.stanford.edu/events/",
-    "description": "We’ll be hosted by the Demarzos and accompanied by other business leaders from GSB.",
-    "audience": "unknown"
-  },
-  {
-    "id": "92f9078518fe1004",
-    "title": "SLAC Public Lecture | Blazing the path to a fusion future",
-    "start": "2026-10-08T19:00:00-07:00",
-    "end": "2026-10-08T20:00:00-07:00",
-    "location": "SLAC National Accelerator Laboratory, Room Kavli Auditorium, 2575 Sand Hill Rd, Menlo Park, CA 94025",
-    "url": "https://events.stanford.edu/event/slac-public-lecture-blazing-the-path-to-a-fusion-future",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Register here to join us in-person, or watch online. Realizing usable electrical power from nuclear fusion has been a grand challenge for physicists and engineers for more than 70 years. Recently the National Ignition Facility (NIF) at Lawrence Livermore National Laboratory has…",
-    "audience": "open_to_public",
-    "also_sources": [
-      "SLAC"
-    ]
-  },
-  {
-    "id": "9b9f69fd74782d70",
-    "title": "Sex After Cancer: Navigating Changes in Sexual Health and Intimacy",
-    "start": "2026-10-08T19:00:00-07:00",
-    "end": null,
-    "location": null,
-    "url": "https://events.stanford.edu/event/sex-after-cancer-navigating-changes-in-sexual-health-and-intimacy",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "There is no single definition of a healthy sex life after cancer. Dr. Kathryne Sanserino, gynecologist, and Dr. Catherine Benedict, psychologist and researcher, will discuss common sexual health concerns during and after cancer treatment, available treatments and resources, and…",
-    "audience": "open_to_public",
-    "also_sources": [
-      "Stanford Health Library"
-    ]
-  },
-  {
     "id": "9606ddbbd5644d59",
     "title": "Autumn Final Study List Deadline",
     "start": "2026-10-09T00:00:00-07:00",
@@ -1479,18 +609,6 @@
     "source_name": "Stanford Events (Localist)",
     "source_url": "https://events.stanford.edu/",
     "description": "Join us for casual in-gallery conversations in our special exhibition, JANE!, facilitated by our Museum Engagement Guides. Enjoy a spotlight tour focusining on a single object, followed by an open conversation. Curated by Associate Curator of European Art, Patrick R. Crowley, JA…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "705fdd75e8aae1a9",
-    "title": "David Rumsey Map Center Guided Tour",
-    "start": "2026-10-09T15:00:00-07:00",
-    "end": "2026-10-09T16:00:00-07:00",
-    "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Explore the World of Maps at the David Rumsey Map Center Join us for a guided tour of the David Rumsey Map Center at Stanford Libraries. Upon arrival, you'll be greeted by one of our knowledgeable staff members for an immersive experience. 30-Minute Overview: Dive deep into the…",
     "audience": "open_to_public"
   },
   {
@@ -2350,15 +1468,15 @@
     "audience": "open_to_public"
   },
   {
-    "id": "17b8a5c5dd741918",
-    "title": "KIPAC Seminar: The next decade of large-scale structure",
+    "id": "46c3828e3d4aba2e",
+    "title": "KIPAC Seminar: Large-scale structure between peaks - modeling the intergalactic medium for the next generation of cosmological datasets",
     "start": "2026-10-12T11:00:00-07:00",
     "end": "2026-10-12T12:00:00-07:00",
     "location": "Campus, Varian 206",
-    "url": "https://kipac.stanford.edu/events/kipac-seminar/kipac-seminar-next-decade-large-scale-structure",
+    "url": "https://kipac.stanford.edu/events/kipac-seminar/kipac-seminar-large-scale-structure-between-peaks-modeling-intergalactic",
     "source_name": "KIPAC",
     "source_url": "https://kipac.stanford.edu/events/upcoming-events",
-    "description": "Abstract: Sullivan will discuss recent progress toward preparing for the next decade of cosmology. They will describe work including the modeling of the clustering of high-redshift galaxies relevant for Stage-V spectroscopic surveys, as well as improved models for emerging preci…",
+    "description": "Abstract: Galaxy images and spectra are the most powerful large-scale structure datasets for mapping cosmological volumes to constrain fundamental physics. Models for galaxy clustering are now well-established, and perturbative bias descriptions provide a robust method of obtain…",
     "audience": "unknown"
   },
   {
@@ -2842,8 +1960,8 @@
     "audience": "open_to_public"
   },
   {
-    "id": "4298df4a83c1fab0",
-    "title": "What Young People's Technology Use Tells Us",
+    "id": "d160b747ac653364",
+    "title": "What Young People’s Technology Use Tells Us",
     "start": "2026-10-13T12:00:00-07:00",
     "end": "2026-10-13T13:00:00-07:00",
     "location": "Building 120, McClatchy Hall, Main Quad, Room Studio S40 - bring your Stanford ID card/mobile ID to enter the building, Building 120, Stanford, CA 94305",
@@ -2951,6 +2069,18 @@
     "also_sources": [
       "FSI"
     ]
+  },
+  {
+    "id": "b307e2736278e4d5",
+    "title": "Applied Physics/Physics Colloquium: Kent Irwin & Ian Fisher (State of the Departments)",
+    "start": "2026-10-13T15:30:00-07:00",
+    "end": null,
+    "location": "Hewlett Teaching Center, Room 201, 370 Jane Stanford Way, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/applied-physicsphysics-colloquium-kent-irwin-ian-fisher-state-of-the-departments",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Professors Ian Fisher (Applied Physics) and Kent Irwin (Physics Dept. Chair) will give the \"State of the Departments\" colloquium, an annual update and welcome to our faculty, students, and friends, from the Chairs of the Stanford University Applied Physics and Physics Department…",
+    "audience": "open_to_public"
   },
   {
     "id": "f7547fba781e35d9",
@@ -3061,8 +2191,8 @@
     "audience": "unknown"
   },
   {
-    "id": "0fd15cf148f064f4",
-    "title": "Will and Attention: Meghan O'Gieblyn in conversation with Professor Laura Wittman",
+    "id": "db124e0a984524a3",
+    "title": "Will and Attention: Meghan O’Gieblyn in conversation with Professor Laura Wittman",
     "start": "2026-10-13T17:00:00-07:00",
     "end": "2026-10-13T18:30:00-07:00",
     "location": "Humanities Center, Room Levinthal Hall, 424 Santa Teresa Street, Stanford, CA 94305",
@@ -3100,16 +2230,16 @@
     "audience": "open_to_public"
   },
   {
-    "id": "e250d99dfe3cd052",
-    "title": "Explore Energy Seminar | Tribal Sovereignty and Clean Energy with Native Roots Network",
+    "id": "037e55b31900465b",
+    "title": "Advancing Indigenous-led Pathways for Just and Vibrant Communities",
     "start": "2026-10-13T18:00:00-07:00",
     "end": "2026-10-13T19:20:00-07:00",
     "location": "Muwekma-Tah-Ruk, Room Front Lawn, 543 Lasuen Mall, Stanford, CA 94305",
     "url": "https://events.stanford.edu/event/explore-energy-seminar-tribal-sovereignty-and-clean-energy-with-native-roots-network",
     "source_name": "Stanford Events (Localist)",
     "source_url": "https://events.stanford.edu/",
-    "description": "Native Roots Network is builds cultural resilience among indigenous communities, including work on tribal energy sovereignty with a renewable energy microgrid - similar in design to one installed at Stanford Educational Farm this year. Join us for a fireside chat co-hosted by re…",
-    "audience": "open_to_public"
+    "description": "Muwekma-Tah-Ruk and Explore Energy House invite members of the campus community for dinner and discussion with Native Roots Network, which is devoted to advancing Indigenous-led pathways for just and vibrant communities. Land restoration, river restoration, and language preserva…",
+    "audience": "stanford_only"
   },
   {
     "id": "475bc7e5cfa8dbde",
@@ -3304,6 +2434,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "d920916530c7ce42",
+    "title": "Coffee & Maíz: Building Community with Stanford's El Centro Chicano y Latino",
+    "start": "2026-10-14T10:00:00-07:00",
+    "end": "2026-10-14T11:00:00-07:00",
+    "location": "Mitchell Earth Sciences, Room Patio, 397 Panama Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/coffee-maiz-building-community-with-stanfords-el-centro-chicano-y-latino",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Join us for a special ABC Coffee Convo featuring maíz-inspired foods, coffee, conversation, and resources from Stanford’s El Centro Chicano y Latino. ​Enjoy a Maíz Food Bar featuring esquites, corn quesadillas, sweet corn bread, and sweet tamales. A staple food across North and…",
+    "audience": "open_to_public"
+  },
+  {
     "id": "88aa0486abd176d8",
     "title": "International Spouse Coffee ☕️",
     "start": "2026-10-14T10:30:00-07:00",
@@ -3436,7 +2578,7 @@
     "source_name": "Stanford Events (Localist)",
     "source_url": "https://events.stanford.edu/",
     "description": "The war in Ukraine is in its 5th year, and casualties continue to mount. How did we get here? And how does this war end? This presentation and discussion will cover the latest military developments, as well as a review of the economic and political factors that will determine ho…",
-    "audience": "stanford_only",
+    "audience": "open_to_public",
     "also_sources": [
       "FSI"
     ]
@@ -3721,8 +2863,8 @@
     "audience": "open_to_public"
   },
   {
-    "id": "9c25563aa7f399c1",
-    "title": "Ideas Uncorked | China After Communism: Preparing for What Comes Next",
+    "id": "766162b6c7cd852c",
+    "title": "Ideas Uncorked | China After Communism: Preparing For What Comes Next",
     "start": "2026-10-14T17:00:00-07:00",
     "end": "2026-10-14T18:30:00-07:00",
     "location": "Hoover Institution in DC",
@@ -3835,7 +2977,7 @@
     "id": "21916eefcc388087",
     "title": "FLI Study Nights",
     "start": "2026-10-14T19:30:00-07:00",
-    "end": "2026-10-14T22:30:00-07:00",
+    "end": "2026-10-14T22:00:00-07:00",
     "location": "@ SLS: Room 21, Crown Quadrangle, 559 Nathan Abbott Way",
     "url": "https://law.stanford.edu/event/fli-study-nights/",
     "source_name": "Stanford Law",
@@ -4345,6 +3487,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "11f08ed8b7ce2ab1",
+    "title": "The most important things you need to know about the Electrify Everything trend",
+    "start": "2026-10-15T14:00:00-07:00",
+    "end": "2026-10-15T15:00:00-07:00",
+    "location": "Building 300, Room 300, 450 Jane Stanford Way, Building 300, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/electrify-everything-trend",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "You've probably heard about the electrify everything trend - where we're seeing the electrification of our building services (like space and water heating, cooking) and transportation services like EVs. What are the implications of this for our air quality, for climate change, f…",
+    "audience": "stanford_only"
+  },
+  {
     "id": "6266d0f01f6f0e1c",
     "title": "Career Conversation: Ross Stein, PhD '80",
     "start": "2026-10-15T15:00:00-07:00",
@@ -4492,8 +3646,8 @@
     "audience": "unknown"
   },
   {
-    "id": "0cc6de0070968859",
-    "title": "Environmental Humanities Project: Hydrofeminism in a Time of Endings: Care for the Stranded",
+    "id": "fd4162445f546fe7",
+    "title": "Environmental Humanties Project: Hydrofeminism in a Time of Endings: Care for the Stranded",
     "start": "2026-10-15T17:00:00-07:00",
     "end": "2026-10-15T19:00:00-07:00",
     "location": "Building 160, Wallenberg Hall, Room 433A, 450 Jane Stanford Way, Building 160, Stanford, CA 94305",
@@ -4567,7 +3721,7 @@
     "id": "b8a4de689da895cb",
     "title": "Supreme Court Roundup and Preview",
     "start": "2026-10-15T17:30:00-07:00",
-    "end": "2026-10-15T19:00:00-07:00",
+    "end": "2026-10-15T18:30:00-07:00",
     "location": "@ SLS: Room 290, 559 Nathan Abbott Way, Stanford",
     "url": "https://law.stanford.edu/event/supreme-court-roundup-and-preview/",
     "source_name": "Stanford Law",
@@ -5131,16 +4285,19 @@
     "audience": "stanford_only"
   },
   {
-    "id": "c2e7e37b9961e3b1",
+    "id": "6d7ed902fa840b78",
     "title": "A Captured Field, an Open Contest: Serbia’s Upcoming Elections",
     "start": "2026-10-16T12:15:00-07:00",
     "end": "2026-10-16T13:30:00-07:00",
     "location": "Online panel on Zoom; registration required.",
-    "url": "https://fsi.stanford.edu/events/captured-field-open-contest-serbias-upcoming-elections",
-    "source_name": "FSI",
-    "source_url": "https://fsi.stanford.edu/events",
-    "description": "October 16 webinar | 12:00 pm PT",
-    "audience": "unknown"
+    "url": "https://events.stanford.edu/event/a-captured-field-an-open-contest-serbias-upcoming-elections",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Serbia goes to the polls on October 25 in an early parliamentary election, called after nearly two years of sustained protest. A presidential election will follow by the end of December, after President Vučić resigned in September to run for prime minister. A list emerging from…",
+    "audience": "open_to_public",
+    "also_sources": [
+      "FSI"
+    ]
   },
   {
     "id": "24aec9970f9e8d68",
@@ -5259,7 +4416,7 @@
     "url": "https://events.stanford.edu/event/earth-systems-alumni-welcome-2463",
     "source_name": "Stanford Events (Localist)",
     "source_url": "https://events.stanford.edu/",
-    "description": "Earth Systems Alumni Welcome Social Calling all Earth Systems alumni-no matter your graduation year! Join us for this annual gathering to reconnect, reminisce, and celebrate our ES community. Friday, October 16, from 2:00–4:00 PM!",
+    "description": "Earth Systems Alumni Welcome Social RSVP: https://docs.google.com/forms/d/e/1FAIpQLSeKbl5UijJSqgbWFEoZOaadStUaCXt8idnK2BPbiycQEHt9mA/viewform?usp=header Calling all Earth Systems alumni-no matter your graduation year! Join us for this annual gathering to reconnect, reminisce, an…",
     "audience": "stanford_only"
   },
   {
@@ -5575,6 +4732,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "f5ddc111476cf39c",
+    "title": "Stanford Alumni-Student in Energy & Sustainability Mixer (& brunch!)",
+    "start": "2026-10-17T11:30:00-07:00",
+    "end": "2026-10-17T16:00:00-07:00",
+    "location": "Arrillaga Family Dining Commons, 489 Arguello Way, Stanford",
+    "url": "https://events.stanford.edu/event/explore-energy-alumni-student-mixer-brunch-2026",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Connect with alumni and students across different class years and degrees, share your own updates, hear the latest about Energy at Stanford and ways to stay connected and engaged! When: Saturday, October 17, 2026 Where: Galvez Mall Green (between Crothers Hall and Green Library)…",
+    "audience": "stanford_only"
+  },
+  {
     "id": "cb390481fd1485e6",
     "title": "Public Tour | A Closer Look",
     "start": "2026-10-17T13:00:00-07:00",
@@ -5595,7 +4764,7 @@
     "url": "https://law.stanford.edu/event/finding-your-path-advice-from-black-alumni/",
     "source_name": "Stanford Law",
     "source_url": "https://law.stanford.edu/events/",
-    "description": "Come hear how Black SLS alumni figured out their plans post-law school and charted a path from there towards the right career for them! This event will bring in alumni who are on campus for their reunion weekends. Feel free to bring your lunch.",
+    "description": "Come hear how Black SLS alumni figured out their plans post-law school and charted a path from there towards the right career for them! This event will bring in alumni who are on campus for their reunion weekends. Feel free to bring your lunch. RSVP below!",
     "audience": "unknown"
   },
   {
@@ -5621,6 +4790,18 @@
     "source_url": "https://events.stanford.edu/",
     "description": "Join us for casual in-gallery conversations in our special exhibition, JANE!, facilitated by our Museum Engagement Guides. Enjoy a spotlight tour focusining on a single object, followed by an open conversation. Curated by Associate Curator of European Art, Patrick R. Crowley, JA…",
     "audience": "open_to_public"
+  },
+  {
+    "id": "7f1a0779c1e1f7ca",
+    "title": "International Tailgate",
+    "start": "2026-10-17T14:00:00-07:00",
+    "end": "2026-10-17T16:00:00-07:00",
+    "location": "Bechtel International Center, Room Courtyard + Lawn Area, 584 Capistrano Way, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/international-tailgate",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "🏈🌲 Kick off Homecoming with us at Bechtel! 🎉 Get game-day ready with us at the Bechtel Courtyard for a fun pre-game celebration before Stanford takes on Elon University! 🌭Food and drinks 🎶 Music 🏈 American Football 101 with Stanford Athletics 🎯 Yard games & more! Come mingle wit…",
+    "audience": "stanford_only"
   },
   {
     "id": "443fb40ff623ee1d",
@@ -6457,6 +5638,21 @@
     "audience": "open_to_public"
   },
   {
+    "id": "b1cad4bd96dc4bb8",
+    "title": "Syria Today: Where Was It? Where Is It Right Now? And Where Is It Heading? | Yassin Al-Haj Saleh",
+    "start": "2026-10-19T17:00:00-07:00",
+    "end": "2026-10-19T18:30:00-07:00",
+    "location": "Stanford Humanities Center, Room Levinthal Hall, Stanford Humanities Center 424 Santa Teresa Street Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/yassin-al-haj-saleh-syria-today",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "After close to 14 years of cruel struggle, the “eternal” Assad regime was overthrown. Syria came out of that eternity quite shapeless. This talk explores the trajectory of Syria between the beginning of the revolution to the present day, and tries to assess some of the future po…",
+    "audience": "open_to_public",
+    "also_sources": [
+      "FSI"
+    ]
+  },
+  {
     "id": "c78dd3b76d330ec0",
     "title": "A People without a Landscape: Maghāriba, Andalusīs, and the Naming of the Morisco Diaspora in the Ottoman East",
     "start": "2026-10-19T17:30:00-07:00",
@@ -6466,7 +5662,10 @@
     "source_name": "Stanford Events (Localist)",
     "source_url": "https://events.stanford.edu/",
     "description": "Farah Bazzi is a historian of the early modern Mediterranean and its global connections whose research moves between the Ottoman and Iberian worlds. Her dissertation, 'The Alluring Aesthetic of Andalusī Nature: Conquest, Settlement Practices, and the Shaping of Racial Landscapes…",
-    "audience": "open_to_public"
+    "audience": "open_to_public",
+    "also_sources": [
+      "Stanford Humanities Center"
+    ]
   },
   {
     "id": "4481be37db75716c",
@@ -6793,6 +5992,18 @@
     "audience": "stanford_only"
   },
   {
+    "id": "e59b9550a3966671",
+    "title": "Matt DeVerna | Between You and the Facts",
+    "start": "2026-10-20T11:40:00-07:00",
+    "end": "2026-10-20T13:00:00-07:00",
+    "location": "McClatchy Hall, S40 Studio 450 Serra Mall, Stanford, CA 94305 For those attending the in-person seminar, please bring your Stanford ID card/mobile ID to enter the building.",
+    "url": "https://fsi.stanford.edu/events/matt-deverna-between-you-and-facts",
+    "source_name": "FSI",
+    "source_url": "https://fsi.stanford.edu/events",
+    "description": null,
+    "audience": "unknown"
+  },
+  {
     "id": "f06182c133c9fe5a",
     "title": "2026 Shorenstein Journalism Award: Shibani Mahtani on Attacks Against the Free Press and Democratic Backsliding in Southeast Asia",
     "start": "2026-10-20T12:00:00-07:00",
@@ -6814,6 +6025,18 @@
     "source_name": "Stanford Events (Localist)",
     "source_url": "https://events.stanford.edu/",
     "description": "In her 15 years reporting on Southeast Asia and Hong Kong, Shibani Mahtani has witnessed the region’s once-vibrant press corps dwindle in size, as journalists are jailed, harassed, and sued by governments. This pressure, along with an industry-wide strain on the business of jour…",
+    "audience": "open_to_public"
+  },
+  {
+    "id": "1e1bf024f123deb6",
+    "title": "Between You and the Facts",
+    "start": "2026-10-20T12:00:00-07:00",
+    "end": "2026-10-20T13:00:00-07:00",
+    "location": "Building 120, McClatchy Hall, Main Quad, Room Studio S40 - bring your Stanford ID card/mobile ID to enter the building, Building 120, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/between-you-and-the-facts",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Join the Tech Impact and Policy Center on October 20th from 12PM–1PM Pacific for a seminar with Matt Deverna. Stanford affiliates are invited to join us at 11:40 AM for lunch, prior to the seminar. The Fall Seminar Series continues through December; see our Fall Seminar Series p…",
     "audience": "open_to_public"
   },
   {
@@ -6880,8 +6103,8 @@
     ]
   },
   {
-    "id": "4aeeffae243f9174",
-    "title": "Wendy Salkin, \"Speaking for Others\"",
+    "id": "9c2d62cd8e26bf29",
+    "title": "Wendy Salkin, \"Speaking for Others,\" in conversation with Daniela Tolchinsky",
     "start": "2026-10-20T12:00:00-07:00",
     "end": "2026-10-20T13:15:00-07:00",
     "location": "Building 360, Room CCSRE Conference Room, Center for Comparative Studies in Race and Ethnicity (CCSRE), 450 Jane Stanford Way Building 360, Stanford, CA 94305",
@@ -7147,6 +6370,30 @@
     "audience": "open_to_public"
   },
   {
+    "id": "64406d9ebd0f713a",
+    "title": "Women and Partisan Art: Literature, Dance and Theater in WWII Yugoslavia",
+    "start": "2026-10-20T16:30:00-07:00",
+    "end": "2026-10-20T18:30:00-07:00",
+    "location": "Building 260, Pigott Hall, Room Rm 216, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/women-and-partisan-art-literature-dance-and-theater-in-wwii-yugoslavia",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Panelists: Elena Messner (University of Vienna), Goran Lazičić (University of Graz) and Bara Kolenc (University of Ljubljana) Respondent: Jelena Batinić (Stanford) Moderator: Dominick Lawton (Stanford) RSVP for the Women and the Partisan Art Event During the Second World War, ab…",
+    "audience": "unknown"
+  },
+  {
+    "id": "277684e7b0da7be4",
+    "title": "\"The Whole of Kampala is a Wetland\": Sacred Citizenship, Belonging, and Dispossession in Urban Uganda",
+    "start": "2026-10-20T17:30:00-07:00",
+    "end": "2026-10-20T19:00:00-07:00",
+    "location": "Building 160, Wallenberg Hall, Room CESTA 433a, 450 Jane Stanford Way, Building 160, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/the-whole-of-kampala-is-a-wetland-sacred-citizenship-belonging-and-dispossession-in-urban-uganda",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Please join us on Tuesday, October 20th from 5:30-7:00 pm in the CESTA space (Wallenberg Hall, Building 160, Room 433a) where we will workshop Adele Stock's article-in-progress \"The Whole of Kampala is a Wetland\": Sacred Citizenship, Belonging, and Dispossession in Urban Uganda.…",
+    "audience": "stanford_only"
+  },
+  {
     "id": "3759f566a2f36460",
     "title": "Alcoholics Anonymous Tuesday Meeting",
     "start": "2026-10-20T17:30:00-07:00",
@@ -7342,6 +6589,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "b59d2da5642b8c87",
+    "title": "Slavic Languages and Literatures: A Ukrainian Century: Modernist Precursors",
+    "start": "2026-10-21T09:00:00-07:00",
+    "end": null,
+    "location": null,
+    "url": "https://events.stanford.edu/event/slavic-languages-and-literatures-a-ukrainian-century-modernist-precursors",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "This session highlights the modernist precursors who make up the first section of the anthology, with a special focus on the foundational and brilliant poet, playwright, and translator Lesia Ukrainka. Featuring Translator Nina Murray reading Lesia Ukrainka and convened by Ostap…",
+    "audience": "unknown"
+  },
+  {
     "id": "c762e48196e43fbf",
     "title": "Volunteering at Stanford Educational Farm - Weekday",
     "start": "2026-10-21T09:00:00-07:00",
@@ -7417,6 +6676,18 @@
     "audience": "unknown"
   },
   {
+    "id": "dc820dfc16feaa36",
+    "title": "Earth Systems Open House",
+    "start": "2026-10-21T11:00:00-07:00",
+    "end": "2026-10-21T13:00:00-07:00",
+    "location": "Y2E2 Building, Room 131, 473 Via Ortega, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/earth-systems-open-house-8482",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "🌎 Curious about Earth Systems? Come hang out with us! Join us for our Earth Systems Open House to meet current peer advisors and staff, ask questions, and explore our major, minor, and coterm programs. 📅 Date: Wednesday, October 21 📍 Location: Y2E2 131 - Earth Systems Student Lo…",
+    "audience": "stanford_only"
+  },
+  {
     "id": "8b59b1d4db85c3ac",
     "title": "Vaden: Flu & COVID-19 Vaccination Clinic",
     "start": "2026-10-21T11:00:00-07:00",
@@ -7427,6 +6698,18 @@
     "source_url": "https://events.stanford.edu/",
     "description": "Keep Stanford Healthy: Campus Flu & COVID-19 Vaccination Clinic As we head into the autumn season, let’s work together to keep our campus safe, healthy, and thriving. We encourage all members of the Stanford community to take a proactive step in protecting themselves and their c…",
     "audience": "stanford_only"
+  },
+  {
+    "id": "2cda904a0c394f3f",
+    "title": "Yimu Bao [Stanford University] & David Lin [Stanford University]",
+    "start": "2026-10-21T11:30:00-07:00",
+    "end": "2026-10-21T13:00:00-07:00",
+    "location": "PAB 102/103, 452 Lomita Mall, Stanford",
+    "url": "https://qfarm.stanford.edu/events/q-farm-seminars/yimu-bao-stanford-university-david-lin-stanford-university",
+    "source_name": "Q-FARM",
+    "source_url": "https://qfarm.stanford.edu/events",
+    "description": "Notes: Main talk will begin @ 11:30 am in PAB 102/103 Boxed lunch will available for attendees @ 12:30 pm in PAB 102/103 Video Recordings once Speaker approved, will be available on our youtube channel On-site seminar attendance is limited to Stanford students, faculty, staff, a…",
+    "audience": "open_to_public"
   },
   {
     "id": "7e7b6abff9c9bcdd",
@@ -7559,6 +6842,18 @@
     "source_url": "https://events.stanford.edu/",
     "description": "Remediation in Context is a colloquium by the Critical Game Studies Lab dedicated to exploring how we remember, recover, and revitalize digital media of the past. Dene Grigar and Nick Montfort will each present talks on their own current research, both of which concern creative…",
     "audience": "stanford_only"
+  },
+  {
+    "id": "97136197138b5f0d",
+    "title": "Marriage in Law School (Student Panel)",
+    "start": "2026-10-21T12:50:00-07:00",
+    "end": "2026-10-21T14:00:00-07:00",
+    "location": "@ SLS: Room 180, Crown Quadrangle 559 Nathan Abbott Way, Stanford",
+    "url": "https://law.stanford.edu/event/marriage-in-law-school-student-panel/",
+    "source_name": "Stanford Law",
+    "source_url": "https://law.stanford.edu/events/",
+    "description": "Join the Christian Legal Fellowship on Tuesday, October 21st in Room 180 from 12:50-2pm for a panel of married 2L and 3L students sharing about their experience navigating life and law school with their spouse. The panel will cover topics applicable to all students. All members…",
+    "audience": "unknown"
   },
   {
     "id": "21071b27920ea493",
@@ -7813,6 +7108,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "125a633ca858d80c",
+    "title": "The Social Life of Islam: Exploring Intellectual Exchange and Community Well-Being in West Africa",
+    "start": "2026-10-21T17:00:00-07:00",
+    "end": "2026-10-21T19:00:00-07:00",
+    "location": "The Nitery, Room Markaz Resource Center, 514 Lasuen Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/the-social-life-of-islam",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Join the Abbasi Program in Islamic Studies and the Markaz Resource Center for a conversation with Dr. Thiago Mota, Assistant Professor of African History at UC Santa Cruz. Our conversation will explore the globalization of Islam across the African continent, with a particular fo…",
+    "audience": "open_to_public"
+  },
+  {
     "id": "23ac8cc52a8164b9",
     "title": "Weight Loss Medication Demystified: Options, Myths, and Real-World Use",
     "start": "2026-10-21T17:00:00-07:00",
@@ -7867,7 +7174,7 @@
     "id": "00ba3ff63495c9b9",
     "title": "FLI Study Nights",
     "start": "2026-10-21T19:30:00-07:00",
-    "end": "2026-10-21T22:30:00-07:00",
+    "end": "2026-10-21T22:00:00-07:00",
     "location": "@ SLS: Room 21, Crown Quadrangle, 559 Nathan Abbott Way",
     "url": "https://law.stanford.edu/event/fli-study-nights-2/",
     "source_name": "Stanford Law",
@@ -8770,6 +8077,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "17062e0724f4aea7",
+    "title": "Race and Gender in the Global Hispanophone: Lecture with Prof. Regina Pieck",
+    "start": "2026-10-23T10:30:00-07:00",
+    "end": "2026-10-23T12:00:00-07:00",
+    "location": "Building 260, Pigott Hall, Room 216, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/race-and-gender-in-the-global-hispanophone-5195",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "The Race and Gender in the Global Hispanophone (RGGH) Research Group serves as a dynamic platform within the DLCL to foster critical dialogue within emerging scholarship on Ibero-American cultures, with a dedicated focus on race and gender. Join us as we embark on this journey o…",
+    "audience": "open_to_public"
+  },
+  {
     "id": "78ea1b4392749c86",
     "title": "KIPAC Tea Talk: A Resolved View of the ISM and Star Formation in Nearby Galaxy / Primordial Magnetic fields and modified recombination histories",
     "start": "2026-10-23T10:40:00-07:00",
@@ -8806,15 +8125,15 @@
     "audience": "stanford_only"
   },
   {
-    "id": "47883b657b277d56",
-    "title": "HCI Seminar (TBA)",
+    "id": "300a52bb3eed20c0",
+    "title": "Amy X. Zhang — What can CSCW Teach us About How to Work with Agents?",
     "start": "2026-10-23T11:30:00-07:00",
     "end": "2026-10-23T12:30:00-07:00",
     "location": "Gates B3",
     "url": "https://hci.stanford.edu/seminar/speaker.php?date=2026-10-23",
     "source_name": "Stanford HCI Seminar",
     "source_url": "https://hci.stanford.edu/seminar/",
-    "description": "Stanford HCI Seminar (CS547) · TBA · Fridays 11:30am–12:30pm PT · Open to the public",
+    "description": "Stanford HCI Seminar (CS547) · Amy X. Zhang University of Washington · Fridays 11:30am–12:30pm PT · Open to the public",
     "audience": "open_to_public"
   },
   {
@@ -9118,6 +8437,18 @@
     "audience": "unknown"
   },
   {
+    "id": "e9dbb3d23ec5345e",
+    "title": "DAMNS Fall General Body Meeting",
+    "start": "2026-10-23T18:30:00-07:00",
+    "end": "2026-10-23T20:00:00-07:00",
+    "location": "@ SLS: Room 27, Crown Quadrangle, 559 Nathan Abbott Way, Stanford",
+    "url": "https://law.stanford.edu/event/damns-fall-general-body-meeting/",
+    "source_name": "Stanford Law",
+    "source_url": "https://law.stanford.edu/events/",
+    "description": "DAMNS will be holding our fall quarter general body meeting on Friday, October 23 at 6:30PM. Come by for snacks + desserts, good company, and discussion of DAMNS business! Please RSVP at https://forms.gle/GYEn1VXwVaZLYKwR6 by Thursday, October 22 at 11:59PM if you plan to attend.",
+    "audience": "unknown"
+  },
+  {
     "id": "898a7d850d18a8a3",
     "title": "Steal This Story, Please!, Documentary screening w/Amy Goodman & Tia Lessin",
     "start": "2026-10-23T18:30:00-07:00",
@@ -9128,6 +8459,18 @@
     "source_url": "https://events.stanford.edu/",
     "description": "This compelling documentary poses a question: what happens to democracy when the press stops challenging power? Taking on politicians, CEOs and riot police, Amy Goodman, founder and host of Democracy Now!, the largest independent news organization in the US, has reported from on…",
     "audience": "unknown"
+  },
+  {
+    "id": "94da5ad968dd0b42",
+    "title": "HALEH LIZA GAFORI presents RUMI: GOLD & WATER | A night of music and poetry",
+    "start": "2026-10-23T19:00:00-07:00",
+    "end": "2026-10-23T20:00:00-07:00",
+    "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/gold-water-26",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Join performance artist, translator, and musician Haleh Liza Gafori for a transcendent and startling night of music and poetry, featuring acclaimed translations of the 13th century mystic Rumi (published in two volumes, Gold and Water, by New York Review Books) and musical compo…",
+    "audience": "open_to_public"
   },
   {
     "id": "f17667a8a0eeee54",
@@ -10621,6 +9964,18 @@
     "audience": "unknown"
   },
   {
+    "id": "2ae3440a7020ca29",
+    "title": "Public Lecture: Gravitational Wave Detection",
+    "start": "2026-10-27T19:00:00-07:00",
+    "end": "2026-10-27T20:00:00-07:00",
+    "location": "Sapp Center for Science Teaching and Learning, Room 111, 376 Lomita Dr, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/public-lecture-gravitational-wave-detection",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "How do we detect tiny stretches of spacetime? Join us to learn how sensitive instruments are built to enable scientific discoveries! This lecture will be offered in a hybrid format, is open to all, and is recommended for adults and students in 9th grade and above. Title: Measuri…",
+    "audience": "open_to_public"
+  },
+  {
     "id": "81459417ac074648",
     "title": "Big Earth Hackathon: Wildland Fire Challenge",
     "start": "2026-10-28T00:00:00-07:00",
@@ -10852,6 +10207,18 @@
     "audience": "unknown"
   },
   {
+    "id": "a648a4c570ac5557",
+    "title": "Connor Holland [Stanford University] & Alexey Khudorozhkov [Stanford University]",
+    "start": "2026-10-28T11:30:00-07:00",
+    "end": "2026-10-28T13:00:00-07:00",
+    "location": "PAB 102/103, 452 Lomita Mall, Stanford",
+    "url": "https://qfarm.stanford.edu/events/q-farm-seminars/connor-holland-stanford-university-alexey-khudorozhkov-stanford-university",
+    "source_name": "Q-FARM",
+    "source_url": "https://qfarm.stanford.edu/events",
+    "description": "Notes: Main talk will begin @ 11:30 am in PAB 102/103 Boxed lunch will available for attendees @ 12:30 pm in PAB 102/103 Video Recordings once Speaker approved, will be available on our youtube channel On-site seminar attendance is limited to Stanford students, faculty, staff, a…",
+    "audience": "open_to_public"
+  },
+  {
     "id": "dc2a16b4c36d81e8",
     "title": "AI4MH Seminar: Data-Driven Insights: Machine Learning's Role in Addiction Science - Lindsay Squeglia, PhD",
     "start": "2026-10-28T12:00:00-07:00",
@@ -10886,6 +10253,18 @@
     "source_url": "https://events.stanford.edu/",
     "description": "Stanford Department of Medicine would like to invite all Stanford community members to attend this instance of the Medicine Grand Rounds (MGR) series, which will feature Christopher Gardner, PhD, a Stanford nutrition scientist who has spent three decades rigorously pitting popul…",
     "audience": "unknown"
+  },
+  {
+    "id": "63a81ed63162b8ce",
+    "title": "GSE Colloquium Series in K-12 Ethnic Studies Education - Rita Kohli",
+    "start": "2026-10-28T12:00:00-07:00",
+    "end": "2026-10-28T13:00:00-07:00",
+    "location": "ANKO Auditorium (109)",
+    "url": "https://ed.stanford.edu/events/gse-colloquium-series-k-12-ethnic-studies-education-rita-kohli",
+    "source_name": "Stanford GSE",
+    "source_url": "https://ed.stanford.edu/events",
+    "description": "Embodying Ethnic Studies: Teachers, Resistance, and the Reimagining of K–12 Schools Rooted in cross-racial activism for educational access, curricular relevance, and community engagement, Ethnic Studies emerged in response to the dominance of Eurocentric approaches to U.S. educa…",
+    "audience": "stanford_only"
   },
   {
     "id": "8abd2ac342b725ef",
@@ -11152,10 +10531,22 @@
     "audience": "open_to_public"
   },
   {
+    "id": "f4dba3827cbe8ae8",
+    "title": "DAMNS Faculty Dinner",
+    "start": "2026-10-28T19:00:00-07:00",
+    "end": "2026-10-28T21:00:00-07:00",
+    "location": null,
+    "url": "https://law.stanford.edu/event/damns-faculty-dinner/",
+    "source_name": "Stanford Law",
+    "source_url": "https://law.stanford.edu/events/",
+    "description": "The Disability and Mental Health Network at Stanford will be holding our faculty dinner at Professor Alison Morantz’s home on Wednesday, October 28th at 7 PM ! Please RSVP if you are interested in attending at https://forms.gle/2CN61g7WcgKy52JZ7 by Monday, October 26th at 12PM (…",
+    "audience": "unknown"
+  },
+  {
     "id": "02cc26987f74d259",
     "title": "FLI Study Nights",
     "start": "2026-10-28T19:30:00-07:00",
-    "end": "2026-10-28T22:30:00-07:00",
+    "end": "2026-10-28T22:00:00-07:00",
     "location": "@ SLS: Room 21, Crown Quadrangle, 559 Nathan Abbott Way",
     "url": "https://law.stanford.edu/event/fli-study-nights-3/",
     "source_name": "Stanford Law",
@@ -11260,8 +10651,8 @@
     "audience": "stanford_only"
   },
   {
-    "id": "e6007ea4faf695f4",
-    "title": "Civics Programs and their Critics",
+    "id": "b1b3a19f610dabc7",
+    "title": "Civics Programs And Their Critics",
     "start": "2026-10-29T09:00:00-07:00",
     "end": "2026-10-29T10:00:00-07:00",
     "location": "Hoover Institution, Stanford University",
@@ -11293,6 +10684,18 @@
     "source_name": "Stanford Events (Localist)",
     "source_url": "https://events.stanford.edu/",
     "description": "Keep Stanford Healthy: Campus Flu & COVID-19 Vaccination Clinic As we head into the autumn season, let’s work together to keep our campus safe, healthy, and thriving. We encourage all members of the Stanford community to take a proactive step in protecting themselves and their c…",
+    "audience": "unknown"
+  },
+  {
+    "id": "59794637ab40a410",
+    "title": "The Alliance for Civics in the Academy discussing Civics Programs And Their Critics",
+    "start": "2026-10-29T09:00:00-07:00",
+    "end": "2026-10-29T10:00:00-07:00",
+    "location": null,
+    "url": "https://events.stanford.edu/event/the-alliance-for-civics-in-the-academy-discussing-civics-programs-and-their-critics",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "The recent resurgence in postsecondary civic education has been anchored by a proliferation of new civics centers across the country. These centers have attracted attention, funding, and critics who question their political independence and their place in faculty governance. On…",
     "audience": "unknown"
   },
   {
@@ -12040,6 +11443,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "96650ce49b1cc5b3",
+    "title": "SLS Halloween!",
+    "start": "2026-10-30T12:30:00-07:00",
+    "end": "2026-10-30T14:00:00-07:00",
+    "location": "@ SLS: Crocker Garden, Crown Quadrangle, 559 Nathan Abbott Way, Stanford",
+    "url": "https://law.stanford.edu/event/sls-halloween/",
+    "source_name": "Stanford Law",
+    "source_url": "https://law.stanford.edu/events/",
+    "description": "Celebrate Halloween with us during lunch (12:45-2:00)! Stop by Russo to get your bag and then trick or treat in Crown and Neukom. Costumes encouraged and families welcome!",
+    "audience": "unknown"
+  },
+  {
     "id": "57f15250d9d2eb82",
     "title": "Policy Lab Workshop | Oral Briefings for Public Policy",
     "start": "2026-10-30T12:45:00-07:00",
@@ -12109,6 +11524,18 @@
     "source_name": "Stanford Events (Localist)",
     "source_url": "https://events.stanford.edu/",
     "description": "Join us for casual in-gallery conversations in our special exhibition, JANE!, facilitated by our Museum Engagement Guides. Enjoy a spotlight tour focusining on a single object, followed by an open conversation. Curated by Associate Curator of European Art, Patrick R. Crowley, JA…",
+    "audience": "open_to_public"
+  },
+  {
+    "id": "0733ef396db173b5",
+    "title": "David Rumsey Map Center Guided Tour",
+    "start": "2026-10-30T15:00:00-07:00",
+    "end": "2026-10-30T16:00:00-07:00",
+    "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Explore the World of Maps at the David Rumsey Map Center Join us for a guided tour of the David Rumsey Map Center at Stanford Libraries. Upon arrival, you'll be greeted by one of our knowledgeable staff members for an immersive experience. 30-Minute Overview: Dive deep into the…",
     "audience": "open_to_public"
   },
   {
@@ -12805,6 +12232,21 @@
     "audience": "open_to_public"
   },
   {
+    "id": "0be14a558059ed88",
+    "title": "Book Talk: Chrystia Freeland — Unreliable Boyfriend: An Insider's View of Dealing with a Chaotic Superpower, Plutocrats, and Other Complicated People",
+    "start": "2026-11-02T16:00:00-08:00",
+    "end": "2026-11-02T17:30:00-08:00",
+    "location": "Encina Hall, 616 Jane Stanford Way, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/book-talk-chrystia-freeland-unreliable-boyfriend-an-insiders-view-of-dealing-with-a-chaotic-superpower-plutocrats-and-other-complicated-people",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "How should allies deal with a superpower they can no longer rely on? Former Canadian Deputy Prime Minister Chrystia Freeland joins CDDRL to discuss her new book, \"Unreliable Boyfriend: An Insider's View of Dealing with a Chaotic Superpower, Plutocrats, and Other Complicated Peop…",
+    "audience": "open_to_public",
+    "also_sources": [
+      "FSI"
+    ]
+  },
+  {
     "id": "61807afe87f88277",
     "title": "Elizabeth Jun (Nuyujukian Lab) & Lavonna Mark (Giocomo Lab)",
     "start": "2026-11-02T16:00:00-08:00",
@@ -12841,16 +12283,19 @@
     "audience": "unknown"
   },
   {
-    "id": "20656834f0bd3997",
+    "id": "b0ab5d07a4f326f4",
     "title": "Japan and the Middle East in a Changing Geopolitical Landscape",
     "start": "2026-11-02T16:00:00-08:00",
     "end": "2026-11-02T17:30:00-08:00",
-    "location": "Philippines Conference Room (C330) Encina Hall, 3rd Floor 616 Jane Stanford Way, Stanford, CA 94305",
-    "url": "https://fsi.stanford.edu/events/japan-and-middle-east-changing-geopolitical-landscape",
-    "source_name": "FSI",
-    "source_url": "https://fsi.stanford.edu/events",
-    "description": null,
-    "audience": "unknown"
+    "location": "Encina Hall, Room Philippines Conference Room, 616 Jane Stanford Way, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/japan-and-the-middle-east-in-a-changing-geopolitical-landscape",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "This event will feature two presentations Japanese domestic politics and foreign policy under the reshuffled Takaichi Cabinet, presented by Koji Murata Prime Minister Tacaichi Sanae reshuffled her cabinet in September, and visited the United States for the UN General Assembly an…",
+    "audience": "open_to_public",
+    "also_sources": [
+      "FSI"
+    ]
   },
   {
     "id": "5cf8f80e7ab459b9",
@@ -13294,6 +12739,18 @@
     "audience": "stanford_only"
   },
   {
+    "id": "aa74989ef2d96cba",
+    "title": "The Hoover Institution Center for Revitalizing American Institutions discussing America Votes 2026: Understanding The Midterm Elections",
+    "start": "2026-11-04T10:00:00-08:00",
+    "end": "2026-11-04T11:30:00-08:00",
+    "location": null,
+    "url": "https://events.stanford.edu/event/the-hoover-institution-center-for-revitalizing-american-institutions-discussing-america-votes-2026-understanding-the-midterm-elections",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "The Hoover Institution Center for Revitalizing American Institutions webinar series features speakers who are developing innovative ideas, conducting groundbreaking research, and taking important actions to improve trust and efficacy in American institutions. Speaker expertise a…",
+    "audience": "unknown"
+  },
+  {
     "id": "de5a9709475732e2",
     "title": "International Spouse Coffee ☕️",
     "start": "2026-11-04T10:30:00-08:00",
@@ -13606,16 +13063,19 @@
     "audience": "open_to_public"
   },
   {
-    "id": "a0b857a3c2426ca7",
+    "id": "c89647839267b98d",
     "title": "The Rise and Fall of Tunisian Democracy: Populism, Polarization, and the Perils of Power-Sharing",
     "start": "2026-11-04T16:00:00-08:00",
     "end": "2026-11-04T17:15:00-08:00",
-    "location": "Virtual to Public. If prompted for a password, use: 123456 Only those with an active Stanford ID with access to William J. Perry Conference Room in Encina Hall may attend in person.",
-    "url": "https://fsi.stanford.edu/events/rise-and-fall-tunisian-democracy-populism-polarization-and-perils-power-sharing",
-    "source_name": "FSI",
-    "source_url": "https://fsi.stanford.edu/events",
-    "description": null,
-    "audience": "unknown"
+    "location": "Encina Hall, 616 Jane Stanford Way, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/the-rise-and-fall-of-tunisian-democracy-populism-polarization-and-the-perils-of-power-sharing",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "After the Arab Spring, Tunisia emerged as the one success story to transition to democracy, winning a Nobel Peace Prize in 2015 for its focus on inclusion and power-sharing. How, then, did its democracy collapse in 2021? Drawing on unique interviews with senior Tunisian official…",
+    "audience": "open_to_public",
+    "also_sources": [
+      "FSI"
+    ]
   },
   {
     "id": "cc4bbba81ef5755c",
@@ -13652,6 +13112,21 @@
     "source_url": "https://events.stanford.edu/",
     "description": "Please join the next Slavic Colloquium event. Naomi Caffee (Reed College) will present at talk titled, \"Arts of Recognition: The Cultural Work of Indigenous Diplomacy from the Cold War to the End of History.\" More details to follow.",
     "audience": "unknown"
+  },
+  {
+    "id": "957c37623b964321",
+    "title": "Work, Exile, and Home: Honoring Milorad Drachkovitch & ReOpening the Polich Room",
+    "start": "2026-11-04T16:30:00-08:00",
+    "end": "2026-11-04T18:30:00-08:00",
+    "location": "Hoover Tower, Room T108, 550 Jane Stanford Way, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/work-exile-and-home-honoring-milorad-drachkovitch-reopening-the-polich-room",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "This event will pay tribute to Milorad M. Drašković (Drachkovitch), who devoted more than three decades of his career to the Hoover Institution, on the thirtieth anniversary of his passing. From 1974 to 1984, Drašković led the Hoover Institution Library and Archives, helping to…",
+    "audience": "open_to_public",
+    "also_sources": [
+      "Hoover Institution"
+    ]
   },
   {
     "id": "9cb7aef846aaa63d",
@@ -13705,7 +13180,7 @@
     "id": "5d567b515e6f6ec3",
     "title": "FLI Study Nights",
     "start": "2026-11-04T19:30:00-08:00",
-    "end": "2026-11-04T22:30:00-08:00",
+    "end": "2026-11-04T22:00:00-08:00",
     "location": "@ SLS: Room 21, Crown Quadrangle, 559 Nathan Abbott Way",
     "url": "https://law.stanford.edu/event/fli-study-nights-4/",
     "source_name": "Stanford Law",
@@ -13818,7 +13293,7 @@
     "url": "https://qfarm.stanford.edu/events/conference-workshop/ai-x-quantum-research-show-tell",
     "source_name": "Q-FARM",
     "source_url": "https://qfarm.stanford.edu/events",
-    "description": null,
+    "description": "A one-day Show & Tell where Quantum researchers share how they’re using AI in their work: the research problem, the tools they tried, and what happened. Real workflows, not polished results. Failures are as welcome as successes. Format 16 talks (10 min + 5 min Q&A), eight in the…",
     "audience": "unknown"
   },
   {
@@ -13867,6 +13342,18 @@
     "source_name": "Stanford Events (Localist)",
     "source_url": "https://events.stanford.edu/",
     "description": "In Focus: Asian American Art from the Collection showcases recent acquisitions made through the Cantor’s Asian American Art Initiative (AAAI), offering a glimpse into one of the fastest-growing areas of the museum’s collection. Many of the works on view are being presented for t…",
+    "audience": "open_to_public"
+  },
+  {
+    "id": "38b6a91d9f9d5d2d",
+    "title": "The Body as Monument",
+    "start": "2026-11-05T11:30:00-08:00",
+    "end": "2026-11-05T13:00:00-08:00",
+    "location": "El Centro Chicano, Room Jaime Miranda Lounge, 514 Lasuen Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/the-body-as-monument",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Chicana/o-Latina/o Studies and El Centro are thrilled to welcome Jess Sabogal, a cuir Colombian - American muralistx and printmaker from San Francisco whose large-scale public artworks attempt to document and disrupt. In this artist talk, Jess Sabogal maps a two-decade creative…",
     "audience": "open_to_public"
   },
   {
@@ -14440,6 +13927,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "104885c10d974d02",
+    "title": "Steve Rathje — The Psychology of Engagement-Maximizing Technologies",
+    "start": "2026-11-06T11:30:00-08:00",
+    "end": "2026-11-06T12:30:00-08:00",
+    "location": "Gates B3",
+    "url": "https://hci.stanford.edu/seminar/speaker.php?date=2026-11-06",
+    "source_name": "Stanford HCI Seminar",
+    "source_url": "https://hci.stanford.edu/seminar/",
+    "description": "Stanford HCI Seminar (CS547) · Steve Rathje Carnegie Mellon University · Fridays 11:30am–12:30pm PT · Open to the public",
+    "audience": "open_to_public"
+  },
+  {
     "id": "1bb3e9cb798ce32c",
     "title": "GSIS Friday Seminar 11.6.26",
     "start": "2026-11-06T12:00:00-08:00",
@@ -14464,12 +13963,12 @@
     "audience": "unknown"
   },
   {
-    "id": "8a63957ce27c3ea4",
-    "title": "Ming Li | SCCEI Seminar",
+    "id": "8b1c7c9c20e5e6da",
+    "title": "Ming Li | Rural-Urban Migration and Market Integration",
     "start": "2026-11-06T12:00:00-08:00",
     "end": "2026-11-06T13:20:00-08:00",
     "location": "Goldman Room E409, Encina Hall",
-    "url": "https://fsi.stanford.edu/events/ming-li-sccei-seminar",
+    "url": "https://fsi.stanford.edu/events/ming-li-rural-urban-migration-and-market-integration",
     "source_name": "FSI",
     "source_url": "https://fsi.stanford.edu/events",
     "description": null,
@@ -14901,5 +14400,209 @@
     "source_url": "https://live.stanford.edu/events/calendar",
     "description": null,
     "audience": "unknown"
+  },
+  {
+    "id": "d8f9d1b2285ab079",
+    "title": "Carolyn Lazard: Long Take",
+    "start": "2026-11-08T00:00:00-08:00",
+    "end": null,
+    "location": "Cantor Arts Center, Room Lynn Krywick Gibbons Gallery, 328 Lomita Drive, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/carolyn-lazard-long-take",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Carolyn Lazard: Long Take is a multimedia exhibition that begins with a score for a performance and unfolds as a series of interventions that engage accessibility as an artistic material. Made in collaboration with dancer Jerron Herman and poet and artist Joselia Rebekah Hughes,…",
+    "audience": "open_to_public"
+  },
+  {
+    "id": "d369640da4850c91",
+    "title": "Diwali (Deepavali) (Hindu)",
+    "start": "2026-11-08T00:00:00-08:00",
+    "end": "2026-11-08T23:59:59-08:00",
+    "location": null,
+    "url": "https://law.stanford.edu/event/diwali-deepavali/",
+    "source_name": "Stanford Law",
+    "source_url": "https://law.stanford.edu/events/",
+    "description": "Stanford has long supported faculty, students, and staff in observing religious holidays of significance to them. In the complex process of creating the academic calendar, religious holy days are but one of many considerations. The Office for Religious Life makes available to fa…",
+    "audience": "unknown"
+  },
+  {
+    "id": "f77486310e5fdac4",
+    "title": "JANE! An intimate exploration of Gilded Age excess  and the enigmatic life and death of Jane Stanford",
+    "start": "2026-11-08T00:00:00-08:00",
+    "end": null,
+    "location": "Cantor Arts Center, Room Stanford Family Rooms, 328 Lomita Drive, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/jane-an-intimate-exploration-of-gilded-age-excess-and-the-enigmatic-life-and-death-of-jane-stanford",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Curated by Associate Curator of European Art, Patrick R. Crowley, JANE! celebrates the aesthetic and affective excesses of Jane Stanford, the Gilded Age founder and matriarch of Stanford University. Bringing together precious keepsakes, souvenirs, archaeological detritus, and sp…",
+    "audience": "open_to_public"
+  },
+  {
+    "id": "cbee9b9fd909b557",
+    "title": "Korean Indigenous Futures: The Art of Kim Bong-Jun 김봉준 판화전: 토착적 미래- K아트, 디아스포라, 세계",
+    "start": "2026-11-08T00:00:00-08:00",
+    "end": null,
+    "location": "Lathrop Library, Room East Asia Library, 2nd Floor, 518 Memorial Way, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/korean-indigenous-futures",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "The East Asia Library at Stanford University will host a print exhibition by Kim Bong-Jun, a leading figure in Korean Minjung (People’s) Art, from September 29 to December 11, 2026. Active since the 1980s, Kim has developed a distinctive visual language that combines traditional…",
+    "audience": "open_to_public"
+  },
+  {
+    "id": "591262e0e0b76c47",
+    "title": "Solid Pictures: Photosculpture and the Making of Modern Likeness",
+    "start": "2026-11-08T00:00:00-08:00",
+    "end": null,
+    "location": "Cantor Arts Center, Room Pigott Family Gallery, 328 Lomita Drive, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/solid-pictures-photosculpture-and-the-making-of-modern-likeness",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Before 3D printing, there was photosculpture. Curated by Patrick R. Crowley, Associate Curator of European Art, Solid Pictures is the first major exhibition to explore these largely overlooked objects first conceived in 1859 by the twenty-nine-year-old French artist and inventor…",
+    "audience": "unknown"
+  },
+  {
+    "id": "0b66dcef43a37ec2",
+    "title": "Text Machines: Scarlet Thread of the Digital Order (1883-2026)",
+    "start": "2026-11-08T00:00:00-08:00",
+    "end": null,
+    "location": "Green Library, Bing Wing, Room Hohbach Hall, 459 Lasuen Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/text-machines-scarlet-thread-of-the-digital-order-1883-2026",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Stanford Libraries now holds an 1883 edition of a rare book, Les laboureurs: poème tiré de Jocelyn, whose pages (text and ornaments) were entirely woven on a Jacquard loom by the firm of silk merchant Joseph-Alphonse Henry. This exhibition explores the cultural contexts and mate…",
+    "audience": "open_to_public"
+  },
+  {
+    "id": "736b63b8fce85e2b",
+    "title": "Alcoholics Anonymous Sunday Meeting",
+    "start": "2026-11-08T09:00:00-08:00",
+    "end": "2026-11-08T10:00:00-08:00",
+    "location": "Rogers House, Room 102, 581 Capistrano Way",
+    "url": "https://events.stanford.edu/event/alcoholics-anonymous-meeting",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Weekly Sunday Alcoholics Anonymous Meeting on campus at Rogers House.",
+    "audience": "stanford_only"
+  },
+  {
+    "id": "c213252812abe7fc",
+    "title": "A Vision of Paris: The Roxane Debuisson Collection at Stanford",
+    "start": "2026-11-08T10:00:00-08:00",
+    "end": "2026-11-08T18:00:00-08:00",
+    "location": "Green Library, Bing Wing, 459 Lasuen Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/a-vision-of-paris-the-roxane-debuisson-collection-at-stanford",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Stanford University Libraries presents A Vision of Paris: the Roxane Debuisson Collection at Stanford, on view in the Peterson Gallery and Munger Rotunda of the Cecil H. Green Library from September 22, 2026 to January 24, 2027. Roxane Debuisson (1927–2018) dedicated sixty years…",
+    "audience": "open_to_public"
+  },
+  {
+    "id": "15baddd8e56eb4db",
+    "title": "In Focus: Asian American Art from the Collection",
+    "start": "2026-11-08T10:00:00-08:00",
+    "end": "2026-11-08T17:00:00-08:00",
+    "location": "Cantor Arts Center, Room Ruth Levison Halperin Gallery, 328 Lomita Drive, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/in-focus-asian-american-art-from-the-collection",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "In Focus: Asian American Art from the Collection showcases recent acquisitions made through the Cantor’s Asian American Art Initiative (AAAI), offering a glimpse into one of the fastest-growing areas of the museum’s collection. Many of the works on view are being presented for t…",
+    "audience": "open_to_public"
+  },
+  {
+    "id": "f129f508953f80e6",
+    "title": "Al-Anon Sunday Meeting",
+    "start": "2026-11-08T11:00:00-08:00",
+    "end": "2026-11-08T12:00:00-08:00",
+    "location": "Rogers House, Room 102, 581 Capistrano Way",
+    "url": "https://events.stanford.edu/event/al-anon-sunday-meeting",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Weekly Al-Anon Sunday meeting at Rogers House. Al-Anon is a fellowship of people who have been affected by the substance abuse of a loved one.",
+    "audience": "stanford_only"
+  },
+  {
+    "id": "d80ea8faaf3fcfda",
+    "title": "University Public Worship: Ecumenical Multifaith Service with Chaplain Kenneth Nacario Lee (Kula Pradipa Das).",
+    "start": "2026-11-08T11:00:00-08:00",
+    "end": "2026-11-08T12:00:00-08:00",
+    "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/university-public-worship-ecumenical-multifaith-service-with-chaplain-kenneth-nacario-lee-kula-pradipa-das",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Ecumenical Multifaith Service with Kenneth Nacario Lee (Kula Pradipa Das), Associate Chaplain for Religious & Spiritual Life and Advisor for Hindu Life, preaching. University Public Worship gathers weekly for the religious, spiritual, ethical, and moral formation of the Stanford…",
+    "audience": "open_to_public"
+  },
+  {
+    "id": "398b71519242935f",
+    "title": "Electric Contrasts: the Art of the Detail",
+    "start": "2026-11-08T12:00:00-08:00",
+    "end": "2026-11-08T18:00:00-08:00",
+    "location": "McMurtry Building, Room Bowes Art & Architecture Library, 2nd floor. Visitors: Please call 650-723-3408 for building/elevator access., 355 Roth Way, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/electric-contrasts-the-art-of-the-detail-7315",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Electric Contrasts: The Art of the Detail brings together photobooks and magazines to show how the revolution of photography in the late 19th and early 20th century changed the history of art. Electric Contrasts takes Kenneth Clark’s landmark 1938 book One Hundred Details from P…",
+    "audience": "open_to_public"
+  },
+  {
+    "id": "843c9172f732238a",
+    "title": "Public Tour | A Closer Look",
+    "start": "2026-11-08T13:00:00-08:00",
+    "end": "2026-11-08T14:00:00-08:00",
+    "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/public-tour-a-closer-look",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Discover new details, perspectives, and connections with Cantor’s “A Closer Look” tours. Led by a Stanford Student Guide or volunteer Museum Engagement Guide, each tour focuses on three to four artworks organized around a theme, providing participants with opportunities for cont…",
+    "audience": "open_to_public"
+  },
+  {
+    "id": "525106fbd6502df3",
+    "title": "Gallery Conversations | JANE!",
+    "start": "2026-11-08T14:00:00-08:00",
+    "end": "2026-11-08T15:00:00-08:00",
+    "location": "Cantor Arts Center, Room Stanford Family Room (122), 328 Lomita Drive, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/copy-of-gallery-conversations-jeremy-frey-woven-8444",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Join us for casual in-gallery conversations in our special exhibition, JANE!, facilitated by our Museum Engagement Guides. Enjoy a spotlight tour focusining on a single object, followed by an open conversation. Curated by Associate Curator of European Art, Patrick R. Crowley, JA…",
+    "audience": "open_to_public"
+  },
+  {
+    "id": "e93ecb3a0bd8ea5d",
+    "title": "Orpheus Chamber Orchestra with Pianist Isata Kanneh-Mason",
+    "start": "2026-11-08T14:30:00-08:00",
+    "end": null,
+    "location": "Bing Concert Hall",
+    "url": "https://live.stanford.edu/events/26-27season/bing-concert-hall/orpheus-chamber-orchestra/",
+    "source_name": "Stanford Live",
+    "source_url": "https://live.stanford.edu/events/calendar",
+    "description": null,
+    "audience": "unknown"
+  },
+  {
+    "id": "29d76715500b53ac",
+    "title": "Public Tour | A Closer Look",
+    "start": "2026-11-08T15:00:00-08:00",
+    "end": "2026-11-08T16:00:00-08:00",
+    "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Discover new details, perspectives, and connections with Cantor’s “A Closer Look” tours. Led by a Stanford Student Guide or volunteer Museum Engagement Guide, each tour focuses on three to four artworks organized around a theme, providing participants with opportunities for cont…",
+    "audience": "open_to_public"
+  },
+  {
+    "id": "975d074fbde22e59",
+    "title": "Stanford Alumni Recital",
+    "start": "2026-11-08T19:00:00-08:00",
+    "end": "2026-11-08T20:30:00-08:00",
+    "location": "Braun Music Center, Room Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/stanford-alumni-recital-fall26",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Join us for a special evening of music as we bring together talented alumni from Stanford’s community from across the years, showcasing a diverse selection of solo and chamber music. This event offers an opportunity to experience the artistry of Stanford Alumni, a chance to reco…",
+    "audience": "open_to_public"
   }
 ]

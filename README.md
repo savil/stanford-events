@@ -116,6 +116,7 @@ If `main` is protected, allow `github-actions[bot]` to push, or the commit step 
 - User-Agent: `StanfordEvents/1.0 (+https://savil.github.io/stanford-events/; …)`
 - About 0.4s between HTTP requests
 - Localist pages are capped (`pp=100`, at most 15 pages)
+- TLS uses certifi. HCI Seminar (`hci.stanford.edu`) and Health Library (`med.stanford.edu`) also trust emSign Root CA - G1, the CERTInext anchor certifi 2026.10.18 dropped. Every other host stays on certifi alone.
 
 ## Limitations
 

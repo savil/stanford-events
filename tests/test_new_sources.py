@@ -25,7 +25,7 @@ from stanford_events.law_events import events_from_tribe_payload
 from stanford_events.normalize import PT, classify_audience_from_text, classify_audience_names
 from stanford_events.registry import Source
 from stanford_events.stanford_live import events_from_live_payload
-from stanford_events.sws import events_from_sws_payload
+from stanford_events.sws import events_from_sws_html, events_from_sws_payload, fetch_sws
 from stanford_events.__main__ import main
 
 
@@ -153,6 +153,193 @@ class SwsTests(unittest.TestCase):
         self.assertEqual(ev["audience"], "stanford_only")
         self.assertEqual(ev["location"], "Campus, PAB 102/103")
         self.assertTrue(ev["url"].endswith("/events/kipac-tea-talk/dark-matter"))
+
+
+LISTING_HTML = """
+<div class="stanford-events list-page">
+  <article class="su-event-list-item">
+    <h3><a href="/events/kipac-tea-talk/dark-matter">KIPAC Tea Talk: Dark matter lenses</a></h3>
+    <div class="event-list-item__subheadline">Ada Lovelace</div>
+    <div class="views-field-su-event-location">Campus, PAB 102/103</div>
+    <time datetime="2026-10-30T10:40:00-07:00">Friday, October 30, 2026 | 10:40am</time>
+    <time datetime="2026-10-30T11:30:00-07:00">11:30am PDT</time>
+  </article>
+  <article class="su-event-list-item">
+    <h3><a href="https://events.stanford.edu/event/already">Already on Localist</a></h3>
+    <time datetime="2026-10-30T18:00:00-07:00">Friday</time>
+  </article>
+  <article class="su-event-list-item">
+    <h3><a href="/events/workshops/sprint-week">DESC Sprint Week</a></h3>
+    <div class="views-field-su-event-location">Various Locations @ SLAC</div>
+    <time datetime="2026-10-26">Monday, October 26, 2026</time>
+    <time datetime="2026-10-30">Friday, October 30, 2026</time>
+  </article>
+  <a title="Load more items" href="?page=1">Load More Events</a>
+</div>
+"""
+
+LATER_HTML = """
+<div class="stanford-events list-page">
+  <article class="su-event-list-item">
+    <h3><a href="/events/kipac-tea-talk/later">KIPAC Tea Talk: Later</a></h3>
+    <time datetime="2026-12-01T10:40:00-08:00">Tuesday</time>
+    <time datetime="2026-12-01T11:30:00-08:00">11:30am</time>
+  </article>
+</div>
+"""
+
+DETAIL_HTML = """
+<div class="su-event-audience">
+  <div>Faculty/Staff</div>
+  <div>Students</div>
+</div>
+<div class="su-event-body"><p>Galaxy surveys and dark matter lenses.</p></div>
+"""
+
+
+class SwsHtmlTests(unittest.TestCase):
+    def test_parses_listing_and_skips_localist(self):
+        events = events_from_sws_html(
+            LISTING_HTML,
+            page_url="https://kipac.stanford.edu/events/upcoming-events",
+            source_name="KIPAC",
+            source_url="https://kipac.stanford.edu/events/upcoming-events",
+            origin="https://kipac.stanford.edu",
+        )
+        self.assertEqual([ev["title"] for ev in events], [
+            "KIPAC Tea Talk: Dark matter lenses",
+            "DESC Sprint Week",
+        ])
+        tea = events[0]
+        self.assertEqual(tea["location"], "Campus, PAB 102/103")
+        self.assertEqual(tea["description"], "Ada Lovelace")
+        self.assertTrue(tea["start"].startswith("2026-10-30T10:40:00"))
+        self.assertTrue(tea["end"].startswith("2026-10-30T11:30:00"))
+        self.assertTrue(tea["url"].endswith("/events/kipac-tea-talk/dark-matter"))
+
+    def test_address_block_is_a_single_line(self):
+        html = """
+        <article class="su-event-list-item">
+          <h3><a href="/events/q-farm-seminars/liang-jiang">Liang Jiang</a></h3>
+          <div class="views-field-su-event-address">
+            <p class="address">
+              <span class="address-line1">452 Lomita Mall</span><br/>
+              <span class="locality">Stanford</span>, <span class="administrative-area">CA</span>
+              <span class="postal-code">94305</span><br/>
+              <span class="country">United States</span>
+            </p>
+          </div>
+          <time datetime="2026-11-04T11:00:00-08:00">Wednesday</time>
+        </article>
+        """
+        events = events_from_sws_html(
+            html,
+            page_url="https://qfarm.stanford.edu/events",
+            source_name="Q-FARM",
+            source_url="https://qfarm.stanford.edu/events",
+            origin="https://qfarm.stanford.edu",
+        )
+        self.assertEqual(len(events), 1)
+        self.assertEqual(
+            events[0]["location"],
+            "452 Lomita Mall, Stanford, CA 94305, United States",
+        )
+
+    def test_gateway_error_uses_html_and_event_page_audience(self):
+        import requests
+
+        def fake_get(url, params=None, headers=None, timeout=30):
+            del params, headers, timeout
+            if "jsonapi" in url:
+                resp = requests.Response()
+                resp.status_code = 502
+                resp.url = url
+                raise requests.HTTPError("502 Server Error", response=resp)
+            resp = requests.Response()
+            resp.status_code = 200
+            resp.url = url
+            if url.endswith("/dark-matter"):
+                body = DETAIL_HTML
+            elif "page=1" in url:
+                body = LATER_HTML
+            else:
+                body = LISTING_HTML
+            resp._content = body.encode()
+            return resp
+
+        window = (
+            datetime(2026, 10, 30, tzinfo=PT),
+            datetime(2026, 11, 30, tzinfo=PT),
+        )
+        with (
+            patch("stanford_events.sws.get", side_effect=fake_get) as mocked,
+            patch("stanford_events.sws.window_bounds", return_value=window),
+        ):
+            events = fetch_sws(
+                origin="https://kipac.stanford.edu",
+                source_name="KIPAC",
+                source_url="https://kipac.stanford.edu/events/upcoming-events",
+                days=30,
+            )
+        urls = [call.args[0] for call in mocked.call_args_list]
+        self.assertTrue(any("jsonapi" in url for url in urls))
+        self.assertTrue(any(url.endswith("/dark-matter") for url in urls))
+        # December event is outside the Oct 30 + 30 day window, so its page is not opened.
+        self.assertFalse(any(url.endswith("/later") for url in urls))
+        by_title = {ev["title"]: ev for ev in events}
+        tea = by_title["KIPAC Tea Talk: Dark matter lenses"]
+        self.assertEqual(tea["audience"], "stanford_only")
+        self.assertIn("Galaxy surveys", tea["description"])
+        self.assertIn("KIPAC Tea Talk: Later", by_title)
+        self.assertEqual(by_title["KIPAC Tea Talk: Later"]["audience"], "unknown")
+
+    def test_include_400_retries_json_without_html(self):
+        import requests
+
+        calls: list[str] = []
+
+        def fake_get(url, params=None, headers=None, timeout=30):
+            del headers, timeout
+            calls.append(url)
+            if params and "include" in params:
+                resp = requests.Response()
+                resp.status_code = 400
+                resp.url = url
+                raise requests.HTTPError("400 Client Error", response=resp)
+            resp = requests.Response()
+            resp.status_code = 200
+            resp.url = url
+            resp._content = b'{"data":[],"links":{}}'
+            return resp
+
+        with patch("stanford_events.sws.get", side_effect=fake_get):
+            events = fetch_sws(
+                origin="https://siepr.stanford.edu",
+                source_name="SIEPR",
+                source_url="https://siepr.stanford.edu/events",
+                days=30,
+            )
+        self.assertEqual(events, [])
+        self.assertTrue(all("jsonapi" in url for url in calls))
+        self.assertEqual(len(calls), 2)
+
+    def test_client_error_does_not_fall_back(self):
+        import requests
+
+        def fake_get(url, params=None, headers=None, timeout=30):
+            del params, headers, timeout
+            resp = requests.Response()
+            resp.status_code = 404
+            resp.url = url
+            raise requests.HTTPError("404 Client Error", response=resp)
+
+        with patch("stanford_events.sws.get", side_effect=fake_get):
+            with self.assertRaises(requests.HTTPError):
+                fetch_sws(
+                    origin="https://siepr.stanford.edu",
+                    source_name="SIEPR",
+                    source_url="https://siepr.stanford.edu/events",
+                )
 
 
 class HsTests(unittest.TestCase):

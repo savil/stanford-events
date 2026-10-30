@@ -634,8 +634,20 @@ def _error_lines(errors: list[dict] | None) -> list[str]:
         message = str(err.get("error") or "failed").replace("\n", " ").strip()
         if len(message) > 180:
             message = message[:179].rstrip() + "…"
+        kept = err.get("fallback_events")
+        if isinstance(kept, int) and not isinstance(kept, bool) and kept > 0:
+            noun = "event" if kept == 1 else "events"
+            message = f"{message} Kept {kept} {noun} from the last listing."
         lines.append(f"{source}: {message}")
     return lines
+
+
+def _kept_previous_listing(errors: list[dict] | None) -> bool:
+    for err in errors or []:
+        kept = err.get("fallback_events")
+        if isinstance(kept, int) and not isinstance(kept, bool) and kept > 0:
+            return True
+    return False
 
 
 def render_html(
@@ -693,10 +705,19 @@ def render_html(
         f'<p class="filter-note" id="filter-note" aria-live="polite">{escape(_ALL_FILTER_NOTE)}</p>',
     ]
     if error_lines:
+        if _kept_previous_listing(errors):
+            tail = (
+                "Failed sources keep events from the last listing when that count is shown. "
+                "The other sources were refreshed."
+            )
+        else:
+            tail = "Events from the sources that succeeded are still listed."
         parts.append(
             '<p class="warn"><strong>Some sources did not refresh.</strong> '
             + escape(" ".join(error_lines))
-            + " Events from the sources that succeeded are still listed.</p>"
+            + " "
+            + tail
+            + "</p>"
         )
     parts.extend(
         [

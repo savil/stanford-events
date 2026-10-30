@@ -8,6 +8,7 @@ from .http_util import get
 from .normalize import Audience, Event, build_event, classify_audience_names, parse_datetime
 
 SOURCE_NAME = "Stanford Events (Localist)"
+BING_SOURCE_NAME = "Bing Concert Hall (Localist)"
 SOURCE_URL = "https://events.stanford.edu/"
 API_URL = "https://events.stanford.edu/api/2/events"
 
@@ -168,7 +169,7 @@ def fetch_events(days: int = 30) -> list[Event]:
         out.extend(
             _instances_to_events(
                 ev,
-                source_name="Bing Concert Hall (Localist)",
+                source_name=BING_SOURCE_NAME,
                 source_url=BING_SOURCE_URL,
             )
         )

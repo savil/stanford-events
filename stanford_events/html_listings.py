@@ -19,6 +19,12 @@ _MONTH = (
     r"Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|"
     r"Jul(?:y)?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?"
 )
+NEUROSCIENCE_SOURCE_NAME = "Wu Tsai Neurosciences"
+HUMANITIES_SOURCE_NAME = "Stanford Humanities Center"
+GSB_SOURCE_NAME = "Stanford GSB"
+HEALTH_LIBRARY_SOURCE_NAME = "Stanford Health Library"
+SLAC_SOURCE_NAME = "SLAC"
+
 _DATE_RE = re.compile(
     rf"(?:(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)\w*,\s+)?({_MONTH})\.?\s+(\d{{1,2}})"
     rf"(?:st|nd|rd|th)?(?:\s*,?\s*(20\d{{2}}))?",
@@ -73,7 +79,7 @@ def parse_neuroscience(html: str, page_url: str) -> list[Event]:
                 end=end,
                 location=location,
                 url=urljoin(page_url, link["href"]),
-                source_name="Wu Tsai Neurosciences",
+                source_name=NEUROSCIENCE_SOURCE_NAME,
                 source_url="https://neuroscience.stanford.edu/events",
                 description=None,
                 audience=classify_audience_from_text(blurb),
@@ -114,7 +120,7 @@ def parse_humanities_center(html: str, page_url: str) -> list[Event]:
                 end=end,
                 location=location,
                 url=urljoin(page_url, link["href"]),
-                source_name="Stanford Humanities Center",
+                source_name=HUMANITIES_SOURCE_NAME,
                 source_url="https://shc.stanford.edu/stanford-humanities-center/events",
                 description=description,
                 audience=classify_audience_from_text(row.get_text(" ", strip=True)),
@@ -163,7 +169,7 @@ def parse_gsb(html: str, page_url: str) -> list[Event]:
                     end=at_clock(day, end_clock) if end_clock else None,
                     location=location,
                     url=urljoin(page_url, link["href"]),
-                    source_name="Stanford GSB",
+                    source_name=GSB_SOURCE_NAME,
                     source_url="https://www.gsb.stanford.edu/events",
                     description=summary,
                     audience=classify_audience_from_text(summary, title),
@@ -240,7 +246,7 @@ def parse_health_library(html: str, page_url: str = _MED_URL) -> list[Event]:
                     end=at_clock(day, end_clock) if end_clock else None,
                     location=location,
                     url=link or page_url,
-                    source_name="Stanford Health Library",
+                    source_name=HEALTH_LIBRARY_SOURCE_NAME,
                     source_url=_MED_URL,
                     description=description,
                     audience=classify_audience_from_text(blob, current_title),
@@ -314,7 +320,7 @@ def parse_slac(html: str, page_url: str) -> list[Event]:
                 end=at_clock(day, end_clock) if end_clock else None,
                 location=None,
                 url=urljoin(page_url, href),
-                source_name="SLAC",
+                source_name=SLAC_SOURCE_NAME,
                 source_url=page_url,
                 description=None,
                 audience=classify_audience_from_text(body, title),

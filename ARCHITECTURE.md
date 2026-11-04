@@ -37,6 +37,7 @@ stanford_events/registry.py      Source list (key, label, fetch)
 stanford_events/normalize.py     Schema, window, dedupe
 stanford_events/preview.py       index.html and sample-preview.md
 stanford_events/http_util.py     Shared GET (User-Agent, ~0.4s gap)
+stanford_events/certs/           Extra root for two CERTInext hosts
 stanford_events/parse_util.py    JSON:API and HTML text helpers
 stanford_events/localist.py      events.stanford.edu
 stanford_events/sws.py           Shared SWS JSON:API view
@@ -46,10 +47,12 @@ stanford_events/*.py             One module per other site
 tests/                           unittest
 .github/workflows/scrape.yml     Scrape, commit out/, deploy Pages
 sources.md                       What is scraped, covered, or skipped
-requirements.txt                 requests, beautifulsoup4, lxml, python-dateutil
+requirements.txt                 requests, certifi, beautifulsoup4, lxml, python-dateutil
 ```
 
 The module table in [`README.md`](README.md) matches `iter_sources()`. Registry keys are short (`law`, `gsb`); `source_name` on an event is the display label (`Stanford Law`, `Stanford GSB`).
+
+`http_util.get` verifies TLS with certifi. `hci.stanford.edu` and `med.stanford.edu` are the exception: their CERTInext chain ends at emSign Root CA - G1, which certifi 2026.10.18 removed. The handshake already includes InCommon Intermediate CA - DVG2C and emSign Root TLS CA - G1, so those two hosts are verified with certifi plus [`stanford_events/certs/emsign_root_ca_g1.pem`](stanford_events/certs/emsign_root_ca_g1.pem). Every other host stays on certifi alone.
 
 ## Event schema
 

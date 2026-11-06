@@ -16,16 +16,16 @@ sources.md  →  registry.iter_sources()
             →  GitHub Pages (out/ is the site root)
 ```
 
-[`stanford_events/__main__.py`](stanford_events/__main__.py) is the CLI: `python -m stanford_events --days 30 --out out`. It calls every source in [`stanford_events/registry.py`](stanford_events/registry.py). One source raising is recorded and the others continue. After the window filter and cross-source dedupe, the CLI writes:
+[`stanford_events/__main__.py`](stanford_events/__main__.py) is the CLI: `python -m stanford_events --days 30 --out out`. It calls every source in [`stanford_events/registry.py`](stanford_events/registry.py). One source raising is recorded and the others continue. [`stanford_events/http_util.py`](stanford_events/http_util.py) retries a GET that times out or drops the connection: 3 attempts, waiting 1s and then 2s. Certificate verification failures and HTTP error statuses are not retried. If a source still fails, rows from the `out/events.json` already on disk are reused when their `source_name` is one that source writes and the start is still inside the window. The error stays in `errors.json`. When rows were reused, the record also has `fallback_events` (how many). A non-empty `errors.json` still means something failed. After the window filter and cross-source dedupe, the CLI writes:
 
 | File | Role |
 |------|------|
 | `out/events.json` | Normalized events in the window |
 | `out/index.html` | The Pages homepage: one static page, sections per Pacific day |
 | `out/sample-preview.md` | Same listing as markdown, for review |
-| `out/errors.json` | Per-source error, plus a short traceback |
+| `out/errors.json` | Per-source error, plus a short traceback. `fallback_events` is set when that source's previous rows were kept |
 
-`errors.json` is written first. If the window is empty and any source raised, the process exits 1 and leaves the previous JSON, HTML, and markdown in place, so the Action does not commit an empty calendar over the last good listing. A partial failure still publishes the events that came back. The HTML page notes source failures.
+`errors.json` is written first. The previous `events.json` is read before that write. If the window is empty and any source raised, the process exits 1 and leaves the previous JSON, HTML, and markdown in place, so the Action does not commit an empty calendar over the last good listing. Otherwise the run publishes what came back, including previous rows kept for sources that failed. The HTML page notes source failures and when events were kept from the last listing. Reused rows are the previous snapshot, so a talk that was rescheduled can show up twice until the next successful fetch of that source. The checkout only has the last published `events.json` (the Action clones with the default depth), so a source that already failed on that commit has no rows to reuse.
 
 There is no database and no request-time scrape. Pages serves the committed `out/` files. Audience toggles run in the browser against `data-audience` on each card.
 
@@ -33,10 +33,10 @@ There is no database and no request-time scrape. Pages serves the committed `out
 
 ```
 stanford_events/__main__.py      CLI
-stanford_events/registry.py      Source list (key, label, fetch)
+stanford_events/registry.py      Source list (key, label, fetch, source_name values)
 stanford_events/normalize.py     Schema, window, dedupe
 stanford_events/preview.py       index.html and sample-preview.md
-stanford_events/http_util.py     Shared GET (User-Agent, ~0.4s gap)
+stanford_events/http_util.py     Shared GET (User-Agent, ~0.4s gap, timeout retries)
 stanford_events/parse_util.py    JSON:API and HTML text helpers
 stanford_events/localist.py      events.stanford.edu
 stanford_events/sws.py           Shared SWS JSON:API view
@@ -82,7 +82,7 @@ The static page badges those three values as Public, Stanford only, and Unknown.
 1. Put the URL in [`sources.md`](sources.md) under Scraped, Covered by the Localist main feed, or Skipped, with the reason.
 2. Do not add another fetch for an events.stanford.edu department or venue page that the unfiltered Localist `/api/2/events` feed already contains. Bing Concert Hall is the exception still queried by `venue_id`; overlap collapses in dedupe. `department_id` is ignored by that API.
 3. If the site is a Localist mirror (`su_event_source` or the event link is `events.stanford.edu`), skip those rows. [`stanford_events/sws.py`](stanford_events/sws.py) and [`stanford_events/hs_events.py`](stanford_events/hs_events.py) already do this.
-4. Otherwise add a `fetch(days) -> list[Event]` and a `Source` in `iter_sources()`:
+4. Otherwise add a `fetch(days) -> list[Event]` and a `Source` in `iter_sources()`. Set `source_names` to every `source_name` that fetch writes (Localist includes the main feed and Bing) so a failed run can reuse those rows:
    - SWS department `/events` pages: `fetch_sws` (`/jsonapi/views/stanford_events/list_page`).
    - H&S `hs_event` pages: `fetch_hs`.
    - HTML with no JSON feed: a function in [`stanford_events/html_listings.py`](stanford_events/html_listings.py), or a dedicated module (Localist, HCI, HAI, Stanford Live, CCRMA, Law, GSE, FSI, Hoover) that ends in `build_event(...)`.

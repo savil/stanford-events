@@ -29,7 +29,7 @@ The scraper writes `out/events.json` and `out/index.html`, and publishes the `ou
 | `health_library` | https://med.stanford.edu/healthlibrary/lectures-events.html | Prose lecture list |
 | `slac` | SLAC public lectures and seminars pages | Dated HTML cards |
 
-One source failing does not fail the run. The error is stored in `out/errors.json` and noted on the page. The run fails only when every source fails, so an empty calendar is not published over the last good listing.
+One source failing does not fail the run. The error is stored in `out/errors.json` and noted on the page. A non-empty `errors.json` means something failed. Timeouts and dropped connections are retried. If a source still fails, its events from the previous listing stay on the page when they are still in the window. The run fails only when every source fails and nothing from that listing is left in the window, so an empty calendar is not published over the last good listing.
 
 There are no topic filters. Audience is shown as a badge, and the listing can filter to Public and/or Stanford only. Neither selected shows every event, including Unknown. A selection hides the other audiences (Unknown stays hidden until both toggles are off). The choice is stored in the page URL (`?audience=public`, `?audience=stanford`, or `?audience=public,stanford`; `#audience=public` works too).
 
@@ -56,7 +56,7 @@ That writes:
 
 - `out/index.html` — the public by-day page (this file is the GitHub Pages homepage)
 - `out/events.json` — normalized events in the window
-- `out/errors.json` — per-source failures, including tracebacks
+- `out/errors.json` — per-source failures, including tracebacks. Non-empty means something failed. `fallback_events` counts rows kept from the previous listing.
 - `out/sample-preview.md` — by-day markdown for review
 
 Open `out/index.html` in a browser, or from the repo root:
@@ -115,6 +115,7 @@ If `main` is protected, allow `github-actions[bot]` to push, or the commit step 
 
 - User-Agent: `StanfordEvents/1.0 (+https://savil.github.io/stanford-events/; …)`
 - About 0.4s between HTTP requests
+- Timeouts and dropped connections are retried up to 3 times (wait 1s, then 2s). Certificate verification failures and HTTP error statuses are not retried.
 - Localist pages are capped (`pp=100`, at most 15 pages)
 
 ## Limitations
@@ -126,3 +127,4 @@ If `main` is protected, allow `github-actions[bot]` to push, or the commit step 
 - CCRMA loads one page per in-window event (capped). Stanford Live’s calendar HTML is a Vue template; the JSON feed behind it is what gets parsed.
 - Deduping matches normalized titles (a short added suffix counts) and starts within 15 minutes on the same Pacific day. An exact title also matches when one source only has a date (midnight) and the other has a clock time. Different times on the same day are kept.
 - HTML and API shapes can change. Parsers are brittle. Skipped URLs and the reasons are in [`sources.md`](sources.md).
+- When a source fails after retries, its rows are copied from the `events.json` already in the output directory. That file is the last published listing, not an older commit. A rescheduled event can appear twice until the source succeeds again.

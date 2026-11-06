@@ -11,25 +11,62 @@ from pathlib import Path
 
 from .normalize import dedupe, filter_window
 from .preview import render_html, render_markdown
-from .registry import iter_sources
+from .registry import Source, iter_sources
 
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_OUT = ROOT / "out"
 
 
-def _run_source(name: str, fn, errors: list[dict]) -> list:
-    try:
-        events = fn()
-        return events
-    except Exception as exc:  # per-source failures OK
-        errors.append(
-            {
-                "source": name,
-                "error": f"{type(exc).__name__}: {exc}",
-                "traceback": traceback.format_exc(limit=5),
-            }
-        )
+def _load_previous_events(path: Path) -> list[dict]:
+    """Last published events, or [] when the file is missing or unusable."""
+    if not path.is_file():
         return []
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as exc:
+        print(f"Could not read previous events from {path}: {exc}", file=sys.stderr)
+        return []
+    if not isinstance(data, list):
+        print(f"Previous events in {path} are not a list; not reusing them.", file=sys.stderr)
+        return []
+    return [ev for ev in data if isinstance(ev, dict)]
+
+
+def _carry_over(previous: list[dict], source: Source, days: int) -> list[dict]:
+    """Previous in-window events whose source_name this source publishes."""
+    names = set(source.source_names)
+    if not names:
+        return []
+    matched: list[dict] = []
+    for ev in previous:
+        if ev.get("source_name") not in names:
+            continue
+        if not isinstance(ev.get("id"), str) or not ev.get("start"):
+            continue
+        matched.append(dict(ev))
+    return filter_window(matched, days=days)
+
+
+def _run_source(source: Source, days: int, previous: list[dict], errors: list[dict]) -> list:
+    try:
+        return source.fetch(days)
+    except Exception as exc:  # per-source failures OK
+        carried = _carry_over(previous, source, days)
+        record = {
+            "source": source.key,
+            "error": f"{type(exc).__name__}: {exc}",
+            "traceback": traceback.format_exc(limit=5),
+        }
+        if carried:
+            record["fallback_events"] = len(carried)
+            noun = "event" if len(carried) == 1 else "events"
+            print(
+                f"  {source.key} failed; keeping {len(carried)} {noun} from the last listing",
+                file=sys.stderr,
+                flush=True,
+            )
+        errors.append(record)
+        return carried
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -54,12 +91,12 @@ def main(argv: list[str] | None = None) -> int:
     errors: list[dict] = []
     all_events = []
     sources = iter_sources()
+    # Read before any write. A failed source reuses its rows from this file.
+    previous = _load_previous_events(out_dir / "events.json")
 
     for source in sources:
         print(f"Fetching {source.label}…", flush=True)
-        all_events.extend(
-            _run_source(source.key, lambda src=source: src.fetch(args.days), errors)
-        )
+        all_events.extend(_run_source(source, args.days, previous, errors))
 
     windowed = filter_window(all_events, days=args.days)
     final = dedupe(windowed)
@@ -72,8 +109,10 @@ def main(argv: list[str] | None = None) -> int:
     html_path = out_dir / "index.html"
 
     errors_path.write_text(json.dumps(errors, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-    # Every source failed: keep the last good listing on disk and fail the job
-    # so the Action does not commit an empty calendar.
+    # Nothing left to publish (every fetch failed and no previous rows were in
+    # the window): keep the last listing on disk and fail the job so the Action
+    # does not commit an empty calendar. A non-empty errors.json still means
+    # at least one source failed, including when its events were carried over.
     if not final and errors:
         print(f"Wrote {errors_path} ({len(errors)} errors)", flush=True)
         print("Errors:", file=sys.stderr)

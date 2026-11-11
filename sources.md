@@ -22,11 +22,11 @@ Window for every scraper: today through +30 days, `America/Los_Angeles`.
 | https://www.hoover.org/events | `hoover` | Drupal JSON:API `node/event`, filtered on `field_date` |
 | https://siepr.stanford.edu/events | `siepr` | Stanford Web Services JSON:API view `stanford_events/list_page` |
 | https://shc.stanford.edu/stanford-humanities-center/events | `humanities_center` | Drupal HTML rows (`time[datetime]`) |
-| https://kipac.stanford.edu/events/upcoming-events | `kipac` | SWS JSON:API view (native events; Localist mirrors skipped) |
+| https://kipac.stanford.edu/events/upcoming-events | `kipac` | SWS JSON:API view (native events; Localist mirrors skipped). Gateway errors fall back to the HTML list. |
 | https://qfarm.stanford.edu/events | `qfarm` | SWS JSON:API view |
 | https://neuroscience.stanford.edu/events | `neuroscience` | HTML cards with `time[datetime]` |
 | https://med.stanford.edu/healthlibrary/lectures-events.html | `health_library` | Prose "LECTURES + EVENTS" list |
-| https://aimi.stanford.edu/upcoming-events | `aimi` | SWS JSON:API view |
+| https://aimi.stanford.edu/upcoming-events | `aimi` | SWS JSON:API view. Gateway errors fall back to the HTML list. |
 | https://psychology.stanford.edu/news-events/upcoming-events | `psychology` | H&S JSON:API `node/hs_event` |
 | https://statistics.stanford.edu/events/statistics-seminar | `statistics` | H&S JSON:API `node/hs_event` |
 | https://physics.stanford.edu/news-events/upcoming-events | `physics` | H&S JSON:API. Rows whose `field_hs_event_link` points at events.stanford.edu are skipped. |

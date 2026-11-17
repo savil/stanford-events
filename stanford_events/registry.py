@@ -29,6 +29,9 @@ class Source:
     key: str
     label: str
     fetch: Fetch
+    # source_name values this fetch writes. Used to reuse the previous listing
+    # when the fetch fails. Empty means there is nothing to reuse.
+    source_names: tuple[str, ...] = ()
 
 
 def _days_ignored(fn: Callable[[], list[Event]]) -> Fetch:
@@ -63,93 +66,156 @@ def _hs(origin: str, source_name: str, source_url: str) -> Fetch:
     return fetch
 
 
+def _sws_source(key: str, label: str, origin: str, source_name: str, source_url: str) -> Source:
+    return Source(
+        key,
+        label,
+        _sws(origin, source_name, source_url),
+        source_names=(source_name,),
+    )
+
+
+def _hs_source(key: str, label: str, origin: str, source_name: str, source_url: str) -> Source:
+    return Source(
+        key,
+        label,
+        _hs(origin, source_name, source_url),
+        source_names=(source_name,),
+    )
+
+
 def iter_sources() -> list[Source]:
     return [
-        Source("localist", "Localist", localist.fetch_events),
-        Source("hci_seminar", "HCI Seminar", _days_ignored(hci_seminar.fetch_events)),
-        Source("hai", "HAI", _days_ignored(hai.fetch_events)),
-        Source("stanford_live", "Stanford Live", stanford_live.fetch_events),
         Source(
+            "localist",
+            "Localist",
+            localist.fetch_events,
+            source_names=(localist.SOURCE_NAME, localist.BING_SOURCE_NAME),
+        ),
+        Source(
+            "hci_seminar",
+            "HCI Seminar",
+            _days_ignored(hci_seminar.fetch_events),
+            source_names=(hci_seminar.SOURCE_NAME,),
+        ),
+        Source(
+            "hai",
+            "HAI",
+            _days_ignored(hai.fetch_events),
+            source_names=(hai.SOURCE_NAME,),
+        ),
+        Source(
+            "stanford_live",
+            "Stanford Live",
+            stanford_live.fetch_events,
+            source_names=(stanford_live.SOURCE_NAME,),
+        ),
+        _sws_source(
             "siepr",
             "SIEPR",
-            _sws("https://siepr.stanford.edu", "SIEPR", "https://siepr.stanford.edu/events"),
+            "https://siepr.stanford.edu",
+            "SIEPR",
+            "https://siepr.stanford.edu/events",
         ),
-        Source(
+        _sws_source(
             "kipac",
             "KIPAC",
-            _sws(
-                "https://kipac.stanford.edu",
-                "KIPAC",
-                "https://kipac.stanford.edu/events/upcoming-events",
-            ),
+            "https://kipac.stanford.edu",
+            "KIPAC",
+            "https://kipac.stanford.edu/events/upcoming-events",
         ),
-        Source(
+        _sws_source(
             "qfarm",
             "Q-FARM",
-            _sws("https://qfarm.stanford.edu", "Q-FARM", "https://qfarm.stanford.edu/events"),
+            "https://qfarm.stanford.edu",
+            "Q-FARM",
+            "https://qfarm.stanford.edu/events",
         ),
-        Source(
+        _sws_source(
             "aimi",
             "AIMI",
-            _sws(
-                "https://aimi.stanford.edu",
-                "AIMI",
-                "https://aimi.stanford.edu/upcoming-events",
-            ),
+            "https://aimi.stanford.edu",
+            "AIMI",
+            "https://aimi.stanford.edu/upcoming-events",
         ),
-        Source(
+        _sws_source(
             "bioengineering",
             "Bioengineering",
-            _sws(
-                "https://bioengineering.stanford.edu",
-                "Bioengineering",
-                "https://bioengineering.stanford.edu/events",
-            ),
+            "https://bioengineering.stanford.edu",
+            "Bioengineering",
+            "https://bioengineering.stanford.edu/events",
         ),
-        Source(
+        _hs_source(
             "statistics",
             "Statistics",
-            _hs(
-                "https://statistics.stanford.edu",
-                "Statistics",
-                "https://statistics.stanford.edu/events/statistics-seminar",
-            ),
+            "https://statistics.stanford.edu",
+            "Statistics",
+            "https://statistics.stanford.edu/events/statistics-seminar",
         ),
-        Source(
+        _hs_source(
             "psychology",
             "Psychology",
-            _hs(
-                "https://psychology.stanford.edu",
-                "Psychology",
-                "https://psychology.stanford.edu/news-events/upcoming-events",
-            ),
+            "https://psychology.stanford.edu",
+            "Psychology",
+            "https://psychology.stanford.edu/news-events/upcoming-events",
         ),
-        Source(
+        _hs_source(
             "physics",
             "Physics",
-            _hs(
-                "https://physics.stanford.edu",
-                "Physics",
-                "https://physics.stanford.edu/news-events/upcoming-events",
-            ),
+            "https://physics.stanford.edu",
+            "Physics",
+            "https://physics.stanford.edu/news-events/upcoming-events",
         ),
-        Source(
+        _hs_source(
             "art",
             "Art & Art History",
-            _hs(
-                "https://art.stanford.edu",
-                "Art & Art History",
-                "https://art.stanford.edu/events/calendar-events-exhibitions",
-            ),
+            "https://art.stanford.edu",
+            "Art & Art History",
+            "https://art.stanford.edu/events/calendar-events-exhibitions",
         ),
-        Source("law", "Stanford Law", law_events.fetch_events),
-        Source("fsi", "FSI", fsi.fetch_events),
-        Source("gse", "Stanford GSE", gse.fetch_events),
-        Source("hoover", "Hoover Institution", hoover.fetch_events),
-        Source("ccrma", "CCRMA", ccrma.fetch_events),
-        Source("neuroscience", "Wu Tsai Neurosciences", html_listings.fetch_neuroscience),
-        Source("humanities_center", "Stanford Humanities Center", html_listings.fetch_humanities_center),
-        Source("gsb", "Stanford GSB", html_listings.fetch_gsb),
-        Source("health_library", "Stanford Health Library", html_listings.fetch_health_library),
-        Source("slac", "SLAC", html_listings.fetch_slac),
+        Source(
+            "law",
+            "Stanford Law",
+            law_events.fetch_events,
+            source_names=(law_events.SOURCE_NAME,),
+        ),
+        Source("fsi", "FSI", fsi.fetch_events, source_names=(fsi.SOURCE_NAME,)),
+        Source("gse", "Stanford GSE", gse.fetch_events, source_names=(gse.SOURCE_NAME,)),
+        Source(
+            "hoover",
+            "Hoover Institution",
+            hoover.fetch_events,
+            source_names=(hoover.SOURCE_NAME,),
+        ),
+        Source("ccrma", "CCRMA", ccrma.fetch_events, source_names=(ccrma.SOURCE_NAME,)),
+        Source(
+            "neuroscience",
+            "Wu Tsai Neurosciences",
+            html_listings.fetch_neuroscience,
+            source_names=(html_listings.NEUROSCIENCE_SOURCE_NAME,),
+        ),
+        Source(
+            "humanities_center",
+            "Stanford Humanities Center",
+            html_listings.fetch_humanities_center,
+            source_names=(html_listings.HUMANITIES_SOURCE_NAME,),
+        ),
+        Source(
+            "gsb",
+            "Stanford GSB",
+            html_listings.fetch_gsb,
+            source_names=(html_listings.GSB_SOURCE_NAME,),
+        ),
+        Source(
+            "health_library",
+            "Stanford Health Library",
+            html_listings.fetch_health_library,
+            source_names=(html_listings.HEALTH_LIBRARY_SOURCE_NAME,),
+        ),
+        Source(
+            "slac",
+            "SLAC",
+            html_listings.fetch_slac,
+            source_names=(html_listings.SLAC_SOURCE_NAME,),
+        ),
     ]

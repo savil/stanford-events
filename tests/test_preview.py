@@ -71,10 +71,30 @@ class PreviewTests(unittest.TestCase):
         self.assertIn("https://events.stanford.edu/event/library", html)
         self.assertIn("also Stanford Events (Localist)", html)
         self.assertIn("hci_seminar: RuntimeError: timeout", html)
+        self.assertIn("Events from the sources that succeeded are still listed.", html)
+        self.assertNotIn("Kept ", html)
         self.assertIn('id="d-2026-09-24"', html)
         self.assertIn('id="d-2026-10-24"', html)
         self.assertNotIn("<select", html)
         self.assertNotIn('type="search"', html)
+        self.assertNotIn("traceback", html.lower())
+
+    def test_carried_events_are_mentioned(self):
+        html = render_html(
+            [_ev()],
+            errors=[
+                {
+                    "source": "localist",
+                    "error": "ReadTimeout: timed out",
+                    "fallback_events": 12,
+                }
+            ],
+            now=NOW,
+            days=30,
+        )
+        self.assertIn("localist: ReadTimeout: timed out", html)
+        self.assertIn("Kept 12 events from the last listing.", html)
+        self.assertIn("Failed sources keep events from the last listing", html)
         self.assertNotIn("traceback", html.lower())
 
     def test_empty_window(self):

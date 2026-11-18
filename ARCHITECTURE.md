@@ -83,7 +83,7 @@ The static page badges those three values as Public, Stanford only, and Unknown.
 2. Do not add another fetch for an events.stanford.edu department or venue page that the unfiltered Localist `/api/2/events` feed already contains. Bing Concert Hall is the exception still queried by `venue_id`; overlap collapses in dedupe. `department_id` is ignored by that API.
 3. If the site is a Localist mirror (`su_event_source` or the event link is `events.stanford.edu`), skip those rows. [`stanford_events/sws.py`](stanford_events/sws.py) and [`stanford_events/hs_events.py`](stanford_events/hs_events.py) already do this.
 4. Otherwise add a `fetch(days) -> list[Event]` and a `Source` in `iter_sources()`:
-   - SWS department `/events` pages: `fetch_sws` (`/jsonapi/views/stanford_events/list_page`).
+   - SWS department `/events` pages: `fetch_sws` (`/jsonapi/views/stanford_events/list_page`). A 502/503/504 from that view falls back to the upcoming HTML list; audience then comes from each event page.
    - H&S `hs_event` pages: `fetch_hs`.
    - HTML with no JSON feed: a function in [`stanford_events/html_listings.py`](stanford_events/html_listings.py), or a dedicated module (Localist, HCI, HAI, Stanford Live, CCRMA, Law, GSE, FSI, Hoover) that ends in `build_event(...)`.
 5. Use `http_util.get` for requests. Return `[]` when the page lists nothing; raise on HTTP or parse failure so the error lands in `out/errors.json`.

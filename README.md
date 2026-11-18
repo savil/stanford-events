@@ -22,7 +22,7 @@ The scraper writes `out/events.json` and `out/index.html`, and publishes the `ou
 | `gse` | https://ed.stanford.edu/events | Drupal JSON:API |
 | `fsi` | https://fsi.stanford.edu/events | Drupal JSON:API |
 | `hoover` | https://www.hoover.org/events | Drupal JSON:API |
-| `siepr`, `kipac`, `qfarm`, `aimi`, `bioengineering` | department `/events` pages | Stanford Web Services JSON:API. Rows that link to events.stanford.edu are skipped. |
+| `siepr`, `kipac`, `qfarm`, `aimi`, `bioengineering` | department `/events` pages | Stanford Web Services JSON:API. Rows that link to events.stanford.edu are skipped. If that view returns a gateway error, the upcoming HTML list is used and audience is read from each event page. |
 | `statistics`, `psychology`, `physics`, `art` | department event pages | H&S `hs_event` JSON:API. Localist links are skipped. |
 | `humanities_center` | https://shc.stanford.edu/stanford-humanities-center/events | HTML rows |
 | `neuroscience` | https://neuroscience.stanford.edu/events | HTML cards |

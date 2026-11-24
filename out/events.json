@@ -1,236 +1,5 @@
 [
   {
-    "id": "d41a5d0c2a6778c0",
-    "title": "A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDER (MDD)",
-    "start": "2026-11-23T00:00:00-08:00",
-    "end": null,
-    "location": null,
-    "url": "https://events.stanford.edu/event/neurocrine",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDER (MDD) If your current antidepressant medication(s) is/are not adequately improving symptoms of your MDD, you may be eligible for the AMPA PROGRAM. This program is researching an investigational drug to see if it is…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "2b532bfb4aec96f2",
-    "title": "Autumn Quarter: Thanksgiving Recess (no classes)",
-    "start": "2026-11-23T00:00:00-08:00",
-    "end": null,
-    "location": null,
-    "url": "https://events.stanford.edu/event/thanksgiving-recess-no-classes-8544",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": null,
-    "audience": "open_to_public"
-  },
-  {
-    "id": "c2deec52bc23aea4",
-    "title": "Big Earth Hackathon: Wildland Fire Challenge",
-    "start": "2026-11-23T00:00:00-08:00",
-    "end": null,
-    "location": "Y2E2 Building, Room 111, 473 Via Ortega, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/big-earth-hackathon-wildland-fire-challenge",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Big Earth Hackathon: Wildland Fire Challenge bridges the gap between innovation and impact by bringing Stanford students together with real-world stakeholders to design, build, and prototype solutions to one of today’s most pressing global systems crises — wildfire. Big Earth Ha…",
-    "audience": "stanford_only"
-  },
-  {
-    "id": "8f599ba27327f88d",
-    "title": "Branner Library Book & Map Exhibit - Water in the West",
-    "start": "2026-11-23T00:00:00-08:00",
-    "end": null,
-    "location": "Mitchell Earth Sciences, Room Branner Earth Sciences Library & Map Collections, 397 Panama Mall, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/branner-library-book-map-exhibit-water",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Branner Earth Sciences Library & Map Collection Exhibit: Water in the West Our Fall 2026 exhibition highlights the water resources in California & the Western United States to shed light on the issues that affect our waterways. The exhibit features maps and the Layperson’s guide…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "61549363bc4e732f",
-    "title": "California Current: Art and Histories from the Bay Area",
-    "start": "2026-11-23T00:00:00-08:00",
-    "end": "2026-11-23T18:00:00-08:00",
-    "location": "Room Freidenrich Family Gallery",
-    "url": "https://events.stanford.edu/event/california-current-art-and-histories-from-the-bay-area-6587",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "How does a community stay rooted in a region that’s constantly changing? California Current invites you to consider this question and others through its more than 60 works — many on view for the first time — that explore the interplay between Bay Area history, art, and artists o…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "4dfaebb856a4e6d0",
-    "title": "Carolyn Lazard: Long Take",
-    "start": "2026-11-23T00:00:00-08:00",
-    "end": null,
-    "location": "Cantor Arts Center, Room Lynn Krywick Gibbons Gallery, 328 Lomita Drive, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/carolyn-lazard-long-take",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Carolyn Lazard: Long Take is a multimedia exhibition that begins with a score for a performance and unfolds as a series of interventions that engage accessibility as an artistic material. Made in collaboration with dancer Jerron Herman and poet and artist Joselia Rebekah Hughes,…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "5a3f50909abdbf10",
-    "title": "Holiday Hours: No Group Fitness or Rec Classes",
-    "start": "2026-11-23T00:00:00-08:00",
-    "end": null,
-    "location": null,
-    "url": "https://events.stanford.edu/event/thanksgiving-hours-no-group-fitness-or-rec-classes-1067",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Group fitness and recreational classes will be on break from November 23 through November 29. We’ll see you back in class soon!",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "975e0657f2a257e4",
-    "title": "JANE! An intimate exploration of Gilded Age excess  and the enigmatic life and death of Jane Stanford",
-    "start": "2026-11-23T00:00:00-08:00",
-    "end": null,
-    "location": "Cantor Arts Center, Room Stanford Family Rooms, 328 Lomita Drive, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/jane-an-intimate-exploration-of-gilded-age-excess-and-the-enigmatic-life-and-death-of-jane-stanford",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Curated by Associate Curator of European Art, Patrick R. Crowley, JANE! celebrates the aesthetic and affective excesses of Jane Stanford, the Gilded Age founder and matriarch of Stanford University. Bringing together precious keepsakes, souvenirs, archaeological detritus, and sp…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "a8978939e2930337",
-    "title": "Korean Indigenous Futures: The Art of Kim Bong-Jun 김봉준 판화전: 토착적 미래- K아트, 디아스포라, 세계",
-    "start": "2026-11-23T00:00:00-08:00",
-    "end": null,
-    "location": "Lathrop Library, Room East Asia Library, 2nd Floor, 518 Memorial Way, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/korean-indigenous-futures",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "The East Asia Library at Stanford University will host a print exhibition by Kim Bong-Jun, a leading figure in Korean Minjung (People’s) Art, from September 29 to December 11, 2026. Active since the 1980s, Kim has developed a distinctive visual language that combines traditional…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "aed6fb90cf2a0bd0",
-    "title": "Solid Pictures: Photosculpture and the Making of Modern Likeness",
-    "start": "2026-11-23T00:00:00-08:00",
-    "end": null,
-    "location": "Cantor Arts Center, Room Pigott Family Gallery, 328 Lomita Drive, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/solid-pictures-photosculpture-and-the-making-of-modern-likeness",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Before 3D printing, there was photosculpture. Curated by Patrick R. Crowley, Associate Curator of European Art, Solid Pictures is the first major exhibition to explore these largely overlooked objects first conceived in 1859 by the twenty-nine-year-old French artist and inventor…",
-    "audience": "unknown"
-  },
-  {
-    "id": "de57fa3c17a25907",
-    "title": "Text Machines: Scarlet Thread of the Digital Order (1883-2026)",
-    "start": "2026-11-23T00:00:00-08:00",
-    "end": null,
-    "location": "Green Library, Bing Wing, Room Hohbach Hall, 459 Lasuen Mall, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/text-machines-scarlet-thread-of-the-digital-order-1883-2026",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Stanford Libraries now holds an 1883 edition of a rare book, Les laboureurs: poème tiré de Jocelyn, whose pages (text and ornaments) were entirely woven on a Jacquard loom by the firm of silk merchant Joseph-Alphonse Henry. This exhibition explores the cultural contexts and mate…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "67ac607c3972ed34",
-    "title": "Thanksgiving Recess",
-    "start": "2026-11-23T00:00:00-08:00",
-    "end": "2026-11-27T23:59:59-08:00",
-    "location": null,
-    "url": "https://law.stanford.edu/event/thanksgiving-recess/",
-    "source_name": "Stanford Law",
-    "source_url": "https://law.stanford.edu/events/",
-    "description": "This day, Thanksgiving recess begins.",
-    "audience": "unknown",
-    "also_sources": [
-      "Stanford Events (Localist)"
-    ]
-  },
-  {
-    "id": "4037c8d11768a99d",
-    "title": "Turkey Swim Challenge",
-    "start": "2026-11-23T00:00:00-08:00",
-    "end": null,
-    "location": "Arrillaga Outdoor Education & Recreation Center, 285 Santa Teresa St, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/turkey-swim-challenge",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Visit the Avery Rec Pool @ AOERC and choose a workout menu from a lifeguard. Complete the workout and return your menu before you exit the pool deck. You'll be entered to win a gift bag of Stanford swag and tasty treats!",
-    "audience": "unknown"
-  },
-  {
-    "id": "dc0e178f1c3af3cc",
-    "title": "Financial Counseling with Fidelity (Virtual Only)",
-    "start": "2026-11-23T08:00:00-08:00",
-    "end": "2026-11-23T17:00:00-08:00",
-    "location": null,
-    "url": "https://events.stanford.edu/event/copy-of-financial-counseling-with-fidelity-virtual-only-2659",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Did you know that advisors from Fidelity Investments and TIAA provide free individual financial counseling on campus at your convenience? They can offer guidance on the best strategy to meet your retirement goals through Stanford's retirement savings plans. Contact Fidelity dire…",
-    "audience": "stanford_only"
-  },
-  {
-    "id": "e14c22af254bcf35",
-    "title": "A Vision of Paris: The Roxane Debuisson Collection at Stanford",
-    "start": "2026-11-23T10:00:00-08:00",
-    "end": "2026-11-23T18:00:00-08:00",
-    "location": "Green Library, Bing Wing, 459 Lasuen Mall, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/a-vision-of-paris-the-roxane-debuisson-collection-at-stanford",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Stanford University Libraries presents A Vision of Paris: the Roxane Debuisson Collection at Stanford, on view in the Peterson Gallery and Munger Rotunda of the Cecil H. Green Library from September 22, 2026 to January 24, 2027. Roxane Debuisson (1927–2018) dedicated sixty years…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "b2d7a50ee2015992",
-    "title": "In Focus: Asian American Art from the Collection",
-    "start": "2026-11-23T11:00:00-08:00",
-    "end": "2026-11-23T18:00:00-08:00",
-    "location": "Cantor Arts Center, Room Ruth Levison Halperin Gallery, 328 Lomita Drive, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/in-focus-asian-american-art-from-the-collection",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "In Focus: Asian American Art from the Collection showcases recent acquisitions made through the Cantor’s Asian American Art Initiative (AAAI), offering a glimpse into one of the fastest-growing areas of the museum’s collection. Many of the works on view are being presented for t…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "6c5fc45c76f986c4",
-    "title": "Patty Chang: surfacing",
-    "start": "2026-11-23T11:00:00-08:00",
-    "end": "2026-11-23T17:00:00-08:00",
-    "location": "Anderson Collection, Room Wisch Family Gallery, 314 Lomita Dr, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/patty-chang-surfacing",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Event Details: In surfacing, Patty Chang engages the ocean as a physical, geopolitical, and symbolic space, inviting you to consider the work of collection and recollection. Chang’s multimedia sculptural practice brings together archaeological remains from Point Alones Chinese F…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "5cf5128dfa5d861f",
-    "title": "Electric Contrasts: the Art of the Detail",
-    "start": "2026-11-23T13:00:00-08:00",
-    "end": "2026-11-23T17:00:00-08:00",
-    "location": "McMurtry Building, Room Bowes Art & Architecture Library, 2nd floor. Visitors: Please call 650-723-3408 for building/elevator access., 355 Roth Way, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/electric-contrasts-the-art-of-the-detail-7315",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Electric Contrasts: The Art of the Detail brings together photobooks and magazines to show how the revolution of photography in the late 19th and early 20th century changed the history of art. Electric Contrasts takes Kenneth Clark’s landmark 1938 book One Hundred Details from P…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "51198418edecb6be",
-    "title": "Thesis Defense: Zachary Hulcher",
-    "start": "2026-11-23T15:00:00-08:00",
-    "end": "2026-11-23T16:00:00-08:00",
-    "location": "Physics and Astrophysics Building, Room 102 (PAB 102)",
-    "url": "https://physics.stanford.edu/events/thesis-defense-zachary-hulcher",
-    "source_name": "Physics",
-    "source_url": "https://physics.stanford.edu/news-events/upcoming-events",
-    "description": "Ph.D. Candidate: Zachary Hulcher Research Advisor: Hirohisa Tanaka Public zoom link: https://stanford.zoom.us/j/99631033161?pwd=PbDQbNp8Zv4pFdNNaLnk51PtdrItuY.1 Title: Charged Kaon Reconstruction in Neutrino-Argon Interactions in the NuMI Off-Axis Neutrino Beam at ICARUS Abstrac…",
-    "audience": "unknown"
-  },
-  {
     "id": "67d9883c3d9d6e0e",
     "title": "A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDER (MDD)",
     "start": "2026-11-24T00:00:00-08:00",
@@ -1107,9 +876,9 @@
     "audience": "open_to_public"
   },
   {
-    "id": "1c7555fb26f97972",
+    "id": "2c5bbea2f0723b80",
     "title": "Stanford Football vs SMU | Senior Day + Fan Appreciation",
-    "start": "2026-11-28T12:00:00-08:00",
+    "start": "2026-11-28T12:30:00-08:00",
     "end": null,
     "location": "Stanford Stadium, 625 Nelson Rd, Stanford, CA 94305",
     "url": "https://events.stanford.edu/event/stanford-football-vs-smu-senior-day-fan-appreciation",
@@ -2238,6 +2007,18 @@
     "audience": "unknown"
   },
   {
+    "id": "7dae284b497db85e",
+    "title": "Electronic Sound Poetry",
+    "start": "2026-12-01T19:30:00-08:00",
+    "end": "2026-12-01T21:00:00-08:00",
+    "location": "CCRMA Stage",
+    "url": "https://ccrma.stanford.edu/events/electronic-sound-poetry-2026",
+    "source_name": "CCRMA",
+    "source_url": "https://ccrma.stanford.edu/calendar",
+    "description": null,
+    "audience": "open_to_public"
+  },
+  {
     "id": "1a24d1a02fcf9ea8",
     "title": "A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDER (MDD)",
     "start": "2026-12-02T00:00:00-08:00",
@@ -2513,7 +2294,7 @@
     "url": "https://www.hoover.org/events/higher-education-research-investment-and-public-interest",
     "source_name": "Hoover Institution",
     "source_url": "https://www.hoover.org/events",
-    "description": "The Hoover Institution's Center for Revitalizing American Institutions invites you to attend Higher Education, Research Investment, and the Public Interest on Wednesday, December 2, 2026 from 10:00 - 11:30 a.m. PT.",
+    "description": "The Hoover Institution's Center for Revitalizing American Institutions invites you to attend Higher Education, Research Investment, and the Public Interest on Wednesday, December 2, 2026 from 10:00 - 11:30 a.m. PT. Register To Attend",
     "audience": "unknown"
   },
   {
@@ -3096,16 +2877,19 @@
     "audience": "unknown"
   },
   {
-    "id": "1e0246d9bf51a5c6",
+    "id": "359a1dd4dee648be",
     "title": "Economic Security and the New World Order",
     "start": "2026-12-03T09:00:00-08:00",
     "end": "2026-12-03T10:00:00-08:00",
-    "location": "On Campus",
-    "url": "https://www.gsb.stanford.edu/events/economic-security-new-world-order",
-    "source_name": "Stanford GSB",
-    "source_url": "https://www.gsb.stanford.edu/events",
+    "location": "Graduate School of Business, Room C102, 655 Knight Way Stanford, CA 94305 USA",
+    "url": "https://events.stanford.edu/event/economic-security-and-the-new-world-order",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
     "description": "The global economy is being reshaped by concerns about economic security. Tariffs, sanctions, export controls, and industrial policy are increasingly wielded to exert power across countries. Former Italian Prime Minister Enrico Letta joins Ziad Haider and Matteo Maggiori, in a c…",
-    "audience": "unknown"
+    "audience": "unknown",
+    "also_sources": [
+      "Stanford GSB"
+    ]
   },
   {
     "id": "4d06668e1f03ba11",
@@ -6113,7 +5897,7 @@
     "start": "2026-12-10T19:00:00-08:00",
     "end": null,
     "location": null,
-    "url": "https://www6.slac.stanford.edu/events/2026-12-10-over-sky-under-ground-down-beamline-pursuit-wimp-dark-matter",
+    "url": "https://www6.slac.stanford.edu/index%2Ephp/events/2026-12-10-over-sky-under-ground-down-beamline-pursuit-wimp-dark-matter",
     "source_name": "SLAC",
     "source_url": "https://www6.slac.stanford.edu/news-and-events/events/public-lectures",
     "description": null,
@@ -6424,7 +6208,7 @@
     "title": "Student Seminar | Discipline without Slack: Anti-Corruption in China's Health Sector",
     "start": "2026-12-11T12:00:00-08:00",
     "end": "2026-12-11T13:00:00-08:00",
-    "location": "Goldman Conference Room, Encina Hall, E409",
+    "location": "Goldman Conference Room, Encina Hall, E409 This event is only open to those with an active Stanford ID",
     "url": "https://fsi.stanford.edu/events/student-seminar-discipline-without-slack-anti-corruption-chinas-health-sector",
     "source_name": "FSI",
     "source_url": "https://fsi.stanford.edu/events",
@@ -7761,6 +7545,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "c1ed5f23476eb1c8",
+    "title": "In-Person: LGBTQIA+ Conversations with Colleagues",
+    "start": "2026-12-18T12:00:00-08:00",
+    "end": "2026-12-18T12:50:00-08:00",
+    "location": null,
+    "url": "https://events.stanford.edu/event/test-8626",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "This is a queer and trans affirming discussion group for staff, faculty, and post-docs . The group aims to create a space where LGBTQIA+ community members can connect and talk about topics of interest, moments of excitement, and challenges they are facing. The group centers the…",
+    "audience": "stanford_only"
+  },
+  {
     "id": "49038f6c700783f4",
     "title": "Electric Contrasts: the Art of the Detail",
     "start": "2026-12-18T13:00:00-08:00",
@@ -8310,6 +8106,90 @@
     "source_name": "Stanford Events (Localist)",
     "source_url": "https://events.stanford.edu/",
     "description": null,
+    "audience": "open_to_public"
+  },
+  {
+    "id": "cc3144095302bf68",
+    "title": "Solid Pictures: Photosculpture and the Making of Modern Likeness",
+    "start": "2026-12-24T00:00:00-08:00",
+    "end": null,
+    "location": "Cantor Arts Center, Room Pigott Family Gallery, 328 Lomita Drive, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/solid-pictures-photosculpture-and-the-making-of-modern-likeness",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Before 3D printing, there was photosculpture. Curated by Patrick R. Crowley, Associate Curator of European Art, Solid Pictures is the first major exhibition to explore these largely overlooked objects first conceived in 1859 by the twenty-nine-year-old French artist and inventor…",
+    "audience": "unknown"
+  },
+  {
+    "id": "c54fda04cb21ad13",
+    "title": "Winter Closure",
+    "start": "2026-12-24T00:00:00-08:00",
+    "end": null,
+    "location": null,
+    "url": "https://events.stanford.edu/event/winter-closure-1137",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "The university is closed for winter closure.",
+    "audience": "unknown"
+  },
+  {
+    "id": "9ff9f27936d43fb4",
+    "title": "Winter Closure; University closed",
+    "start": "2026-12-24T00:00:00-08:00",
+    "end": null,
+    "location": null,
+    "url": "https://events.stanford.edu/event/winter-closure-university-closed",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": null,
+    "audience": "open_to_public"
+  },
+  {
+    "id": "ba838a5127591322",
+    "title": "Winter Holiday",
+    "start": "2026-12-24T00:00:00-08:00",
+    "end": null,
+    "location": null,
+    "url": "https://events.stanford.edu/event/copy-of-friday-after-thanksgiving-4729",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "The university is closed to recognize an official holiday on this date",
+    "audience": "stanford_only"
+  },
+  {
+    "id": "5c4014e867201741",
+    "title": "In Focus: Asian American Art from the Collection",
+    "start": "2026-12-24T11:00:00-08:00",
+    "end": "2026-12-24T18:00:00-08:00",
+    "location": "Cantor Arts Center, Room Ruth Levison Halperin Gallery, 328 Lomita Drive, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/in-focus-asian-american-art-from-the-collection",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "In Focus: Asian American Art from the Collection showcases recent acquisitions made through the Cantor’s Asian American Art Initiative (AAAI), offering a glimpse into one of the fastest-growing areas of the museum’s collection. Many of the works on view are being presented for t…",
+    "audience": "open_to_public"
+  },
+  {
+    "id": "5afa21d99e6dd0e5",
+    "title": "Ecumenical Christmas Eve Family Service",
+    "start": "2026-12-24T16:00:00-08:00",
+    "end": "2026-12-24T17:00:00-08:00",
+    "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/ecumenical-christmas-eve-family-service",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Join us at Stanford Memorial Church for a festive, family-friendly Christmas Eve service for all ages! The service will feature the Crystal Children’s Choir, under the direction of Karl Chang. Attendees are encouraged to bring new, unwrapped toys and books to be donated to local…",
+    "audience": "open_to_public"
+  },
+  {
+    "id": "7768a51a2b8123e9",
+    "title": "Ecumenical Christmas Eve Candlelight Service",
+    "start": "2026-12-24T20:00:00-08:00",
+    "end": "2026-12-24T21:00:00-08:00",
+    "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/ecumenical-christmas-eve-candlelight-service",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Join us at Stanford Memorial Church for an elegant Christmas Eve Ecumenical Christian service filled with candlelight and beautiful holiday music. All are welcome! The service will feature the Latter-day Saint Student Association at Stanford University and the Interfaith Choir o…",
     "audience": "open_to_public"
   }
 ]

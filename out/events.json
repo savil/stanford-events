@@ -1,197 +1,5 @@
 [
   {
-    "id": "67d9883c3d9d6e0e",
-    "title": "A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDER (MDD)",
-    "start": "2026-11-24T00:00:00-08:00",
-    "end": null,
-    "location": null,
-    "url": "https://events.stanford.edu/event/neurocrine",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDER (MDD) If your current antidepressant medication(s) is/are not adequately improving symptoms of your MDD, you may be eligible for the AMPA PROGRAM. This program is researching an investigational drug to see if it is…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "efb04827a12dbfa7",
-    "title": "Autumn Quarter: Thanksgiving Recess (no classes)",
-    "start": "2026-11-24T00:00:00-08:00",
-    "end": null,
-    "location": null,
-    "url": "https://events.stanford.edu/event/thanksgiving-recess-no-classes-8544",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": null,
-    "audience": "open_to_public"
-  },
-  {
-    "id": "19c5206c91afa229",
-    "title": "Birth date of Guru Nanak Dev Ji (Sikh)",
-    "start": "2026-11-24T00:00:00-08:00",
-    "end": "2026-11-24T23:59:59-08:00",
-    "location": null,
-    "url": "https://law.stanford.edu/event/birth-date-of-guru-nanak-dev-ji/",
-    "source_name": "Stanford Law",
-    "source_url": "https://law.stanford.edu/events/",
-    "description": "Stanford has long supported faculty, students, and staff in observing religious holidays of significance to them. In the complex process of creating the academic calendar, religious holy days are but one of many considerations. The Office for Religious Life makes available to fa…",
-    "audience": "unknown"
-  },
-  {
-    "id": "b8cbac41aa32b48c",
-    "title": "Holiday Hours: No Group Fitness or Rec Classes",
-    "start": "2026-11-24T00:00:00-08:00",
-    "end": null,
-    "location": null,
-    "url": "https://events.stanford.edu/event/thanksgiving-hours-no-group-fitness-or-rec-classes-1067",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Group fitness and recreational classes will be on break from November 23 through November 29. We’ll see you back in class soon!",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "9a22c595654ff616",
-    "title": "Korean Indigenous Futures: The Art of Kim Bong-Jun 김봉준 판화전: 토착적 미래- K아트, 디아스포라, 세계",
-    "start": "2026-11-24T00:00:00-08:00",
-    "end": null,
-    "location": "Lathrop Library, Room East Asia Library, 2nd Floor, 518 Memorial Way, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/korean-indigenous-futures",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "The East Asia Library at Stanford University will host a print exhibition by Kim Bong-Jun, a leading figure in Korean Minjung (People’s) Art, from September 29 to December 11, 2026. Active since the 1980s, Kim has developed a distinctive visual language that combines traditional…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "3e683e5d19b60ccd",
-    "title": "Martyrdom of Guru Tegh Bahadur Ji (Sikh)",
-    "start": "2026-11-24T00:00:00-08:00",
-    "end": "2026-11-24T23:59:59-08:00",
-    "location": null,
-    "url": "https://law.stanford.edu/event/martyrdom-of-guru-tegh-bahadur-ji/",
-    "source_name": "Stanford Law",
-    "source_url": "https://law.stanford.edu/events/",
-    "description": "Stanford has long supported faculty, students, and staff in observing religious holidays of significance to them. In the complex process of creating the academic calendar, religious holy days are but one of many considerations. The Office for Religious Life makes available to fa…",
-    "audience": "unknown"
-  },
-  {
-    "id": "b6bb79a107df0d49",
-    "title": "Text Machines: Scarlet Thread of the Digital Order (1883-2026)",
-    "start": "2026-11-24T00:00:00-08:00",
-    "end": null,
-    "location": "Green Library, Bing Wing, Room Hohbach Hall, 459 Lasuen Mall, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/text-machines-scarlet-thread-of-the-digital-order-1883-2026",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Stanford Libraries now holds an 1883 edition of a rare book, Les laboureurs: poème tiré de Jocelyn, whose pages (text and ornaments) were entirely woven on a Jacquard loom by the firm of silk merchant Joseph-Alphonse Henry. This exhibition explores the cultural contexts and mate…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "2ab5f9ed363824ae",
-    "title": "Thanksgiving Recess",
-    "start": "2026-11-24T00:00:00-08:00",
-    "end": null,
-    "location": null,
-    "url": "https://events.stanford.edu/event/thanksgiving-recess-9958",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "This day, Thanksgiving recess begins.",
-    "audience": "unknown"
-  },
-  {
-    "id": "792e86d86b331b24",
-    "title": "Winter Quarter: Course Planning Opens",
-    "start": "2026-11-24T00:00:00-08:00",
-    "end": null,
-    "location": null,
-    "url": "https://events.stanford.edu/event/winter-quarter-course-planning-opens-5888",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "This day, Winter course planning opens in Axess for undergraduate and graduate students",
-    "audience": "unknown"
-  },
-  {
-    "id": "05f884d118a094c7",
-    "title": "Winter course planning opens in Axess for undergraduate and graduate students",
-    "start": "2026-11-24T00:00:00-08:00",
-    "end": null,
-    "location": null,
-    "url": "https://events.stanford.edu/event/winter-course-planning-opens-in-axess-for-undergraduate-and-graduate-students-5196",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": null,
-    "audience": "open_to_public"
-  },
-  {
-    "id": "3cba4f20c395e098",
-    "title": "Professional Development Grand Rounds",
-    "start": "2026-11-24T07:00:00-08:00",
-    "end": "2026-11-24T08:00:00-08:00",
-    "location": "Li Ka Shing Center, Room LK130, 291 Campus Drive, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/professional-development-grand-rounds",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Dr. Michael Awad, Stanford Department of Surgery's new Vice Chair of Education, presents the annual Professional Development Grand Rounds.",
-    "audience": "unknown"
-  },
-  {
-    "id": "34c83c49acce8cb3",
-    "title": "Financial Counseling with Fidelity (Virtual Only)",
-    "start": "2026-11-24T08:00:00-08:00",
-    "end": "2026-11-24T17:00:00-08:00",
-    "location": null,
-    "url": "https://events.stanford.edu/event/copy-of-financial-counseling-with-fidelity-virtual-only-984",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Did you know that advisors from Fidelity Investments and TIAA provide free individual financial counseling on campus at your convenience? They can offer guidance on the best strategy to meet your retirement goals through Stanford's retirement savings plans. Contact Fidelity dire…",
-    "audience": "stanford_only"
-  },
-  {
-    "id": "85ae4a940bd3f00e",
-    "title": "A Vision of Paris: The Roxane Debuisson Collection at Stanford",
-    "start": "2026-11-24T10:00:00-08:00",
-    "end": "2026-11-24T18:00:00-08:00",
-    "location": "Green Library, Bing Wing, 459 Lasuen Mall, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/a-vision-of-paris-the-roxane-debuisson-collection-at-stanford",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Stanford University Libraries presents A Vision of Paris: the Roxane Debuisson Collection at Stanford, on view in the Peterson Gallery and Munger Rotunda of the Cecil H. Green Library from September 22, 2026 to January 24, 2027. Roxane Debuisson (1927–2018) dedicated sixty years…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "5cfe6148b2e5b9e6",
-    "title": "Electric Contrasts: the Art of the Detail",
-    "start": "2026-11-24T13:00:00-08:00",
-    "end": "2026-11-24T17:00:00-08:00",
-    "location": "McMurtry Building, Room Bowes Art & Architecture Library, 2nd floor. Visitors: Please call 650-723-3408 for building/elevator access., 355 Roth Way, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/electric-contrasts-the-art-of-the-detail-7315",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Electric Contrasts: The Art of the Detail brings together photobooks and magazines to show how the revolution of photography in the late 19th and early 20th century changed the history of art. Electric Contrasts takes Kenneth Clark’s landmark 1938 book One Hundred Details from P…",
-    "audience": "open_to_public"
-  },
-  {
-    "id": "734827b7874540f6",
-    "title": "Rooted! Black Graduate Student Support Group",
-    "start": "2026-11-24T15:00:00-08:00",
-    "end": "2026-11-24T16:00:00-08:00",
-    "location": "Vaden Student Health Center, 866 Campus Drive, Stanford, CA 94305",
-    "url": "https://events.stanford.edu/event/copy-of-rooted-black-graduate-student-support-group-948",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Counseling & Psychological Services is happy to offer Rooted! This is a support group for Black-identified Stanford graduate students that is designed to be a confidential space for students to speak their minds, build community, rest, connect with themselves, and learn coping s…",
-    "audience": "stanford_only"
-  },
-  {
-    "id": "2b02cb245a57497a",
-    "title": "Alcoholics Anonymous Tuesday Meeting",
-    "start": "2026-11-24T17:30:00-08:00",
-    "end": "2026-11-24T18:30:00-08:00",
-    "location": "Rogers House, Room 102, 581 Capistrano Way",
-    "url": "https://events.stanford.edu/event/alcoholics-anonymous-meeting-4049",
-    "source_name": "Stanford Events (Localist)",
-    "source_url": "https://events.stanford.edu/",
-    "description": "Weekly Tuesday Alcoholics Anonymous Meeting on campus at Rogers House.",
-    "audience": "stanford_only"
-  },
-  {
     "id": "c7676e14d4cf0f56",
     "title": "A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDER (MDD)",
     "start": "2026-11-25T00:00:00-08:00",
@@ -360,6 +168,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "7520058f7d818cf0",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-11-25T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
+  },
+  {
     "id": "800aba4642567536",
     "title": "A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDER (MDD)",
     "start": "2026-11-26T00:00:00-08:00",
@@ -466,6 +286,18 @@
     "source_url": "https://events.stanford.edu/",
     "description": "Come to The O'Donohue Family Stanford Educational Farm to build your own seasonal, organic, flower bouquet using flowers grown on the campus farm. Follow provided directions, to make your bouquet. Flowers will be available in buckets for your choosing. Pay onsite via QR code. Th…",
     "audience": "open_to_public"
+  },
+  {
+    "id": "f2daf4f654110d6d",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-11-26T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
   },
   {
     "id": "849f6b400835e802",
@@ -696,6 +528,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "8fd80a4c3d1a8975",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-11-27T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
+  },
+  {
     "id": "d40c4595dc23898d",
     "title": "All Recovery Meeting",
     "start": "2026-11-27T17:00:00-08:00",
@@ -912,6 +756,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "5fe72a155427370b",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-11-28T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
+  },
+  {
     "id": "366e7ac61991642a",
     "title": "Public Tour | A Closer Look",
     "start": "2026-11-28T15:00:00-08:00",
@@ -1114,6 +970,18 @@
     "source_url": "https://events.stanford.edu/",
     "description": "Join us for casual in-gallery conversations in our special exhibition, JANE!, facilitated by our Museum Engagement Guides. Enjoy a spotlight tour focusining on a single object, followed by an open conversation. Curated by Associate Curator of European Art, Patrick R. Crowley, JA…",
     "audience": "open_to_public"
+  },
+  {
+    "id": "0feda7381adf1471",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-11-29T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
   },
   {
     "id": "54ae1ec0f1dfea5c",
@@ -1431,6 +1299,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "adc95b2abcf52898",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-11-30T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
+  },
+  {
     "id": "88cc625696fb6135",
     "title": "Biology Seminar Series - Peter Walter, PhD \"Targeting the Cell’s Stress Pathways for Therapeutic Benefit\"",
     "start": "2026-11-30T16:00:00-08:00",
@@ -1689,18 +1569,6 @@
     "audience": "open_to_public"
   },
   {
-    "id": "ce8cd70c5ca3e2d4",
-    "title": "Designing A Meaningful Life for Mid-Career & Senior Professionals",
-    "start": "2026-12-01T09:00:00-08:00",
-    "end": "2026-12-01T10:00:00-08:00",
-    "location": "Online",
-    "url": "https://groups.stanford.edu/topics/12515/events/304123",
-    "source_name": "Stanford GSB",
-    "source_url": "https://www.gsb.stanford.edu/events",
-    "description": "Drawing on research from the Stanford Center on Longevity and MIT AgeLab, longitudinal studies of what actually predicts thriving five and ten years into retirement, and fresh survey data from accomplished later-career professionals, this conversation will reframe the 50+ decade…",
-    "audience": "unknown"
-  },
-  {
     "id": "235265f6f2d7f1e3",
     "title": "Electric Contrasts: the Art of the Detail",
     "start": "2026-12-01T09:00:00-08:00",
@@ -1851,6 +1719,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "c611752fdd450586",
+    "title": "Sustainable Systems Seminar Lunch Series -  Integrating Load Flexibility in The Future of The Power Grid",
+    "start": "2026-12-01T12:00:00-08:00",
+    "end": "2026-12-01T13:00:00-08:00",
+    "location": "Durand, Room 114, 496 Lomita Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/sustainable-systems-seminar-lunch-ben-mucsi",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "This week's speaker is: Ben Mucsi, MBA Candidate, Stanford Graduate School of Business \"Integrating Load Flexibility in The Future of The Power Grid\" Abstract: Electricity demand is surging, driven by AI, industrial growth, and electrification, while new grid infrastructure can…",
+    "audience": "open_to_public"
+  },
+  {
     "id": "1ec075b384b60e6d",
     "title": "Taiwan's 2026 Local Elections: Assessing The Results",
     "start": "2026-12-01T12:00:00-08:00",
@@ -1923,6 +1803,18 @@
     "audience": "stanford_only"
   },
   {
+    "id": "8a7e1cf9ffdc544f",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-12-01T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
+  },
+  {
     "id": "257570540db2dd32",
     "title": "Terman Library Presents: Textile Destress",
     "start": "2026-12-01T15:00:00-08:00",
@@ -1969,6 +1861,18 @@
     "source_url": "https://statistics.stanford.edu/events/statistics-seminar",
     "description": null,
     "audience": "unknown"
+  },
+  {
+    "id": "58404c4748ae10f0",
+    "title": "Game Nights @ Green: California's Water Crisis (2014)",
+    "start": "2026-12-01T17:00:00-08:00",
+    "end": "2026-12-01T20:00:00-08:00",
+    "location": "Hohbach Hall, Room 118, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/game-nights-green-californias-water-crisis-2014",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "After the Thanksgiving Break, we will resume on Tuesday, December 1, with 2014's California Water Crisis, an educational game by Alfred Twu about California water politics. Based on extensive research on California water history, this board game allows you to play as one of Cali…",
+    "audience": "open_to_public"
   },
   {
     "id": "8eb3b903ff53c2cc",
@@ -2575,6 +2479,18 @@
     "also_sources": [
       "FSI"
     ]
+  },
+  {
+    "id": "4f156de4fa69bd84",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-12-02T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
   },
   {
     "id": "aec62f1b821661dc",
@@ -3223,6 +3139,18 @@
     "source_url": "https://statistics.stanford.edu/events/statistics-seminar",
     "description": "Youssef Marzouk, MIT. The Lecture Committee for 2026 presents the next two installments of the David O. Siegmund Lecture Series . These special events are named for Professor Emeritus Siegmund to honor his accomplished career in methodological and applied statistical research, a…",
     "audience": "unknown"
+  },
+  {
+    "id": "24cecb1e2089a0eb",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-12-03T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
   },
   {
     "id": "5c5e1a2770ed5130",
@@ -3981,6 +3909,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "82fabf00c483cf27",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-12-04T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
+  },
+  {
     "id": "26bb2d28f146edef",
     "title": "FriSem",
     "start": "2026-12-04T15:15:00-08:00",
@@ -4087,6 +4027,18 @@
     "source_url": "https://events.stanford.edu/",
     "description": "Ensemble OH? presents an evening concert in Dinkelspiel Auditorium featuring musical selections by Maurice Ravel, George Gershwin, Phillip Glass, and more. Admission Information Free admission.",
     "audience": "open_to_public"
+  },
+  {
+    "id": "64636cb47fbd5e03",
+    "title": "Jam Out with ArcoStrum",
+    "start": "2026-12-04T20:00:00-08:00",
+    "end": "2026-12-04T21:00:00-08:00",
+    "location": null,
+    "url": "https://live.stanford.edu/education-and-engagement/on-campus-and-in-the-community/2026-2027-season/jam-out-with-arcostrum/",
+    "source_name": "Stanford Live",
+    "source_url": "https://live.stanford.edu/events/calendar",
+    "description": "Take a study break with the dynamic violin and guitar duo ArcoStrum! Group members Strauss Shi and TY Zhang will lead a fun evening of storytelling and group music making.",
+    "audience": "unknown"
   },
   {
     "id": "290e5dbe1d5c857d",
@@ -4341,6 +4293,18 @@
     "audience": "unknown"
   },
   {
+    "id": "42ca08f7feb80bc6",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-12-05T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
+  },
+  {
     "id": "59d9cc22cb92ece7",
     "title": "Public Tour | A Closer Look",
     "start": "2026-12-05T15:00:00-08:00",
@@ -4581,6 +4545,18 @@
     "audience": "stanford_only"
   },
   {
+    "id": "4ddb3b4428b82022",
+    "title": "Cardinal Kids Day At Men's Basketball",
+    "start": "2026-12-06T13:00:00-08:00",
+    "end": null,
+    "location": "Maples Pavilion, 655 Campus Drive, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/cardinal-kids-day-at-mens-basketball",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "The kids are taking over Maples Pavilion! Secure two (2) free youth tickets with a paid adult, and enjoy kid-friendly activations throughout the game. Arrive early to snag a free Stanford branded fidget toy while supplies last, and stay after for autographs with the Cardinal!",
+    "audience": "open_to_public"
+  },
+  {
     "id": "db18171abd9d23e8",
     "title": "Public Tour | A Closer Look",
     "start": "2026-12-06T13:00:00-08:00",
@@ -4627,6 +4603,18 @@
     "source_url": "https://live.stanford.edu/events/calendar",
     "description": null,
     "audience": "unknown"
+  },
+  {
+    "id": "e8e56e1ab0226c21",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-12-06T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
   },
   {
     "id": "14ec8b9079a0e6b2",
@@ -4923,6 +4911,18 @@
     "audience": "stanford_only"
   },
   {
+    "id": "ebddb2aad2eb2f89",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-12-07T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
+  },
+  {
     "id": "bd8f2bd03543a27e",
     "title": "Biology Seminar Series - Suliana Manley \"Compartmentalizing and connecting the mitochondrial collective\"",
     "start": "2026-12-07T16:00:00-08:00",
@@ -5181,6 +5181,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "a7c0717971e4a674",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-12-08T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
+  },
+  {
     "id": "a4899ca012293213",
     "title": "eWEAR Seminar: AI-XR Co-Scientist",
     "start": "2026-12-08T15:00:00-08:00",
@@ -5241,6 +5253,18 @@
     "audience": "unknown"
   },
   {
+    "id": "1f2193a2efeb8e8b",
+    "title": "Game Nights @ Green: Timescape: Charles Dickens' Dilemma (2026)",
+    "start": "2026-12-08T17:00:00-08:00",
+    "end": "2026-12-08T20:00:00-08:00",
+    "location": "Hohbach Hall, Room 118, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/game-nights-green-timescape-charles-dickens-dilemma-2026",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "In honor of the Dickens Fair that takes place each year in the Bay Area, this week will feature the escape puzzle game Timescape: Charles Dickens' Dilemma (2026), in which players travel back in time to Victorian-era London in order to prevent a mysterious Time Rogue from destro…",
+    "audience": "open_to_public"
+  },
+  {
     "id": "c90cb37ea546f47b",
     "title": "Alcoholics Anonymous Tuesday Meeting",
     "start": "2026-12-08T17:30:00-08:00",
@@ -5265,8 +5289,8 @@
     "audience": "open_to_public"
   },
   {
-    "id": "6b13a5a0208a1b4d",
-    "title": "2026 Fall MFA Documentary Film Screening",
+    "id": "4e43a2ea88d5fed4",
+    "title": "2026 Fall MFA Documentary Film Screening: YOU CAN SEE SOMETHING",
     "start": "2026-12-08T18:00:00-08:00",
     "end": null,
     "location": "McMurtry Building, Room Oshman Hall, 355 Roth Way, Stanford, CA 94305",
@@ -5469,6 +5493,18 @@
     "audience": "unknown"
   },
   {
+    "id": "9518e40bec575667",
+    "title": "GSE Colloquium Series in Social Sciences/Humanities of Education in a Rapidly Changing World - Sonia Pavel",
+    "start": "2026-12-09T12:00:00-08:00",
+    "end": "2026-12-09T13:00:00-08:00",
+    "location": "ANKO Auditorium (109)",
+    "url": "https://ed.stanford.edu/events/gse-colloquium-series-social-scienceshumanities-education-rapidly-changing-world-sonia-pavel",
+    "source_name": "Stanford GSE",
+    "source_url": "https://ed.stanford.edu/events",
+    "description": "A Systematic Political Philosophy of Education From Plato to Rousseau to Dewey, education once played a central role in political theorizing. That is no longer the case. Philosophy of education and political philosophy have become unmoored. I argue that this is not only historic…",
+    "audience": "stanford_only"
+  },
+  {
     "id": "7c473546c9a9d8ca",
     "title": "HAI Seminar with Angèle Christin in Conversation with Hannah Zeavin",
     "start": "2026-12-09T12:00:00-08:00",
@@ -5527,6 +5563,18 @@
     "source_url": "https://www.hoover.org/events",
     "description": "The Hoover Institution invites you to attend The World Trading System: A View from the WTO with Robert Staiger on Wednesday, December 9, 2026 from 1:30-3:00 pm PT in the Shultz Auditorium, George P. Shultz Building.",
     "audience": "unknown"
+  },
+  {
+    "id": "8a84ffb742700230",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-12-09T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
   },
   {
     "id": "13d573fed81037a9",
@@ -5841,6 +5889,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "2184dd3df3b186f8",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-12-10T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
+  },
+  {
     "id": "61876e2fbf39412d",
     "title": "Public or Private School: Choosing the Best Elementary School for Your Child - December 2026",
     "start": "2026-12-10T16:00:00-08:00",
@@ -5897,7 +5957,7 @@
     "start": "2026-12-10T19:00:00-08:00",
     "end": null,
     "location": null,
-    "url": "https://www6.slac.stanford.edu/index%2Ephp/events/2026-12-10-over-sky-under-ground-down-beamline-pursuit-wimp-dark-matter",
+    "url": "https://www6.slac.stanford.edu/events/2026-12-10-over-sky-under-ground-down-beamline-pursuit-wimp-dark-matter",
     "source_name": "SLAC",
     "source_url": "https://www6.slac.stanford.edu/news-and-events/events/public-lectures",
     "description": null,
@@ -6252,6 +6312,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "05e0655804f376da",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-12-11T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
+  },
+  {
     "id": "32bc5ded258b40f2",
     "title": "Growing Up In Science @ Stanford",
     "start": "2026-12-11T15:00:00-08:00",
@@ -6486,6 +6558,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "2a66f6088dcb1335",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-12-12T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
+  },
+  {
     "id": "2dd7571969e1de72",
     "title": "Public Tour | A Closer Look",
     "start": "2026-12-12T15:00:00-08:00",
@@ -6678,6 +6762,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "9e055ef21b77315a",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-12-13T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
+  },
+  {
     "id": "30cc849c02130808",
     "title": "Public Tour | A Closer Look",
     "start": "2026-12-13T15:00:00-08:00",
@@ -6832,6 +6928,18 @@
     "source_url": "https://events.stanford.edu/",
     "description": "Electric Contrasts: The Art of the Detail brings together photobooks and magazines to show how the revolution of photography in the late 19th and early 20th century changed the history of art. Electric Contrasts takes Kenneth Clark’s landmark 1938 book One Hundred Details from P…",
     "audience": "open_to_public"
+  },
+  {
+    "id": "62b601a8023e6c8d",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-12-14T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
   },
   {
     "id": "3e95fe8bfff18a46",
@@ -7017,6 +7125,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "995124e8907b2ff9",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-12-15T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
+  },
+  {
     "id": "761529044473eeda",
     "title": "D.C. Film Screening: The Barbie Tapes",
     "start": "2026-12-15T17:00:00-08:00",
@@ -7173,6 +7293,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "0031728a25f60cf0",
+    "title": "Mental Health Technology + Innovation Hubinar: Q&A with Psychiatry Grand Rounds speaker, Kimberly Van Orden, PhD",
+    "start": "2026-12-16T12:00:00-08:00",
+    "end": "2026-12-16T13:00:00-08:00",
+    "location": null,
+    "url": "https://events.stanford.edu/event/vanorden",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "The Tech Hub is delighted to welcome Stanford Psychiatry Grand Rounds speaker, Dr. Kimberly Van Orden , PhD, of University of Rochester Medicine to join us for an informal Q&A session on December 16th, 12-1pm PT. This discussion will expand upon themes covered in her Grand Round…",
+    "audience": "open_to_public"
+  },
+  {
     "id": "da93b58fb7fed525",
     "title": "Winter 26-27 Canvas Overview Sessions",
     "start": "2026-12-16T12:00:00-08:00",
@@ -7219,6 +7351,18 @@
     "source_url": "https://events.stanford.edu/",
     "description": "In 2026 the David Rumsey Map Center celebrates its tenth year—a moment to reflect on how the Center has added value to scholarship on campus and around the world. Our collections are vast and not bounded by geography, spanning the 15th century to the present. Yet over the last d…",
     "audience": "open_to_public"
+  },
+  {
+    "id": "05ed503481f287ec",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-12-16T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
   },
   {
     "id": "9fed7bcf7a591d59",
@@ -7413,6 +7557,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "19927d7b1099fee5",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-12-17T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
+  },
+  {
     "id": "f44910c01744397e",
     "title": "Branner Library Book & Map Exhibit - Water in the West",
     "start": "2026-12-18T00:00:00-08:00",
@@ -7581,6 +7737,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "b98df43f871620ee",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-12-18T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
+  },
+  {
     "id": "ac7d787359067c55",
     "title": "All Recovery Meeting",
     "start": "2026-12-18T17:00:00-08:00",
@@ -7735,6 +7903,18 @@
     "source_url": "https://events.stanford.edu/",
     "description": "Join us for casual in-gallery conversations in our special exhibition, JANE!, facilitated by our Museum Engagement Guides. Enjoy a spotlight tour focusining on a single object, followed by an open conversation. Curated by Associate Curator of European Art, Patrick R. Crowley, JA…",
     "audience": "open_to_public"
+  },
+  {
+    "id": "61f559c4a4dd49f4",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-12-19T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
   },
   {
     "id": "b3a55f66c597fe38",
@@ -7905,6 +8085,18 @@
     "audience": "open_to_public"
   },
   {
+    "id": "8062a5753de29e0d",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-12-20T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
+  },
+  {
     "id": "50cc987c2cbc3bdb",
     "title": "Public Tour | A Closer Look",
     "start": "2026-12-20T15:00:00-08:00",
@@ -8023,6 +8215,18 @@
     "source_url": "https://events.stanford.edu/",
     "description": "Event Details: In surfacing, Patty Chang engages the ocean as a physical, geopolitical, and symbolic space, inviting you to consider the work of collection and recollection. Chang’s multimedia sculptural practice brings together archaeological remains from Point Alones Chinese F…",
     "audience": "open_to_public"
+  },
+  {
+    "id": "643fc1a303301295",
+    "title": "Green Library Book Display: Family Sagas",
+    "start": "2026-12-21T15:00:00-08:00",
+    "end": null,
+    "location": "Hohbach Hall, 557 Escondido Mall, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/green-library-book-display-family-sagas",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Green Library's latest book display features books and stories about family sagas. All books are available to check out.",
+    "audience": "stanford_only"
   },
   {
     "id": "002afcba82a6892d",
@@ -8191,5 +8395,89 @@
     "source_url": "https://events.stanford.edu/",
     "description": "Join us at Stanford Memorial Church for an elegant Christmas Eve Ecumenical Christian service filled with candlelight and beautiful holiday music. All are welcome! The service will feature the Latter-day Saint Student Association at Stanford University and the Interfaith Choir o…",
     "audience": "open_to_public"
+  },
+  {
+    "id": "6d4314229c1bb098",
+    "title": "Christmas (Christian)",
+    "start": "2026-12-25T00:00:00-08:00",
+    "end": "2026-12-25T23:59:59-08:00",
+    "location": null,
+    "url": "https://law.stanford.edu/event/christmas/",
+    "source_name": "Stanford Law",
+    "source_url": "https://law.stanford.edu/events/",
+    "description": "Stanford has long supported faculty, students, and staff in observing religious holidays of significance to them. In the complex process of creating the academic calendar, religious holy days are but one of many considerations. The Office for Religious Life makes available to fa…",
+    "audience": "unknown"
+  },
+  {
+    "id": "cc396613b239f103",
+    "title": "Solid Pictures: Photosculpture and the Making of Modern Likeness",
+    "start": "2026-12-25T00:00:00-08:00",
+    "end": null,
+    "location": "Cantor Arts Center, Room Pigott Family Gallery, 328 Lomita Drive, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/solid-pictures-photosculpture-and-the-making-of-modern-likeness",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Before 3D printing, there was photosculpture. Curated by Patrick R. Crowley, Associate Curator of European Art, Solid Pictures is the first major exhibition to explore these largely overlooked objects first conceived in 1859 by the twenty-nine-year-old French artist and inventor…",
+    "audience": "unknown"
+  },
+  {
+    "id": "aedba087794f6b91",
+    "title": "Winter Closure",
+    "start": "2026-12-25T00:00:00-08:00",
+    "end": null,
+    "location": null,
+    "url": "https://events.stanford.edu/event/winter-closure-1137",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "The university is closed for winter closure.",
+    "audience": "unknown"
+  },
+  {
+    "id": "badee06d4111989d",
+    "title": "Winter Closure; University closed",
+    "start": "2026-12-25T00:00:00-08:00",
+    "end": null,
+    "location": null,
+    "url": "https://events.stanford.edu/event/winter-closure-university-closed",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": null,
+    "audience": "open_to_public"
+  },
+  {
+    "id": "de866aeaea62c7f4",
+    "title": "Winter Holiday",
+    "start": "2026-12-25T00:00:00-08:00",
+    "end": null,
+    "location": null,
+    "url": "https://events.stanford.edu/event/copy-of-winter-holidays",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "The university is closed to recognize an official holiday on this date",
+    "audience": "stanford_only"
+  },
+  {
+    "id": "60a87b0bb01b8823",
+    "title": "Gallery Conversations | JANE!",
+    "start": "2026-12-25T14:00:00-08:00",
+    "end": "2026-12-25T15:00:00-08:00",
+    "location": "Cantor Arts Center, Room Stanford Family Room (122), 328 Lomita Drive, Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/copy-of-gallery-conversations-jeremy-frey-woven-8444",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Join us for casual in-gallery conversations in our special exhibition, JANE!, facilitated by our Museum Engagement Guides. Enjoy a spotlight tour focusining on a single object, followed by an open conversation. Curated by Associate Curator of European Art, Patrick R. Crowley, JA…",
+    "audience": "open_to_public"
+  },
+  {
+    "id": "43ceca8e9e6d2be1",
+    "title": "All Recovery Meeting",
+    "start": "2026-12-25T17:00:00-08:00",
+    "end": "2026-12-25T18:00:00-08:00",
+    "location": "The Well House, Room Computer Cluster, downstairs, 562 Mayfield Ave Stanford, CA 94305",
+    "url": "https://events.stanford.edu/event/all-recovery-meeting-2342",
+    "source_name": "Stanford Events (Localist)",
+    "source_url": "https://events.stanford.edu/",
+    "description": "Weekly All Recovery Meeting at The Well House",
+    "audience": "stanford_only"
   }
 ]
